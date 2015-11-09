@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block content %}
+    <div id="singlecar">
+        <p>Name: {{ car }}</p>
+        <p>Locality: {{ car.get_locality_display }}</p>
+        <p>Make: <a href="/makes/{{ car.make.slug }}/">{{ car.make }}</a></p>
+    </div>
+{% endblock %}

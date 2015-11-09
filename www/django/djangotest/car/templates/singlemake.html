@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block content %}
+    <div id="carslist">
+        <h2>Cars from {{ cars.0.make }}</h2>
+        {% for c in cars %}
+        <p><a href="/cars/{{ c.slug }}/">{{ c }}</a></p>
+        {% endfor %}
+    </div>
+{% endblock %}

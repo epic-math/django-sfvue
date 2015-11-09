@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block content %}
+    <div id="carslist">
+        {% for car in cars %}
+        <p><a href="/cars/{{ car.slug }}"><img src="{{ car.image1.url }}" />{{ car }}</a></p>
+        {% endfor %}
+    </div>
+{% endblock %}
