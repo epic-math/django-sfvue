@@ -1,0 +1,19 @@
+body {
+    background-attachment: fixed;
+    background-color: #000000;
+    background-image: url(/static/images/bg.jpg);
+    background-position:center top; 
+    background-repeat: no-respect;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+}
+
+#pageContainer {
+    background: url(/static/images/ct.jpg) repeat-y scroll center top #000000;
+    margin: 0 auto;
+    position: relative;
+    width: 500px;
+    min-height: 600px;
+}
+

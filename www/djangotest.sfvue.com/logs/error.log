@@ -1,0 +1,733 @@
+[Fri Jun 19 08:47:18.952775 2015] [authz_core:error] [pid 21879] [client 104.193.9.236:57099] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sun Jun 21 10:08:43.682848 2015] [authz_core:error] [pid 14006] [client 104.193.9.236:33040] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Mon Jun 22 04:03:06.503314 2015] [authz_core:error] [pid 13675] [client 185.62.188.97:34089] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sun Jun 21 21:03:06.834088 2015] [authz_core:error] [pid 13695] [client 185.62.188.97:34490] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Mon Jun 22 04:03:15.707262 2015] [authz_core:error] [pid 14006] [client 185.62.188.97:44430] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Fri Jun 26 14:18:57.084112 2015] [authz_core:error] [pid 14731] [client 104.193.9.236:59248] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sat Jun 27 06:44:42.914584 2015] [cgi:error] [pid 15427] [client 94.102.49.169:46898] script not found or unable to stat: /var/www/cgi-bin/rtpd.cgi
+[Sat Jun 27 10:12:45.956342 2015] [:error] [pid 17161] [client 108.239.135.40:55694] mod_wsgi (pid=17161): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module., referer: http://djangotest.sfvue.com/admin/car/car/1/
+[Sat Jun 27 10:12:45.956395 2015] [:error] [pid 17161] [client 108.239.135.40:55694] mod_wsgi (pid=17161): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'., referer: http://djangotest.sfvue.com/admin/car/car/1/
+[Sat Jun 27 10:12:45.956458 2015] [:error] [pid 17161] [client 108.239.135.40:55694] Traceback (most recent call last):, referer: http://djangotest.sfvue.com/admin/car/car/1/
+[Sat Jun 27 10:12:45.956493 2015] [:error] [pid 17161] [client 108.239.135.40:55694]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>, referer: http://djangotest.sfvue.com/admin/car/car/1/
+[Sat Jun 27 10:12:45.956584 2015] [:error] [pid 17161] [client 108.239.135.40:55694]     application = get_wsgi_application(), referer: http://djangotest.sfvue.com/admin/car/car/1/
+[Sat Jun 27 10:12:45.956603 2015] [:error] [pid 17161] [client 108.239.135.40:55694]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application, referer: http://djangotest.sfvue.com/admin/car/car/1/
+[Sat Jun 27 10:12:45.961271 2015] [:error] [pid 17161] [client 108.239.135.40:55694]     django.setup(), referer: http://djangotest.sfvue.com/admin/car/car/1/
+[Sat Jun 27 10:12:45.961299 2015] [:error] [pid 17161] [client 108.239.135.40:55694]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 17, in setup, referer: http://djangotest.sfvue.com/admin/car/car/1/
+[Sat Jun 27 10:12:45.961360 2015] [:error] [pid 17161] [client 108.239.135.40:55694]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING), referer: http://djangotest.sfvue.com/admin/car/car/1/
+[Sat Jun 27 10:12:45.961383 2015] [:error] [pid 17161] [client 108.239.135.40:55694]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 48, in __getattr__, referer: http://djangotest.sfvue.com/admin/car/car/1/
+[Sat Jun 27 10:12:45.964023 2015] [:error] [pid 17161] [client 108.239.135.40:55694]     self._setup(name), referer: http://djangotest.sfvue.com/admin/car/car/1/
+[Sat Jun 27 10:12:45.964045 2015] [:error] [pid 17161] [client 108.239.135.40:55694]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 44, in _setup, referer: http://djangotest.sfvue.com/admin/car/car/1/
+[Sat Jun 27 10:12:45.964071 2015] [:error] [pid 17161] [client 108.239.135.40:55694]     self._wrapped = Settings(settings_module), referer: http://djangotest.sfvue.com/admin/car/car/1/
+[Sat Jun 27 10:12:45.964086 2015] [:error] [pid 17161] [client 108.239.135.40:55694]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 108, in __init__, referer: http://djangotest.sfvue.com/admin/car/car/1/
+[Sat Jun 27 10:12:45.964116 2015] [:error] [pid 17161] [client 108.239.135.40:55694]     "Please fix your settings." % setting), referer: http://djangotest.sfvue.com/admin/car/car/1/
+[Sat Jun 27 10:12:45.964141 2015] [:error] [pid 17161] [client 108.239.135.40:55694] ImproperlyConfigured: The TEMPLATE_DIRS setting must be a tuple. Please fix your settings., referer: http://djangotest.sfvue.com/admin/car/car/1/
+[Sat Jun 27 10:13:00.018947 2015] [:error] [pid 17163] [client 108.239.135.40:55701] mod_wsgi (pid=17163): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module.
+[Sat Jun 27 10:13:00.018999 2015] [:error] [pid 17163] [client 108.239.135.40:55701] mod_wsgi (pid=17163): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Sat Jun 27 10:13:00.019032 2015] [:error] [pid 17163] [client 108.239.135.40:55701] Traceback (most recent call last):
+[Sat Jun 27 10:13:00.019061 2015] [:error] [pid 17163] [client 108.239.135.40:55701]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>
+[Sat Jun 27 10:13:00.019149 2015] [:error] [pid 17163] [client 108.239.135.40:55701]     application = get_wsgi_application()
+[Sat Jun 27 10:13:00.019168 2015] [:error] [pid 17163] [client 108.239.135.40:55701]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Jun 27 10:13:00.019245 2015] [:error] [pid 17163] [client 108.239.135.40:55701]     django.setup()
+[Sat Jun 27 10:13:00.019269 2015] [:error] [pid 17163] [client 108.239.135.40:55701]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 17, in setup
+[Sat Jun 27 10:13:00.019328 2015] [:error] [pid 17163] [client 108.239.135.40:55701]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+[Sat Jun 27 10:13:00.019352 2015] [:error] [pid 17163] [client 108.239.135.40:55701]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 48, in __getattr__
+[Sat Jun 27 10:13:00.019457 2015] [:error] [pid 17163] [client 108.239.135.40:55701]     self._setup(name)
+[Sat Jun 27 10:13:00.019475 2015] [:error] [pid 17163] [client 108.239.135.40:55701]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 44, in _setup
+[Sat Jun 27 10:13:00.019500 2015] [:error] [pid 17163] [client 108.239.135.40:55701]     self._wrapped = Settings(settings_module)
+[Sat Jun 27 10:13:00.019514 2015] [:error] [pid 17163] [client 108.239.135.40:55701]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 108, in __init__
+[Sat Jun 27 10:13:00.019534 2015] [:error] [pid 17163] [client 108.239.135.40:55701]     "Please fix your settings." % setting)
+[Sat Jun 27 10:13:00.019557 2015] [:error] [pid 17163] [client 108.239.135.40:55701] ImproperlyConfigured: The TEMPLATE_DIRS setting must be a tuple. Please fix your settings.
+[Sat Jun 27 10:13:04.397367 2015] [:error] [pid 17164] [client 108.239.135.40:55702] mod_wsgi (pid=17164): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module.
+[Sat Jun 27 10:13:04.397417 2015] [:error] [pid 17164] [client 108.239.135.40:55702] mod_wsgi (pid=17164): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Sat Jun 27 10:13:04.397451 2015] [:error] [pid 17164] [client 108.239.135.40:55702] Traceback (most recent call last):
+[Sat Jun 27 10:13:04.397480 2015] [:error] [pid 17164] [client 108.239.135.40:55702]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>
+[Sat Jun 27 10:13:04.397571 2015] [:error] [pid 17164] [client 108.239.135.40:55702]     application = get_wsgi_application()
+[Sat Jun 27 10:13:04.397598 2015] [:error] [pid 17164] [client 108.239.135.40:55702]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Jun 27 10:13:04.397684 2015] [:error] [pid 17164] [client 108.239.135.40:55702]     django.setup()
+[Sat Jun 27 10:13:04.397717 2015] [:error] [pid 17164] [client 108.239.135.40:55702]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 17, in setup
+[Sat Jun 27 10:13:04.397830 2015] [:error] [pid 17164] [client 108.239.135.40:55702]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+[Sat Jun 27 10:13:04.397867 2015] [:error] [pid 17164] [client 108.239.135.40:55702]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 48, in __getattr__
+[Sat Jun 27 10:13:04.398007 2015] [:error] [pid 17164] [client 108.239.135.40:55702]     self._setup(name)
+[Sat Jun 27 10:13:04.398032 2015] [:error] [pid 17164] [client 108.239.135.40:55702]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 44, in _setup
+[Sat Jun 27 10:13:04.398069 2015] [:error] [pid 17164] [client 108.239.135.40:55702]     self._wrapped = Settings(settings_module)
+[Sat Jun 27 10:13:04.398095 2015] [:error] [pid 17164] [client 108.239.135.40:55702]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 108, in __init__
+[Sat Jun 27 10:13:04.398129 2015] [:error] [pid 17164] [client 108.239.135.40:55702]     "Please fix your settings." % setting)
+[Sat Jun 27 10:13:04.398163 2015] [:error] [pid 17164] [client 108.239.135.40:55702] ImproperlyConfigured: The TEMPLATE_DIRS setting must be a tuple. Please fix your settings.
+[Sat Jun 27 10:51:07.551656 2015] [:error] [pid 17308] [client 108.239.135.40:56553] mod_wsgi (pid=17308): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module.
+[Sat Jun 27 10:51:07.551730 2015] [:error] [pid 17308] [client 108.239.135.40:56553] mod_wsgi (pid=17308): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Sat Jun 27 10:51:07.551781 2015] [:error] [pid 17308] [client 108.239.135.40:56553] Traceback (most recent call last):
+[Sat Jun 27 10:51:07.551824 2015] [:error] [pid 17308] [client 108.239.135.40:56553]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>
+[Sat Jun 27 10:51:07.551925 2015] [:error] [pid 17308] [client 108.239.135.40:56553]     application = get_wsgi_application()
+[Sat Jun 27 10:51:07.551945 2015] [:error] [pid 17308] [client 108.239.135.40:56553]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Jun 27 10:51:07.552002 2015] [:error] [pid 17308] [client 108.239.135.40:56553]     django.setup()
+[Sat Jun 27 10:51:07.552031 2015] [:error] [pid 17308] [client 108.239.135.40:56553]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 17, in setup
+[Sat Jun 27 10:51:07.552091 2015] [:error] [pid 17308] [client 108.239.135.40:56553]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+[Sat Jun 27 10:51:07.552114 2015] [:error] [pid 17308] [client 108.239.135.40:56553]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 48, in __getattr__
+[Sat Jun 27 10:51:07.552196 2015] [:error] [pid 17308] [client 108.239.135.40:56553]     self._setup(name)
+[Sat Jun 27 10:51:07.552213 2015] [:error] [pid 17308] [client 108.239.135.40:56553]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 44, in _setup
+[Sat Jun 27 10:51:07.552237 2015] [:error] [pid 17308] [client 108.239.135.40:56553]     self._wrapped = Settings(settings_module)
+[Sat Jun 27 10:51:07.552252 2015] [:error] [pid 17308] [client 108.239.135.40:56553]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 108, in __init__
+[Sat Jun 27 10:51:07.552272 2015] [:error] [pid 17308] [client 108.239.135.40:56553]     "Please fix your settings." % setting)
+[Sat Jun 27 10:51:07.552295 2015] [:error] [pid 17308] [client 108.239.135.40:56553] ImproperlyConfigured: The TEMPLATE_DIRS setting must be a tuple. Please fix your settings.
+[Sat Jun 27 10:51:11.273627 2015] [:error] [pid 17309] [client 108.239.135.40:56554] mod_wsgi (pid=17309): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module.
+[Sat Jun 27 10:51:11.273676 2015] [:error] [pid 17309] [client 108.239.135.40:56554] mod_wsgi (pid=17309): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Sat Jun 27 10:51:11.273723 2015] [:error] [pid 17309] [client 108.239.135.40:56554] Traceback (most recent call last):
+[Sat Jun 27 10:51:11.273757 2015] [:error] [pid 17309] [client 108.239.135.40:56554]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>
+[Sat Jun 27 10:51:11.273849 2015] [:error] [pid 17309] [client 108.239.135.40:56554]     application = get_wsgi_application()
+[Sat Jun 27 10:51:11.273868 2015] [:error] [pid 17309] [client 108.239.135.40:56554]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Jun 27 10:51:11.273926 2015] [:error] [pid 17309] [client 108.239.135.40:56554]     django.setup()
+[Sat Jun 27 10:51:11.273949 2015] [:error] [pid 17309] [client 108.239.135.40:56554]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 17, in setup
+[Sat Jun 27 10:51:11.274005 2015] [:error] [pid 17309] [client 108.239.135.40:56554]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+[Sat Jun 27 10:51:11.274027 2015] [:error] [pid 17309] [client 108.239.135.40:56554]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 48, in __getattr__
+[Sat Jun 27 10:51:11.274121 2015] [:error] [pid 17309] [client 108.239.135.40:56554]     self._setup(name)
+[Sat Jun 27 10:51:11.274139 2015] [:error] [pid 17309] [client 108.239.135.40:56554]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 44, in _setup
+[Sat Jun 27 10:51:11.274163 2015] [:error] [pid 17309] [client 108.239.135.40:56554]     self._wrapped = Settings(settings_module)
+[Sat Jun 27 10:51:11.274177 2015] [:error] [pid 17309] [client 108.239.135.40:56554]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 108, in __init__
+[Sat Jun 27 10:51:11.274196 2015] [:error] [pid 17309] [client 108.239.135.40:56554]     "Please fix your settings." % setting)
+[Sat Jun 27 10:51:11.274220 2015] [:error] [pid 17309] [client 108.239.135.40:56554] ImproperlyConfigured: The TEMPLATE_DIRS setting must be a tuple. Please fix your settings.
+[Sat Jun 27 11:29:09.026486 2015] [:error] [pid 17308] [client 108.239.135.40:56872] mod_wsgi (pid=17308): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module.
+[Sat Jun 27 11:29:09.026540 2015] [:error] [pid 17308] [client 108.239.135.40:56872] mod_wsgi (pid=17308): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Sat Jun 27 11:29:09.026574 2015] [:error] [pid 17308] [client 108.239.135.40:56872] Traceback (most recent call last):
+[Sat Jun 27 11:29:09.026608 2015] [:error] [pid 17308] [client 108.239.135.40:56872]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>
+[Sat Jun 27 11:29:09.026657 2015] [:error] [pid 17308] [client 108.239.135.40:56872]     application = get_wsgi_application()
+[Sat Jun 27 11:29:09.026679 2015] [:error] [pid 17308] [client 108.239.135.40:56872]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Jun 27 11:29:09.026713 2015] [:error] [pid 17308] [client 108.239.135.40:56872]     django.setup()
+[Sat Jun 27 11:29:09.026732 2015] [:error] [pid 17308] [client 108.239.135.40:56872]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 17, in setup
+[Sat Jun 27 11:29:09.026762 2015] [:error] [pid 17308] [client 108.239.135.40:56872]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+[Sat Jun 27 11:29:09.026782 2015] [:error] [pid 17308] [client 108.239.135.40:56872]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 48, in __getattr__
+[Sat Jun 27 11:29:09.026812 2015] [:error] [pid 17308] [client 108.239.135.40:56872]     self._setup(name)
+[Sat Jun 27 11:29:09.026831 2015] [:error] [pid 17308] [client 108.239.135.40:56872]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 44, in _setup
+[Sat Jun 27 11:29:09.026860 2015] [:error] [pid 17308] [client 108.239.135.40:56872]     self._wrapped = Settings(settings_module)
+[Sat Jun 27 11:29:09.026891 2015] [:error] [pid 17308] [client 108.239.135.40:56872]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 108, in __init__
+[Sat Jun 27 11:29:09.026921 2015] [:error] [pid 17308] [client 108.239.135.40:56872]     "Please fix your settings." % setting)
+[Sat Jun 27 11:29:09.026954 2015] [:error] [pid 17308] [client 108.239.135.40:56872] ImproperlyConfigured: The TEMPLATE_DIRS setting must be a tuple. Please fix your settings.
+[Mon Jun 29 07:19:00.025751 2015] [cgi:error] [pid 29974] [client 69.64.46.86:65535] script not found or unable to stat: /var/www/cgi-bin/rtpd.cgi
+[Wed Jul 01 05:36:43.524510 2015] [authz_core:error] [pid 9687] [client 104.193.9.236:45554] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Wed Jul 01 14:56:23.678072 2015] [:error] [pid 12898] [client 54.193.85.235:52891] mod_wsgi (pid=12898): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module.
+[Wed Jul 01 14:56:23.678129 2015] [:error] [pid 12898] [client 54.193.85.235:52891] mod_wsgi (pid=12898): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Wed Jul 01 14:56:23.678166 2015] [:error] [pid 12898] [client 54.193.85.235:52891] Traceback (most recent call last):
+[Wed Jul 01 14:56:23.678196 2015] [:error] [pid 12898] [client 54.193.85.235:52891]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>
+[Wed Jul 01 14:56:23.678278 2015] [:error] [pid 12898] [client 54.193.85.235:52891]     application = get_wsgi_application()
+[Wed Jul 01 14:56:23.678297 2015] [:error] [pid 12898] [client 54.193.85.235:52891]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Wed Jul 01 14:56:23.678354 2015] [:error] [pid 12898] [client 54.193.85.235:52891]     django.setup()
+[Wed Jul 01 14:56:23.678377 2015] [:error] [pid 12898] [client 54.193.85.235:52891]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 18, in setup
+[Wed Jul 01 14:56:23.678433 2015] [:error] [pid 12898] [client 54.193.85.235:52891]     apps.populate(settings.INSTALLED_APPS)
+[Wed Jul 01 14:56:23.678451 2015] [:error] [pid 12898] [client 54.193.85.235:52891]   File "/usr/lib64/python2.7/site-packages/django/apps/registry.py", line 115, in populate
+[Wed Jul 01 14:56:23.680978 2015] [:error] [pid 12898] [client 54.193.85.235:52891]     app_config.ready()
+[Wed Jul 01 14:56:23.681005 2015] [:error] [pid 12898] [client 54.193.85.235:52891]   File "/usr/lib64/python2.7/site-packages/django/contrib/admin/apps.py", line 22, in ready
+[Wed Jul 01 14:56:23.682903 2015] [:error] [pid 12898] [client 54.193.85.235:52891]     self.module.autodiscover()
+[Wed Jul 01 14:56:23.682936 2015] [:error] [pid 12898] [client 54.193.85.235:52891]   File "/usr/lib64/python2.7/site-packages/django/contrib/admin/__init__.py", line 24, in autodiscover
+[Wed Jul 01 14:56:23.683170 2015] [:error] [pid 12898] [client 54.193.85.235:52891]     autodiscover_modules('admin', register_to=site)
+[Wed Jul 01 14:56:23.683191 2015] [:error] [pid 12898] [client 54.193.85.235:52891]   File "/usr/lib64/python2.7/site-packages/django/utils/module_loading.py", line 74, in autodiscover_modules
+[Wed Jul 01 14:56:23.687378 2015] [:error] [pid 12898] [client 54.193.85.235:52891]     import_module('%s.%s' % (app_config.name, module_to_search))
+[Wed Jul 01 14:56:23.687411 2015] [:error] [pid 12898] [client 54.193.85.235:52891]   File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+[Wed Jul 01 14:56:23.687482 2015] [:error] [pid 12898] [client 54.193.85.235:52891]     __import__(name)
+[Wed Jul 01 14:56:23.687564 2015] [:error] [pid 12898] [client 54.193.85.235:52891]   File "/srv/www/django/djangotest/pages/admin.py", line 6
+[Wed Jul 01 14:56:23.687577 2015] [:error] [pid 12898] [client 54.193.85.235:52891]     js = ('/static/js/tiny_mce/tiny_mce.js', '/static/js/tiny_mce/textareas.js'.)
+[Wed Jul 01 14:56:23.687599 2015] [:error] [pid 12898] [client 54.193.85.235:52891]                                                                                 ^
+[Wed Jul 01 14:56:23.687608 2015] [:error] [pid 12898] [client 54.193.85.235:52891] SyntaxError: invalid syntax
+[Wed Jul 01 14:56:24.159044 2015] [:error] [pid 12899] [client 54.193.85.235:52892] mod_wsgi (pid=12899): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module.
+[Wed Jul 01 14:56:24.159106 2015] [:error] [pid 12899] [client 54.193.85.235:52892] mod_wsgi (pid=12899): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Wed Jul 01 14:56:24.159160 2015] [:error] [pid 12899] [client 54.193.85.235:52892] Traceback (most recent call last):
+[Wed Jul 01 14:56:24.159207 2015] [:error] [pid 12899] [client 54.193.85.235:52892]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>
+[Wed Jul 01 14:56:24.159302 2015] [:error] [pid 12899] [client 54.193.85.235:52892]     application = get_wsgi_application()
+[Wed Jul 01 14:56:24.159329 2015] [:error] [pid 12899] [client 54.193.85.235:52892]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Wed Jul 01 14:56:24.159462 2015] [:error] [pid 12899] [client 54.193.85.235:52892]     django.setup()
+[Wed Jul 01 14:56:24.159488 2015] [:error] [pid 12899] [client 54.193.85.235:52892]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 18, in setup
+[Wed Jul 01 14:56:24.159549 2015] [:error] [pid 12899] [client 54.193.85.235:52892]     apps.populate(settings.INSTALLED_APPS)
+[Wed Jul 01 14:56:24.159575 2015] [:error] [pid 12899] [client 54.193.85.235:52892]   File "/usr/lib64/python2.7/site-packages/django/apps/registry.py", line 115, in populate
+[Wed Jul 01 14:56:24.159771 2015] [:error] [pid 12899] [client 54.193.85.235:52892]     app_config.ready()
+[Wed Jul 01 14:56:24.159800 2015] [:error] [pid 12899] [client 54.193.85.235:52892]   File "/usr/lib64/python2.7/site-packages/django/contrib/admin/apps.py", line 22, in ready
+[Wed Jul 01 14:56:24.159885 2015] [:error] [pid 12899] [client 54.193.85.235:52892]     self.module.autodiscover()
+[Wed Jul 01 14:56:24.159904 2015] [:error] [pid 12899] [client 54.193.85.235:52892]   File "/usr/lib64/python2.7/site-packages/django/contrib/admin/__init__.py", line 24, in autodiscover
+[Wed Jul 01 14:56:24.159973 2015] [:error] [pid 12899] [client 54.193.85.235:52892]     autodiscover_modules('admin', register_to=site)
+[Wed Jul 01 14:56:24.160000 2015] [:error] [pid 12899] [client 54.193.85.235:52892]   File "/usr/lib64/python2.7/site-packages/django/utils/module_loading.py", line 74, in autodiscover_modules
+[Wed Jul 01 14:56:24.160109 2015] [:error] [pid 12899] [client 54.193.85.235:52892]     import_module('%s.%s' % (app_config.name, module_to_search))
+[Wed Jul 01 14:56:24.160134 2015] [:error] [pid 12899] [client 54.193.85.235:52892]   File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+[Wed Jul 01 14:56:24.160211 2015] [:error] [pid 12899] [client 54.193.85.235:52892]     __import__(name)
+[Wed Jul 01 14:56:24.160272 2015] [:error] [pid 12899] [client 54.193.85.235:52892]   File "/srv/www/django/djangotest/pages/admin.py", line 6
+[Wed Jul 01 14:56:24.160285 2015] [:error] [pid 12899] [client 54.193.85.235:52892]     js = ('/static/js/tiny_mce/tiny_mce.js', '/static/js/tiny_mce/textareas.js'.)
+[Wed Jul 01 14:56:24.160293 2015] [:error] [pid 12899] [client 54.193.85.235:52892]                                                                                 ^
+[Wed Jul 01 14:56:24.160302 2015] [:error] [pid 12899] [client 54.193.85.235:52892] SyntaxError: invalid syntax
+[Wed Jul 01 14:56:36.885674 2015] [:error] [pid 12911] [client 54.193.85.235:52895] mod_wsgi (pid=12911): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module., referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.885724 2015] [:error] [pid 12911] [client 54.193.85.235:52895] mod_wsgi (pid=12911): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'., referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.885771 2015] [:error] [pid 12911] [client 54.193.85.235:52895] Traceback (most recent call last):, referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.885802 2015] [:error] [pid 12911] [client 54.193.85.235:52895]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>, referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.885897 2015] [:error] [pid 12911] [client 54.193.85.235:52895]     application = get_wsgi_application(), referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.885925 2015] [:error] [pid 12911] [client 54.193.85.235:52895]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application, referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.885993 2015] [:error] [pid 12911] [client 54.193.85.235:52895]     django.setup(), referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.886017 2015] [:error] [pid 12911] [client 54.193.85.235:52895]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 18, in setup, referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.886109 2015] [:error] [pid 12911] [client 54.193.85.235:52895]     apps.populate(settings.INSTALLED_APPS), referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.886129 2015] [:error] [pid 12911] [client 54.193.85.235:52895]   File "/usr/lib64/python2.7/site-packages/django/apps/registry.py", line 115, in populate, referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.886271 2015] [:error] [pid 12911] [client 54.193.85.235:52895]     app_config.ready(), referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.886290 2015] [:error] [pid 12911] [client 54.193.85.235:52895]   File "/usr/lib64/python2.7/site-packages/django/contrib/admin/apps.py", line 22, in ready, referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.886347 2015] [:error] [pid 12911] [client 54.193.85.235:52895]     self.module.autodiscover(), referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.886365 2015] [:error] [pid 12911] [client 54.193.85.235:52895]   File "/usr/lib64/python2.7/site-packages/django/contrib/admin/__init__.py", line 24, in autodiscover, referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.886422 2015] [:error] [pid 12911] [client 54.193.85.235:52895]     autodiscover_modules('admin', register_to=site), referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.886440 2015] [:error] [pid 12911] [client 54.193.85.235:52895]   File "/usr/lib64/python2.7/site-packages/django/utils/module_loading.py", line 74, in autodiscover_modules, referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.886529 2015] [:error] [pid 12911] [client 54.193.85.235:52895]     import_module('%s.%s' % (app_config.name, module_to_search)), referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.886547 2015] [:error] [pid 12911] [client 54.193.85.235:52895]   File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module, referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.886605 2015] [:error] [pid 12911] [client 54.193.85.235:52895]     __import__(name), referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.886663 2015] [:error] [pid 12911] [client 54.193.85.235:52895]   File "/srv/www/django/djangotest/pages/admin.py", line 6, referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.886675 2015] [:error] [pid 12911] [client 54.193.85.235:52895]     js = ('/static/js/tiny_mce/tiny_mce.js', '/static/js/tiny_mce/textareas.js'.), referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.886691 2015] [:error] [pid 12911] [client 54.193.85.235:52895]                                                                                 ^, referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:36.886700 2015] [:error] [pid 12911] [client 54.193.85.235:52895] SyntaxError: invalid syntax, referer: http://djangotest.sfvue.com/admin/pages/homepage/1/
+[Wed Jul 01 14:56:47.351168 2015] [:error] [pid 12899] [client 54.193.85.235:52896] mod_wsgi (pid=12899): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module.
+[Wed Jul 01 14:56:47.351313 2015] [:error] [pid 12899] [client 54.193.85.235:52896] mod_wsgi (pid=12899): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Wed Jul 01 14:56:47.351482 2015] [:error] [pid 12899] [client 54.193.85.235:52896] Traceback (most recent call last):
+[Wed Jul 01 14:56:47.351559 2015] [:error] [pid 12899] [client 54.193.85.235:52896]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>
+[Wed Jul 01 14:56:47.351617 2015] [:error] [pid 12899] [client 54.193.85.235:52896]     application = get_wsgi_application()
+[Wed Jul 01 14:56:47.351645 2015] [:error] [pid 12899] [client 54.193.85.235:52896]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Wed Jul 01 14:56:47.351689 2015] [:error] [pid 12899] [client 54.193.85.235:52896]     django.setup()
+[Wed Jul 01 14:56:47.351714 2015] [:error] [pid 12899] [client 54.193.85.235:52896]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 18, in setup
+[Wed Jul 01 14:56:47.351753 2015] [:error] [pid 12899] [client 54.193.85.235:52896]     apps.populate(settings.INSTALLED_APPS)
+[Wed Jul 01 14:56:47.351777 2015] [:error] [pid 12899] [client 54.193.85.235:52896]   File "/usr/lib64/python2.7/site-packages/django/apps/registry.py", line 78, in populate
+[Wed Jul 01 14:56:47.351814 2015] [:error] [pid 12899] [client 54.193.85.235:52896]     raise RuntimeError("populate() isn't reentrant")
+[Wed Jul 01 14:56:47.351853 2015] [:error] [pid 12899] [client 54.193.85.235:52896] RuntimeError: populate() isn't reentrant
+[Wed Jul 01 22:31:22.307130 2015] [authz_core:error] [pid 13008] [client 185.62.190.55:33083] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Wed Jul 01 22:31:22.636614 2015] [authz_core:error] [pid 13009] [client 185.62.190.55:33334] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Thu Jul 02 06:17:21.704601 2015] [authz_core:error] [pid 13066] [client 104.243.24.211:36418] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Thu Jul 02 13:35:48.359746 2015] [:error] [pid 26145] [client 64.71.28.178:54179] mod_wsgi (pid=26145): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module., referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:48.359802 2015] [:error] [pid 26145] [client 64.71.28.178:54179] mod_wsgi (pid=26145): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'., referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:48.359837 2015] [:error] [pid 26145] [client 64.71.28.178:54179] Traceback (most recent call last):, referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:48.359867 2015] [:error] [pid 26145] [client 64.71.28.178:54179]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>, referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:48.359956 2015] [:error] [pid 26145] [client 64.71.28.178:54179]     application = get_wsgi_application(), referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:48.359976 2015] [:error] [pid 26145] [client 64.71.28.178:54179]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application, referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:48.363524 2015] [:error] [pid 26145] [client 64.71.28.178:54179]     django.setup(), referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:48.363552 2015] [:error] [pid 26145] [client 64.71.28.178:54179]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 17, in setup, referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:48.367566 2015] [:error] [pid 26145] [client 64.71.28.178:54179]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING), referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:48.367604 2015] [:error] [pid 26145] [client 64.71.28.178:54179]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 48, in __getattr__, referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:48.369762 2015] [:error] [pid 26145] [client 64.71.28.178:54179]     self._setup(name), referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:48.369784 2015] [:error] [pid 26145] [client 64.71.28.178:54179]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 44, in _setup, referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:48.369823 2015] [:error] [pid 26145] [client 64.71.28.178:54179]     self._wrapped = Settings(settings_module), referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:48.369847 2015] [:error] [pid 26145] [client 64.71.28.178:54179]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 109, in __init__, referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:48.369882 2015] [:error] [pid 26145] [client 64.71.28.178:54179]     setattr(self, setting, setting_value), referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:48.369904 2015] [:error] [pid 26145] [client 64.71.28.178:54179]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 78, in __setattr__, referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:48.369939 2015] [:error] [pid 26145] [client 64.71.28.178:54179]     raise ImproperlyConfigured("If set, %s must end with a slash" % name), referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:48.369971 2015] [:error] [pid 26145] [client 64.71.28.178:54179] ImproperlyConfigured: If set, MEDIA_URL must end with a slash, referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:55.780504 2015] [:error] [pid 26146] [client 64.71.28.178:54180] mod_wsgi (pid=26146): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module., referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:55.780553 2015] [:error] [pid 26146] [client 64.71.28.178:54180] mod_wsgi (pid=26146): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'., referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:55.780587 2015] [:error] [pid 26146] [client 64.71.28.178:54180] Traceback (most recent call last):, referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:55.780616 2015] [:error] [pid 26146] [client 64.71.28.178:54180]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>, referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:55.780705 2015] [:error] [pid 26146] [client 64.71.28.178:54180]     application = get_wsgi_application(), referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:55.780725 2015] [:error] [pid 26146] [client 64.71.28.178:54180]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application, referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:55.780782 2015] [:error] [pid 26146] [client 64.71.28.178:54180]     django.setup(), referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:55.780806 2015] [:error] [pid 26146] [client 64.71.28.178:54180]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 17, in setup, referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:55.780875 2015] [:error] [pid 26146] [client 64.71.28.178:54180]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING), referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:55.780899 2015] [:error] [pid 26146] [client 64.71.28.178:54180]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 48, in __getattr__, referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:55.780982 2015] [:error] [pid 26146] [client 64.71.28.178:54180]     self._setup(name), referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:55.781000 2015] [:error] [pid 26146] [client 64.71.28.178:54180]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 44, in _setup, referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:55.781024 2015] [:error] [pid 26146] [client 64.71.28.178:54180]     self._wrapped = Settings(settings_module), referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:55.781038 2015] [:error] [pid 26146] [client 64.71.28.178:54180]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 109, in __init__, referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:55.781058 2015] [:error] [pid 26146] [client 64.71.28.178:54180]     setattr(self, setting, setting_value), referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:55.781072 2015] [:error] [pid 26146] [client 64.71.28.178:54180]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 78, in __setattr__, referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:55.781092 2015] [:error] [pid 26146] [client 64.71.28.178:54180]     raise ImproperlyConfigured("If set, %s must end with a slash" % name), referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 13:35:55.781114 2015] [:error] [pid 26146] [client 64.71.28.178:54180] ImproperlyConfigured: If set, MEDIA_URL must end with a slash, referer: http://djangotest.sfvue.com/admin/car/car/
+[Thu Jul 02 14:04:20.947391 2015] [:error] [pid 26749] [client 64.71.28.178:54357] mod_wsgi (pid=26749): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module., referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:20.947445 2015] [:error] [pid 26749] [client 64.71.28.178:54357] mod_wsgi (pid=26749): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'., referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:20.947481 2015] [:error] [pid 26749] [client 64.71.28.178:54357] Traceback (most recent call last):, referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:20.947512 2015] [:error] [pid 26749] [client 64.71.28.178:54357]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>, referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:20.947604 2015] [:error] [pid 26749] [client 64.71.28.178:54357]     application = get_wsgi_application(), referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:20.947625 2015] [:error] [pid 26749] [client 64.71.28.178:54357]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application, referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:20.947682 2015] [:error] [pid 26749] [client 64.71.28.178:54357]     django.setup(), referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:20.947706 2015] [:error] [pid 26749] [client 64.71.28.178:54357]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 17, in setup, referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:20.947763 2015] [:error] [pid 26749] [client 64.71.28.178:54357]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING), referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:20.947786 2015] [:error] [pid 26749] [client 64.71.28.178:54357]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 48, in __getattr__, referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:20.947881 2015] [:error] [pid 26749] [client 64.71.28.178:54357]     self._setup(name), referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:20.947899 2015] [:error] [pid 26749] [client 64.71.28.178:54357]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 44, in _setup, referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:20.947923 2015] [:error] [pid 26749] [client 64.71.28.178:54357]     self._wrapped = Settings(settings_module), referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:20.947938 2015] [:error] [pid 26749] [client 64.71.28.178:54357]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 109, in __init__, referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:20.947967 2015] [:error] [pid 26749] [client 64.71.28.178:54357]     setattr(self, setting, setting_value), referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:20.947982 2015] [:error] [pid 26749] [client 64.71.28.178:54357]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 78, in __setattr__, referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:20.948003 2015] [:error] [pid 26749] [client 64.71.28.178:54357]     raise ImproperlyConfigured("If set, %s must end with a slash" % name), referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:20.948026 2015] [:error] [pid 26749] [client 64.71.28.178:54357] ImproperlyConfigured: If set, MEDIA_URL must end with a slash, referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:30.742844 2015] [:error] [pid 26750] [client 64.71.28.178:54358] mod_wsgi (pid=26750): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module., referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:30.742894 2015] [:error] [pid 26750] [client 64.71.28.178:54358] mod_wsgi (pid=26750): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'., referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:30.742928 2015] [:error] [pid 26750] [client 64.71.28.178:54358] Traceback (most recent call last):, referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:30.742957 2015] [:error] [pid 26750] [client 64.71.28.178:54358]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>, referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:30.743047 2015] [:error] [pid 26750] [client 64.71.28.178:54358]     application = get_wsgi_application(), referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:30.743067 2015] [:error] [pid 26750] [client 64.71.28.178:54358]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application, referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:30.743123 2015] [:error] [pid 26750] [client 64.71.28.178:54358]     django.setup(), referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:30.743147 2015] [:error] [pid 26750] [client 64.71.28.178:54358]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 17, in setup, referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:30.743203 2015] [:error] [pid 26750] [client 64.71.28.178:54358]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING), referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:30.743226 2015] [:error] [pid 26750] [client 64.71.28.178:54358]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 48, in __getattr__, referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:30.743307 2015] [:error] [pid 26750] [client 64.71.28.178:54358]     self._setup(name), referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:30.743326 2015] [:error] [pid 26750] [client 64.71.28.178:54358]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 44, in _setup, referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:30.743361 2015] [:error] [pid 26750] [client 64.71.28.178:54358]     self._wrapped = Settings(settings_module), referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:30.743377 2015] [:error] [pid 26750] [client 64.71.28.178:54358]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 109, in __init__, referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:30.743397 2015] [:error] [pid 26750] [client 64.71.28.178:54358]     setattr(self, setting, setting_value), referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:30.743411 2015] [:error] [pid 26750] [client 64.71.28.178:54358]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 78, in __setattr__, referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:30.743431 2015] [:error] [pid 26750] [client 64.71.28.178:54358]     raise ImproperlyConfigured("If set, %s must end with a slash" % name), referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Thu Jul 02 14:04:30.743453 2015] [:error] [pid 26750] [client 64.71.28.178:54358] ImproperlyConfigured: If set, MEDIA_URL must end with a slash, referer: http://djangotest.sfvue.com/admin/car/car/6/
+[Fri Jul 03 02:20:38.706916 2015] [authz_core:error] [pid 29660] [client 195.3.144.125:55259] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Fri Jul 03 02:20:39.090965 2015] [authz_core:error] [pid 29636] [client 195.3.144.125:56053] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Fri Jul 03 16:56:45.157180 2015] [:error] [pid 7553] [client 108.239.135.40:60454] mod_wsgi (pid=7553): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module.
+[Fri Jul 03 16:56:45.157237 2015] [:error] [pid 7553] [client 108.239.135.40:60454] mod_wsgi (pid=7553): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Fri Jul 03 16:56:45.157272 2015] [:error] [pid 7553] [client 108.239.135.40:60454] Traceback (most recent call last):
+[Fri Jul 03 16:56:45.157302 2015] [:error] [pid 7553] [client 108.239.135.40:60454]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>
+[Fri Jul 03 16:56:45.157377 2015] [:error] [pid 7553] [client 108.239.135.40:60454]     application = get_wsgi_application()
+[Fri Jul 03 16:56:45.157397 2015] [:error] [pid 7553] [client 108.239.135.40:60454]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Fri Jul 03 16:56:45.157455 2015] [:error] [pid 7553] [client 108.239.135.40:60454]     django.setup()
+[Fri Jul 03 16:56:45.157478 2015] [:error] [pid 7553] [client 108.239.135.40:60454]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 18, in setup
+[Fri Jul 03 16:56:45.157535 2015] [:error] [pid 7553] [client 108.239.135.40:60454]     apps.populate(settings.INSTALLED_APPS)
+[Fri Jul 03 16:56:45.157553 2015] [:error] [pid 7553] [client 108.239.135.40:60454]   File "/usr/lib64/python2.7/site-packages/django/apps/registry.py", line 115, in populate
+[Fri Jul 03 16:56:45.159939 2015] [:error] [pid 7553] [client 108.239.135.40:60454]     app_config.ready()
+[Fri Jul 03 16:56:45.159961 2015] [:error] [pid 7553] [client 108.239.135.40:60454]   File "/usr/lib64/python2.7/site-packages/django/contrib/admin/apps.py", line 22, in ready
+[Fri Jul 03 16:56:45.160273 2015] [:error] [pid 7553] [client 108.239.135.40:60454]     self.module.autodiscover()
+[Fri Jul 03 16:56:45.160293 2015] [:error] [pid 7553] [client 108.239.135.40:60454]   File "/usr/lib64/python2.7/site-packages/django/contrib/admin/__init__.py", line 24, in autodiscover
+[Fri Jul 03 16:56:45.160542 2015] [:error] [pid 7553] [client 108.239.135.40:60454]     autodiscover_modules('admin', register_to=site)
+[Fri Jul 03 16:56:45.160568 2015] [:error] [pid 7553] [client 108.239.135.40:60454]   File "/usr/lib64/python2.7/site-packages/django/utils/module_loading.py", line 74, in autodiscover_modules
+[Fri Jul 03 16:56:45.162272 2015] [:error] [pid 7553] [client 108.239.135.40:60454]     import_module('%s.%s' % (app_config.name, module_to_search))
+[Fri Jul 03 16:56:45.162294 2015] [:error] [pid 7553] [client 108.239.135.40:60454]   File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+[Fri Jul 03 16:56:45.164118 2015] [:error] [pid 7553] [client 108.239.135.40:60454]     __import__(name)
+[Fri Jul 03 16:56:45.164139 2015] [:error] [pid 7553] [client 108.239.135.40:60454]   File "/srv/www/django/djangotest/driver/admin.py", line 2, in <module>
+[Fri Jul 03 16:56:45.164198 2015] [:error] [pid 7553] [client 108.239.135.40:60454]     from driver.models import driver
+[Fri Jul 03 16:56:45.164225 2015] [:error] [pid 7553] [client 108.239.135.40:60454] ImportError: cannot import name driver
+[Fri Jul 03 16:56:58.216126 2015] [:error] [pid 7554] [client 108.239.135.40:60455] mod_wsgi (pid=7554): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module.
+[Fri Jul 03 16:56:58.216176 2015] [:error] [pid 7554] [client 108.239.135.40:60455] mod_wsgi (pid=7554): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Fri Jul 03 16:56:58.216209 2015] [:error] [pid 7554] [client 108.239.135.40:60455] Traceback (most recent call last):
+[Fri Jul 03 16:56:58.216238 2015] [:error] [pid 7554] [client 108.239.135.40:60455]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>
+[Fri Jul 03 16:56:58.216312 2015] [:error] [pid 7554] [client 108.239.135.40:60455]     application = get_wsgi_application()
+[Fri Jul 03 16:56:58.216331 2015] [:error] [pid 7554] [client 108.239.135.40:60455]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Fri Jul 03 16:56:58.216390 2015] [:error] [pid 7554] [client 108.239.135.40:60455]     django.setup()
+[Fri Jul 03 16:56:58.216413 2015] [:error] [pid 7554] [client 108.239.135.40:60455]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 18, in setup
+[Fri Jul 03 16:56:58.216471 2015] [:error] [pid 7554] [client 108.239.135.40:60455]     apps.populate(settings.INSTALLED_APPS)
+[Fri Jul 03 16:56:58.216489 2015] [:error] [pid 7554] [client 108.239.135.40:60455]   File "/usr/lib64/python2.7/site-packages/django/apps/registry.py", line 115, in populate
+[Fri Jul 03 16:56:58.216650 2015] [:error] [pid 7554] [client 108.239.135.40:60455]     app_config.ready()
+[Fri Jul 03 16:56:58.216669 2015] [:error] [pid 7554] [client 108.239.135.40:60455]   File "/usr/lib64/python2.7/site-packages/django/contrib/admin/apps.py", line 22, in ready
+[Fri Jul 03 16:56:58.216726 2015] [:error] [pid 7554] [client 108.239.135.40:60455]     self.module.autodiscover()
+[Fri Jul 03 16:56:58.216743 2015] [:error] [pid 7554] [client 108.239.135.40:60455]   File "/usr/lib64/python2.7/site-packages/django/contrib/admin/__init__.py", line 24, in autodiscover
+[Fri Jul 03 16:56:58.216807 2015] [:error] [pid 7554] [client 108.239.135.40:60455]     autodiscover_modules('admin', register_to=site)
+[Fri Jul 03 16:56:58.216825 2015] [:error] [pid 7554] [client 108.239.135.40:60455]   File "/usr/lib64/python2.7/site-packages/django/utils/module_loading.py", line 74, in autodiscover_modules
+[Fri Jul 03 16:56:58.216926 2015] [:error] [pid 7554] [client 108.239.135.40:60455]     import_module('%s.%s' % (app_config.name, module_to_search))
+[Fri Jul 03 16:56:58.216944 2015] [:error] [pid 7554] [client 108.239.135.40:60455]   File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+[Fri Jul 03 16:56:58.217003 2015] [:error] [pid 7554] [client 108.239.135.40:60455]     __import__(name)
+[Fri Jul 03 16:56:58.217020 2015] [:error] [pid 7554] [client 108.239.135.40:60455]   File "/srv/www/django/djangotest/driver/admin.py", line 2, in <module>
+[Fri Jul 03 16:56:58.217069 2015] [:error] [pid 7554] [client 108.239.135.40:60455]     from driver.models import driver
+[Fri Jul 03 16:56:58.217096 2015] [:error] [pid 7554] [client 108.239.135.40:60455] ImportError: cannot import name driver
+[Fri Jul 03 16:57:01.057792 2015] [:error] [pid 7553] [client 108.239.135.40:60468] mod_wsgi (pid=7553): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module.
+[Fri Jul 03 16:57:01.057841 2015] [:error] [pid 7553] [client 108.239.135.40:60468] mod_wsgi (pid=7553): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Fri Jul 03 16:57:01.057878 2015] [:error] [pid 7553] [client 108.239.135.40:60468] Traceback (most recent call last):
+[Fri Jul 03 16:57:01.057919 2015] [:error] [pid 7553] [client 108.239.135.40:60468]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>
+[Fri Jul 03 16:57:01.057975 2015] [:error] [pid 7553] [client 108.239.135.40:60468]     application = get_wsgi_application()
+[Fri Jul 03 16:57:01.058001 2015] [:error] [pid 7553] [client 108.239.135.40:60468]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Fri Jul 03 16:57:01.058086 2015] [:error] [pid 7553] [client 108.239.135.40:60468]     django.setup()
+[Fri Jul 03 16:57:01.058111 2015] [:error] [pid 7553] [client 108.239.135.40:60468]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 18, in setup
+[Fri Jul 03 16:57:01.058147 2015] [:error] [pid 7553] [client 108.239.135.40:60468]     apps.populate(settings.INSTALLED_APPS)
+[Fri Jul 03 16:57:01.058171 2015] [:error] [pid 7553] [client 108.239.135.40:60468]   File "/usr/lib64/python2.7/site-packages/django/apps/registry.py", line 78, in populate
+[Fri Jul 03 16:57:01.058207 2015] [:error] [pid 7553] [client 108.239.135.40:60468]     raise RuntimeError("populate() isn't reentrant")
+[Fri Jul 03 16:57:01.058242 2015] [:error] [pid 7553] [client 108.239.135.40:60468] RuntimeError: populate() isn't reentrant
+[Tue Jul 07 13:44:22.527115 2015] [:error] [pid 2275] [client 180.76.15.149:49172] mod_wsgi (pid=2275): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Tue Jul 07 13:44:22.527300 2015] [:error] [pid 2275] [client 180.76.15.149:49172] IOError: failed to write data
+[Thu Jul 09 15:13:15.336017 2015] [:error] [pid 10638] [client 54.193.85.235:54072] mod_wsgi (pid=10638): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'., referer: http://djangotest.sfvue.com/register/
+[Thu Jul 09 15:13:15.336186 2015] [:error] [pid 10638] [client 54.193.85.235:54072] IOError: failed to write data, referer: http://djangotest.sfvue.com/register/
+[Thu Jul 09 15:22:31.893726 2015] [:error] [pid 10637] [client 54.193.85.235:54363] mod_wsgi (pid=10637): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'., referer: http://djangotest.sfvue.com/register/
+[Thu Jul 09 15:22:31.893908 2015] [:error] [pid 10637] [client 54.193.85.235:54363] IOError: failed to write data, referer: http://djangotest.sfvue.com/register/
+[Fri Jul 10 02:53:50.089351 2015] [:error] [pid 13818] [client 64.71.28.178:64190] mod_wsgi (pid=13818): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module., referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.089405 2015] [:error] [pid 13818] [client 64.71.28.178:64190] mod_wsgi (pid=13818): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'., referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.089440 2015] [:error] [pid 13818] [client 64.71.28.178:64190] Traceback (most recent call last):, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.089471 2015] [:error] [pid 13818] [client 64.71.28.178:64190]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.089547 2015] [:error] [pid 13818] [client 64.71.28.178:64190]     application = get_wsgi_application(), referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.089579 2015] [:error] [pid 13818] [client 64.71.28.178:64190]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.089639 2015] [:error] [pid 13818] [client 64.71.28.178:64190]     django.setup(), referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.089663 2015] [:error] [pid 13818] [client 64.71.28.178:64190]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 18, in setup, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.089741 2015] [:error] [pid 13818] [client 64.71.28.178:64190]     apps.populate(settings.INSTALLED_APPS), referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.089760 2015] [:error] [pid 13818] [client 64.71.28.178:64190]   File "/usr/lib64/python2.7/site-packages/django/apps/registry.py", line 108, in populate, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.089918 2015] [:error] [pid 13818] [client 64.71.28.178:64190]     app_config.import_models(all_models), referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.089937 2015] [:error] [pid 13818] [client 64.71.28.178:64190]   File "/usr/lib64/python2.7/site-packages/django/apps/config.py", line 198, in import_models, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.090447 2015] [:error] [pid 13818] [client 64.71.28.178:64190]     self.models_module = import_module(models_module_name), referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.090474 2015] [:error] [pid 13818] [client 64.71.28.178:64190]   File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.090576 2015] [:error] [pid 13818] [client 64.71.28.178:64190]     __import__(name), referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.090609 2015] [:error] [pid 13818] [client 64.71.28.178:64190]   File "/srv/www/django/djangotest/driver/models.py", line 8, in <module>, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.090688 2015] [:error] [pid 13818] [client 64.71.28.178:64190]     class Driver(models.Model):, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.090716 2015] [:error] [pid 13818] [client 64.71.28.178:64190]   File "/usr/lib64/python2.7/site-packages/django/db/models/base.py", line 189, in __new__, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.091260 2015] [:error] [pid 13818] [client 64.71.28.178:64190]     new_class.add_to_class(obj_name, obj), referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.091288 2015] [:error] [pid 13818] [client 64.71.28.178:64190]   File "/usr/lib64/python2.7/site-packages/django/db/models/base.py", line 324, in add_to_class, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.091352 2015] [:error] [pid 13818] [client 64.71.28.178:64190]     value.contribute_to_class(cls, name), referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.091378 2015] [:error] [pid 13818] [client 64.71.28.178:64190]   File "/usr/lib64/python2.7/site-packages/django/db/models/fields/related.py", line 1767, in contribute_to_class, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.092847 2015] [:error] [pid 13818] [client 64.71.28.178:64190]     super(ForeignObject, self).contribute_to_class(cls, name, virtual_only=virtual_only), referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.092869 2015] [:error] [pid 13818] [client 64.71.28.178:64190]   File "/usr/lib64/python2.7/site-packages/django/db/models/fields/related.py", line 292, in contribute_to_class, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.092895 2015] [:error] [pid 13818] [client 64.71.28.178:64190]     sup.contribute_to_class(cls, name, virtual_only=virtual_only), referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.092910 2015] [:error] [pid 13818] [client 64.71.28.178:64190]   File "/usr/lib64/python2.7/site-packages/django/db/models/fields/__init__.py", line 656, in contribute_to_class, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.094098 2015] [:error] [pid 13818] [client 64.71.28.178:64190]     self.set_attributes_from_name(name), referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.094122 2015] [:error] [pid 13818] [client 64.71.28.178:64190]   File "/usr/lib64/python2.7/site-packages/django/db/models/fields/__init__.py", line 650, in set_attributes_from_name, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.094170 2015] [:error] [pid 13818] [client 64.71.28.178:64190]     self.attname, self.column = self.get_attname_column(), referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.094196 2015] [:error] [pid 13818] [client 64.71.28.178:64190]   File "/usr/lib64/python2.7/site-packages/django/db/models/fields/related.py", line 1923, in get_attname_column, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.094222 2015] [:error] [pid 13818] [client 64.71.28.178:64190]     attname = self.get_attname(), referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.094245 2015] [:error] [pid 13818] [client 64.71.28.178:64190]   File "/usr/lib64/python2.7/site-packages/django/db/models/fields/related.py", line 1920, in get_attname, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.094268 2015] [:error] [pid 13818] [client 64.71.28.178:64190]     return '%s_id' % self.name, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.094282 2015] [:error] [pid 13818] [client 64.71.28.178:64190]   File "/usr/lib64/python2.7/site-packages/django/db/models/fields/__init__.py", line 187, in __str__, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.094309 2015] [:error] [pid 13818] [client 64.71.28.178:64190]     model = self.model, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:53:50.094345 2015] [:error] [pid 13818] [client 64.71.28.178:64190] AttributeError: 'CharField' object has no attribute 'model', referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 02:54:06.165908 2015] [:error] [pid 13821] [client 64.71.28.178:64194] mod_wsgi (pid=13821): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module.
+[Fri Jul 10 02:54:06.165984 2015] [:error] [pid 13821] [client 64.71.28.178:64194] mod_wsgi (pid=13821): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Fri Jul 10 02:54:06.166023 2015] [:error] [pid 13821] [client 64.71.28.178:64194] Traceback (most recent call last):
+[Fri Jul 10 02:54:06.166055 2015] [:error] [pid 13821] [client 64.71.28.178:64194]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>
+[Fri Jul 10 02:54:06.166130 2015] [:error] [pid 13821] [client 64.71.28.178:64194]     application = get_wsgi_application()
+[Fri Jul 10 02:54:06.166157 2015] [:error] [pid 13821] [client 64.71.28.178:64194]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Fri Jul 10 02:54:06.166220 2015] [:error] [pid 13821] [client 64.71.28.178:64194]     django.setup()
+[Fri Jul 10 02:54:06.166243 2015] [:error] [pid 13821] [client 64.71.28.178:64194]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 18, in setup
+[Fri Jul 10 02:54:06.166301 2015] [:error] [pid 13821] [client 64.71.28.178:64194]     apps.populate(settings.INSTALLED_APPS)
+[Fri Jul 10 02:54:06.166319 2015] [:error] [pid 13821] [client 64.71.28.178:64194]   File "/usr/lib64/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+[Fri Jul 10 02:54:06.166477 2015] [:error] [pid 13821] [client 64.71.28.178:64194]     app_config.import_models(all_models)
+[Fri Jul 10 02:54:06.166496 2015] [:error] [pid 13821] [client 64.71.28.178:64194]   File "/usr/lib64/python2.7/site-packages/django/apps/config.py", line 198, in import_models
+[Fri Jul 10 02:54:06.166598 2015] [:error] [pid 13821] [client 64.71.28.178:64194]     self.models_module = import_module(models_module_name)
+[Fri Jul 10 02:54:06.166617 2015] [:error] [pid 13821] [client 64.71.28.178:64194]   File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+[Fri Jul 10 02:54:06.166689 2015] [:error] [pid 13821] [client 64.71.28.178:64194]     __import__(name)
+[Fri Jul 10 02:54:06.166707 2015] [:error] [pid 13821] [client 64.71.28.178:64194]   File "/srv/www/django/djangotest/driver/models.py", line 8, in <module>
+[Fri Jul 10 02:54:06.166768 2015] [:error] [pid 13821] [client 64.71.28.178:64194]     class Driver(models.Model):
+[Fri Jul 10 02:54:06.166786 2015] [:error] [pid 13821] [client 64.71.28.178:64194]   File "/usr/lib64/python2.7/site-packages/django/db/models/base.py", line 189, in __new__
+[Fri Jul 10 02:54:06.167260 2015] [:error] [pid 13821] [client 64.71.28.178:64194]     new_class.add_to_class(obj_name, obj)
+[Fri Jul 10 02:54:06.167280 2015] [:error] [pid 13821] [client 64.71.28.178:64194]   File "/usr/lib64/python2.7/site-packages/django/db/models/base.py", line 324, in add_to_class
+[Fri Jul 10 02:54:06.167334 2015] [:error] [pid 13821] [client 64.71.28.178:64194]     value.contribute_to_class(cls, name)
+[Fri Jul 10 02:54:06.167352 2015] [:error] [pid 13821] [client 64.71.28.178:64194]   File "/usr/lib64/python2.7/site-packages/django/db/models/fields/related.py", line 1767, in contribute_to_class
+[Fri Jul 10 02:54:06.168020 2015] [:error] [pid 13821] [client 64.71.28.178:64194]     super(ForeignObject, self).contribute_to_class(cls, name, virtual_only=virtual_only)
+[Fri Jul 10 02:54:06.168040 2015] [:error] [pid 13821] [client 64.71.28.178:64194]   File "/usr/lib64/python2.7/site-packages/django/db/models/fields/related.py", line 292, in contribute_to_class
+[Fri Jul 10 02:54:06.168064 2015] [:error] [pid 13821] [client 64.71.28.178:64194]     sup.contribute_to_class(cls, name, virtual_only=virtual_only)
+[Fri Jul 10 02:54:06.168078 2015] [:error] [pid 13821] [client 64.71.28.178:64194]   File "/usr/lib64/python2.7/site-packages/django/db/models/fields/__init__.py", line 656, in contribute_to_class
+[Fri Jul 10 02:54:06.168663 2015] [:error] [pid 13821] [client 64.71.28.178:64194]     self.set_attributes_from_name(name)
+[Fri Jul 10 02:54:06.168682 2015] [:error] [pid 13821] [client 64.71.28.178:64194]   File "/usr/lib64/python2.7/site-packages/django/db/models/fields/__init__.py", line 650, in set_attributes_from_name
+[Fri Jul 10 02:54:06.168705 2015] [:error] [pid 13821] [client 64.71.28.178:64194]     self.attname, self.column = self.get_attname_column()
+[Fri Jul 10 02:54:06.168720 2015] [:error] [pid 13821] [client 64.71.28.178:64194]   File "/usr/lib64/python2.7/site-packages/django/db/models/fields/related.py", line 1923, in get_attname_column
+[Fri Jul 10 02:54:06.168740 2015] [:error] [pid 13821] [client 64.71.28.178:64194]     attname = self.get_attname()
+[Fri Jul 10 02:54:06.168754 2015] [:error] [pid 13821] [client 64.71.28.178:64194]   File "/usr/lib64/python2.7/site-packages/django/db/models/fields/related.py", line 1920, in get_attname
+[Fri Jul 10 02:54:06.168773 2015] [:error] [pid 13821] [client 64.71.28.178:64194]     return '%s_id' % self.name
+[Fri Jul 10 02:54:06.168787 2015] [:error] [pid 13821] [client 64.71.28.178:64194]   File "/usr/lib64/python2.7/site-packages/django/db/models/fields/__init__.py", line 187, in __str__
+[Fri Jul 10 02:54:06.168806 2015] [:error] [pid 13821] [client 64.71.28.178:64194]     model = self.model
+[Fri Jul 10 02:54:06.168829 2015] [:error] [pid 13821] [client 64.71.28.178:64194] AttributeError: 'CharField' object has no attribute 'model'
+[Fri Jul 10 15:21:48.838938 2015] [:error] [pid 16848] [client 64.71.28.178:49362] mod_wsgi (pid=16848): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module., referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 15:21:48.838990 2015] [:error] [pid 16848] [client 64.71.28.178:49362] mod_wsgi (pid=16848): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'., referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 15:21:48.839026 2015] [:error] [pid 16848] [client 64.71.28.178:49362] Traceback (most recent call last):, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 15:21:48.839071 2015] [:error] [pid 16848] [client 64.71.28.178:49362]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 15:21:48.839146 2015] [:error] [pid 16848] [client 64.71.28.178:49362]     application = get_wsgi_application(), referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 15:21:48.839174 2015] [:error] [pid 16848] [client 64.71.28.178:49362]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 15:21:48.839255 2015] [:error] [pid 16848] [client 64.71.28.178:49362]     django.setup(), referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 15:21:48.839281 2015] [:error] [pid 16848] [client 64.71.28.178:49362]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 18, in setup, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 15:21:48.839339 2015] [:error] [pid 16848] [client 64.71.28.178:49362]     apps.populate(settings.INSTALLED_APPS), referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 15:21:48.839357 2015] [:error] [pid 16848] [client 64.71.28.178:49362]   File "/usr/lib64/python2.7/site-packages/django/apps/registry.py", line 108, in populate, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 15:21:48.839499 2015] [:error] [pid 16848] [client 64.71.28.178:49362]     app_config.import_models(all_models), referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 15:21:48.839522 2015] [:error] [pid 16848] [client 64.71.28.178:49362]   File "/usr/lib64/python2.7/site-packages/django/apps/config.py", line 198, in import_models, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 15:21:48.839620 2015] [:error] [pid 16848] [client 64.71.28.178:49362]     self.models_module = import_module(models_module_name), referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 15:21:48.839639 2015] [:error] [pid 16848] [client 64.71.28.178:49362]   File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 15:21:48.839705 2015] [:error] [pid 16848] [client 64.71.28.178:49362]     __import__(name), referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 15:21:48.839723 2015] [:error] [pid 16848] [client 64.71.28.178:49362]   File "/srv/www/django/djangotest/driver/models.py", line 4, in <module>, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 15:21:48.839791 2015] [:error] [pid 16848] [client 64.71.28.178:49362]     from registration.signals import user_registered, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 15:21:48.839819 2015] [:error] [pid 16848] [client 64.71.28.178:49362] ImportError: No module named registration.signals, referer: http://djangotest.sfvue.com/login/
+[Fri Jul 10 15:21:53.875795 2015] [:error] [pid 16849] [client 64.71.28.178:49363] mod_wsgi (pid=16849): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module., referer: http://djangotest.sfvue.com/
+[Fri Jul 10 15:21:53.875899 2015] [:error] [pid 16849] [client 64.71.28.178:49363] mod_wsgi (pid=16849): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'., referer: http://djangotest.sfvue.com/
+[Fri Jul 10 15:21:53.876099 2015] [:error] [pid 16849] [client 64.71.28.178:49363] Traceback (most recent call last):, referer: http://djangotest.sfvue.com/
+[Fri Jul 10 15:21:53.876156 2015] [:error] [pid 16849] [client 64.71.28.178:49363]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>, referer: http://djangotest.sfvue.com/
+[Fri Jul 10 15:21:53.876233 2015] [:error] [pid 16849] [client 64.71.28.178:49363]     application = get_wsgi_application(), referer: http://djangotest.sfvue.com/
+[Fri Jul 10 15:21:53.876253 2015] [:error] [pid 16849] [client 64.71.28.178:49363]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application, referer: http://djangotest.sfvue.com/
+[Fri Jul 10 15:21:53.876322 2015] [:error] [pid 16849] [client 64.71.28.178:49363]     django.setup(), referer: http://djangotest.sfvue.com/
+[Fri Jul 10 15:21:53.876347 2015] [:error] [pid 16849] [client 64.71.28.178:49363]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 18, in setup, referer: http://djangotest.sfvue.com/
+[Fri Jul 10 15:21:53.876404 2015] [:error] [pid 16849] [client 64.71.28.178:49363]     apps.populate(settings.INSTALLED_APPS), referer: http://djangotest.sfvue.com/
+[Fri Jul 10 15:21:53.876422 2015] [:error] [pid 16849] [client 64.71.28.178:49363]   File "/usr/lib64/python2.7/site-packages/django/apps/registry.py", line 108, in populate, referer: http://djangotest.sfvue.com/
+[Fri Jul 10 15:21:53.876587 2015] [:error] [pid 16849] [client 64.71.28.178:49363]     app_config.import_models(all_models), referer: http://djangotest.sfvue.com/
+[Fri Jul 10 15:21:53.876610 2015] [:error] [pid 16849] [client 64.71.28.178:49363]   File "/usr/lib64/python2.7/site-packages/django/apps/config.py", line 198, in import_models, referer: http://djangotest.sfvue.com/
+[Fri Jul 10 15:21:53.876711 2015] [:error] [pid 16849] [client 64.71.28.178:49363]     self.models_module = import_module(models_module_name), referer: http://djangotest.sfvue.com/
+[Fri Jul 10 15:21:53.876730 2015] [:error] [pid 16849] [client 64.71.28.178:49363]   File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module, referer: http://djangotest.sfvue.com/
+[Fri Jul 10 15:21:53.876797 2015] [:error] [pid 16849] [client 64.71.28.178:49363]     __import__(name), referer: http://djangotest.sfvue.com/
+[Fri Jul 10 15:21:53.876815 2015] [:error] [pid 16849] [client 64.71.28.178:49363]   File "/srv/www/django/djangotest/driver/models.py", line 4, in <module>, referer: http://djangotest.sfvue.com/
+[Fri Jul 10 15:21:53.876883 2015] [:error] [pid 16849] [client 64.71.28.178:49363]     from registration.signals import user_registered, referer: http://djangotest.sfvue.com/
+[Fri Jul 10 15:21:53.876910 2015] [:error] [pid 16849] [client 64.71.28.178:49363] ImportError: No module named registration.signals, referer: http://djangotest.sfvue.com/
+[Fri Jul 10 17:44:39.164948 2015] [cgi:error] [pid 17076] [client 31.192.108.62:37492] script not found or unable to stat: /var/www/cgi-bin/php5
+[Fri Jul 10 10:44:39.171187 2015] [cgi:error] [pid 17078] [client 31.192.108.62:37646] script not found or unable to stat: /var/www/cgi-bin/php4
+[Fri Jul 10 17:44:39.352711 2015] [cgi:error] [pid 17080] [client 31.192.108.62:40535] script not found or unable to stat: /var/www/cgi-bin/php
+[Fri Jul 10 10:44:39.469233 2015] [cgi:error] [pid 17330] [client 31.192.108.62:43077] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Fri Jul 10 17:44:39.497911 2015] [cgi:error] [pid 17077] [client 31.192.108.62:43656] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Sat Jul 11 18:08:46.858600 2015] [authz_core:error] [pid 17076] [client 89.248.172.35:42591] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sat Jul 11 18:08:47.152445 2015] [authz_core:error] [pid 17078] [client 89.248.172.35:42881] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sat Jul 11 23:12:56.349762 2015] [:error] [pid 24798] [client 108.239.135.40:63726] mod_wsgi (pid=24798): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module.
+[Sat Jul 11 23:12:56.349829 2015] [:error] [pid 24798] [client 108.239.135.40:63726] mod_wsgi (pid=24798): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Sat Jul 11 23:12:56.349879 2015] [:error] [pid 24798] [client 108.239.135.40:63726] Traceback (most recent call last):
+[Sat Jul 11 23:12:56.349919 2015] [:error] [pid 24798] [client 108.239.135.40:63726]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>
+[Sat Jul 11 23:12:56.350026 2015] [:error] [pid 24798] [client 108.239.135.40:63726]     application = get_wsgi_application()
+[Sat Jul 11 23:12:56.350058 2015] [:error] [pid 24798] [client 108.239.135.40:63726]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Jul 11 23:12:56.350118 2015] [:error] [pid 24798] [client 108.239.135.40:63726]     django.setup()
+[Sat Jul 11 23:12:56.350140 2015] [:error] [pid 24798] [client 108.239.135.40:63726]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 18, in setup
+[Sat Jul 11 23:12:56.350203 2015] [:error] [pid 24798] [client 108.239.135.40:63726]     apps.populate(settings.INSTALLED_APPS)
+[Sat Jul 11 23:12:56.350221 2015] [:error] [pid 24798] [client 108.239.135.40:63726]   File "/usr/lib64/python2.7/site-packages/django/apps/registry.py", line 85, in populate
+[Sat Jul 11 23:12:56.350387 2015] [:error] [pid 24798] [client 108.239.135.40:63726]     app_config = AppConfig.create(entry)
+[Sat Jul 11 23:12:56.350406 2015] [:error] [pid 24798] [client 108.239.135.40:63726]   File "/usr/lib64/python2.7/site-packages/django/apps/config.py", line 112, in create
+[Sat Jul 11 23:12:56.350494 2015] [:error] [pid 24798] [client 108.239.135.40:63726]     mod = import_module(mod_path)
+[Sat Jul 11 23:12:56.350512 2015] [:error] [pid 24798] [client 108.239.135.40:63726]   File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+[Sat Jul 11 23:12:56.350594 2015] [:error] [pid 24798] [client 108.239.135.40:63726]     __import__(name)
+[Sat Jul 11 23:12:56.350633 2015] [:error] [pid 24798] [client 108.239.135.40:63726] ImportError: No module named social.apps.django_app
+[Sat Jul 11 23:18:14.009249 2015] [:error] [pid 24840] [client 108.239.135.40:63740] mod_wsgi (pid=24840): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module.
+[Sat Jul 11 23:18:14.009301 2015] [:error] [pid 24840] [client 108.239.135.40:63740] mod_wsgi (pid=24840): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Sat Jul 11 23:18:14.009335 2015] [:error] [pid 24840] [client 108.239.135.40:63740] Traceback (most recent call last):
+[Sat Jul 11 23:18:14.009365 2015] [:error] [pid 24840] [client 108.239.135.40:63740]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>
+[Sat Jul 11 23:18:14.009445 2015] [:error] [pid 24840] [client 108.239.135.40:63740]     application = get_wsgi_application()
+[Sat Jul 11 23:18:14.009464 2015] [:error] [pid 24840] [client 108.239.135.40:63740]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Jul 11 23:18:14.009521 2015] [:error] [pid 24840] [client 108.239.135.40:63740]     django.setup()
+[Sat Jul 11 23:18:14.009543 2015] [:error] [pid 24840] [client 108.239.135.40:63740]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 18, in setup
+[Sat Jul 11 23:18:14.009608 2015] [:error] [pid 24840] [client 108.239.135.40:63740]     apps.populate(settings.INSTALLED_APPS)
+[Sat Jul 11 23:18:14.009627 2015] [:error] [pid 24840] [client 108.239.135.40:63740]   File "/usr/lib64/python2.7/site-packages/django/apps/registry.py", line 85, in populate
+[Sat Jul 11 23:18:14.009793 2015] [:error] [pid 24840] [client 108.239.135.40:63740]     app_config = AppConfig.create(entry)
+[Sat Jul 11 23:18:14.009811 2015] [:error] [pid 24840] [client 108.239.135.40:63740]   File "/usr/lib64/python2.7/site-packages/django/apps/config.py", line 112, in create
+[Sat Jul 11 23:18:14.009900 2015] [:error] [pid 24840] [client 108.239.135.40:63740]     mod = import_module(mod_path)
+[Sat Jul 11 23:18:14.009918 2015] [:error] [pid 24840] [client 108.239.135.40:63740]   File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+[Sat Jul 11 23:18:14.010033 2015] [:error] [pid 24840] [client 108.239.135.40:63740]     __import__(name)
+[Sat Jul 11 23:18:14.010070 2015] [:error] [pid 24840] [client 108.239.135.40:63740] ImportError: No module named social.apps.django_app
+[Sat Jul 11 23:19:04.375180 2015] [:error] [pid 24839] [client 180.76.15.7:39202] mod_wsgi (pid=24839): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module.
+[Sat Jul 11 23:19:04.375246 2015] [:error] [pid 24839] [client 180.76.15.7:39202] mod_wsgi (pid=24839): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Sat Jul 11 23:19:04.375280 2015] [:error] [pid 24839] [client 180.76.15.7:39202] Traceback (most recent call last):
+[Sat Jul 11 23:19:04.375312 2015] [:error] [pid 24839] [client 180.76.15.7:39202]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>
+[Sat Jul 11 23:19:04.375395 2015] [:error] [pid 24839] [client 180.76.15.7:39202]     application = get_wsgi_application()
+[Sat Jul 11 23:19:04.375413 2015] [:error] [pid 24839] [client 180.76.15.7:39202]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Jul 11 23:19:04.375468 2015] [:error] [pid 24839] [client 180.76.15.7:39202]     django.setup()
+[Sat Jul 11 23:19:04.375490 2015] [:error] [pid 24839] [client 180.76.15.7:39202]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 18, in setup
+[Sat Jul 11 23:19:04.375552 2015] [:error] [pid 24839] [client 180.76.15.7:39202]     apps.populate(settings.INSTALLED_APPS)
+[Sat Jul 11 23:19:04.375569 2015] [:error] [pid 24839] [client 180.76.15.7:39202]   File "/usr/lib64/python2.7/site-packages/django/apps/registry.py", line 85, in populate
+[Sat Jul 11 23:19:04.375740 2015] [:error] [pid 24839] [client 180.76.15.7:39202]     app_config = AppConfig.create(entry)
+[Sat Jul 11 23:19:04.375758 2015] [:error] [pid 24839] [client 180.76.15.7:39202]   File "/usr/lib64/python2.7/site-packages/django/apps/config.py", line 112, in create
+[Sat Jul 11 23:19:04.375850 2015] [:error] [pid 24839] [client 180.76.15.7:39202]     mod = import_module(mod_path)
+[Sat Jul 11 23:19:04.375867 2015] [:error] [pid 24839] [client 180.76.15.7:39202]   File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+[Sat Jul 11 23:19:04.375939 2015] [:error] [pid 24839] [client 180.76.15.7:39202]     __import__(name)
+[Sat Jul 11 23:19:04.375965 2015] [:error] [pid 24839] [client 180.76.15.7:39202] ImportError: No module named social.apps.django_app
+[Sat Jul 11 23:19:05.076817 2015] [:error] [pid 24841] [client 180.76.15.161:25823] mod_wsgi (pid=24841): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module.
+[Sat Jul 11 23:19:05.076864 2015] [:error] [pid 24841] [client 180.76.15.161:25823] mod_wsgi (pid=24841): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Sat Jul 11 23:19:05.076898 2015] [:error] [pid 24841] [client 180.76.15.161:25823] Traceback (most recent call last):
+[Sat Jul 11 23:19:05.076931 2015] [:error] [pid 24841] [client 180.76.15.161:25823]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>
+[Sat Jul 11 23:19:05.077013 2015] [:error] [pid 24841] [client 180.76.15.161:25823]     application = get_wsgi_application()
+[Sat Jul 11 23:19:05.077032 2015] [:error] [pid 24841] [client 180.76.15.161:25823]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Jul 11 23:19:05.077088 2015] [:error] [pid 24841] [client 180.76.15.161:25823]     django.setup()
+[Sat Jul 11 23:19:05.077110 2015] [:error] [pid 24841] [client 180.76.15.161:25823]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 18, in setup
+[Sat Jul 11 23:19:05.077171 2015] [:error] [pid 24841] [client 180.76.15.161:25823]     apps.populate(settings.INSTALLED_APPS)
+[Sat Jul 11 23:19:05.077189 2015] [:error] [pid 24841] [client 180.76.15.161:25823]   File "/usr/lib64/python2.7/site-packages/django/apps/registry.py", line 85, in populate
+[Sat Jul 11 23:19:05.077355 2015] [:error] [pid 24841] [client 180.76.15.161:25823]     app_config = AppConfig.create(entry)
+[Sat Jul 11 23:19:05.077374 2015] [:error] [pid 24841] [client 180.76.15.161:25823]   File "/usr/lib64/python2.7/site-packages/django/apps/config.py", line 112, in create
+[Sat Jul 11 23:19:05.077475 2015] [:error] [pid 24841] [client 180.76.15.161:25823]     mod = import_module(mod_path)
+[Sat Jul 11 23:19:05.077494 2015] [:error] [pid 24841] [client 180.76.15.161:25823]   File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+[Sat Jul 11 23:19:05.077570 2015] [:error] [pid 24841] [client 180.76.15.161:25823]     __import__(name)
+[Sat Jul 11 23:19:05.077606 2015] [:error] [pid 24841] [client 180.76.15.161:25823] ImportError: No module named social.apps.django_app
+[Sat Jul 11 23:32:20.796405 2015] [:error] [pid 24981] [client 108.239.135.40:63782] mod_wsgi (pid=24981): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module.
+[Sat Jul 11 23:32:20.796461 2015] [:error] [pid 24981] [client 108.239.135.40:63782] mod_wsgi (pid=24981): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Sat Jul 11 23:32:20.796495 2015] [:error] [pid 24981] [client 108.239.135.40:63782] Traceback (most recent call last):
+[Sat Jul 11 23:32:20.796527 2015] [:error] [pid 24981] [client 108.239.135.40:63782]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>
+[Sat Jul 11 23:32:20.796635 2015] [:error] [pid 24981] [client 108.239.135.40:63782]     application = get_wsgi_application()
+[Sat Jul 11 23:32:20.796655 2015] [:error] [pid 24981] [client 108.239.135.40:63782]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Jul 11 23:32:20.796711 2015] [:error] [pid 24981] [client 108.239.135.40:63782]     django.setup()
+[Sat Jul 11 23:32:20.796733 2015] [:error] [pid 24981] [client 108.239.135.40:63782]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 18, in setup
+[Sat Jul 11 23:32:20.796795 2015] [:error] [pid 24981] [client 108.239.135.40:63782]     apps.populate(settings.INSTALLED_APPS)
+[Sat Jul 11 23:32:20.796813 2015] [:error] [pid 24981] [client 108.239.135.40:63782]   File "/usr/lib64/python2.7/site-packages/django/apps/registry.py", line 85, in populate
+[Sat Jul 11 23:32:20.796981 2015] [:error] [pid 24981] [client 108.239.135.40:63782]     app_config = AppConfig.create(entry)
+[Sat Jul 11 23:32:20.796999 2015] [:error] [pid 24981] [client 108.239.135.40:63782]   File "/usr/lib64/python2.7/site-packages/django/apps/config.py", line 112, in create
+[Sat Jul 11 23:32:20.797088 2015] [:error] [pid 24981] [client 108.239.135.40:63782]     mod = import_module(mod_path)
+[Sat Jul 11 23:32:20.797106 2015] [:error] [pid 24981] [client 108.239.135.40:63782]   File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+[Sat Jul 11 23:32:20.797177 2015] [:error] [pid 24981] [client 108.239.135.40:63782]     __import__(name)
+[Sat Jul 11 23:32:20.797204 2015] [:error] [pid 24981] [client 108.239.135.40:63782] ImportError: No module named social.apps.django_app
+[Sun Jul 12 01:39:23.384468 2015] [:error] [pid 26396] [client 108.239.135.40:64370] mod_wsgi (pid=26396): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module., referer: http://djangotest.sfvue.com/admin/login/?next=/admin/
+[Sun Jul 12 01:39:23.384526 2015] [:error] [pid 26396] [client 108.239.135.40:64370] mod_wsgi (pid=26396): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'., referer: http://djangotest.sfvue.com/admin/login/?next=/admin/
+[Sun Jul 12 01:39:23.384560 2015] [:error] [pid 26396] [client 108.239.135.40:64370] Traceback (most recent call last):, referer: http://djangotest.sfvue.com/admin/login/?next=/admin/
+[Sun Jul 12 01:39:23.384593 2015] [:error] [pid 26396] [client 108.239.135.40:64370]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>, referer: http://djangotest.sfvue.com/admin/login/?next=/admin/
+[Sun Jul 12 01:39:23.384677 2015] [:error] [pid 26396] [client 108.239.135.40:64370]     application = get_wsgi_application(), referer: http://djangotest.sfvue.com/admin/login/?next=/admin/
+[Sun Jul 12 01:39:23.384696 2015] [:error] [pid 26396] [client 108.239.135.40:64370]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application, referer: http://djangotest.sfvue.com/admin/login/?next=/admin/
+[Sun Jul 12 01:39:23.384766 2015] [:error] [pid 26396] [client 108.239.135.40:64370]     django.setup(), referer: http://djangotest.sfvue.com/admin/login/?next=/admin/
+[Sun Jul 12 01:39:23.384790 2015] [:error] [pid 26396] [client 108.239.135.40:64370]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 18, in setup, referer: http://djangotest.sfvue.com/admin/login/?next=/admin/
+[Sun Jul 12 01:39:23.384853 2015] [:error] [pid 26396] [client 108.239.135.40:64370]     apps.populate(settings.INSTALLED_APPS), referer: http://djangotest.sfvue.com/admin/login/?next=/admin/
+[Sun Jul 12 01:39:23.384871 2015] [:error] [pid 26396] [client 108.239.135.40:64370]   File "/usr/lib64/python2.7/site-packages/django/apps/registry.py", line 85, in populate, referer: http://djangotest.sfvue.com/admin/login/?next=/admin/
+[Sun Jul 12 01:39:23.385045 2015] [:error] [pid 26396] [client 108.239.135.40:64370]     app_config = AppConfig.create(entry), referer: http://djangotest.sfvue.com/admin/login/?next=/admin/
+[Sun Jul 12 01:39:23.385064 2015] [:error] [pid 26396] [client 108.239.135.40:64370]   File "/usr/lib64/python2.7/site-packages/django/apps/config.py", line 112, in create, referer: http://djangotest.sfvue.com/admin/login/?next=/admin/
+[Sun Jul 12 01:39:23.385152 2015] [:error] [pid 26396] [client 108.239.135.40:64370]     mod = import_module(mod_path), referer: http://djangotest.sfvue.com/admin/login/?next=/admin/
+[Sun Jul 12 01:39:23.385171 2015] [:error] [pid 26396] [client 108.239.135.40:64370]   File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module, referer: http://djangotest.sfvue.com/admin/login/?next=/admin/
+[Sun Jul 12 01:39:23.385242 2015] [:error] [pid 26396] [client 108.239.135.40:64370]     __import__(name), referer: http://djangotest.sfvue.com/admin/login/?next=/admin/
+[Sun Jul 12 01:39:23.385269 2015] [:error] [pid 26396] [client 108.239.135.40:64370] ImportError: No module named social.apps.django_app, referer: http://djangotest.sfvue.com/admin/login/?next=/admin/
+[Sun Jul 12 01:39:57.673340 2015] [:error] [pid 26398] [client 108.239.135.40:64371] mod_wsgi (pid=26398): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module.
+[Sun Jul 12 01:39:57.673388 2015] [:error] [pid 26398] [client 108.239.135.40:64371] mod_wsgi (pid=26398): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Sun Jul 12 01:39:57.673422 2015] [:error] [pid 26398] [client 108.239.135.40:64371] Traceback (most recent call last):
+[Sun Jul 12 01:39:57.673453 2015] [:error] [pid 26398] [client 108.239.135.40:64371]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>
+[Sun Jul 12 01:39:57.673532 2015] [:error] [pid 26398] [client 108.239.135.40:64371]     application = get_wsgi_application()
+[Sun Jul 12 01:39:57.673551 2015] [:error] [pid 26398] [client 108.239.135.40:64371]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sun Jul 12 01:39:57.673607 2015] [:error] [pid 26398] [client 108.239.135.40:64371]     django.setup()
+[Sun Jul 12 01:39:57.673630 2015] [:error] [pid 26398] [client 108.239.135.40:64371]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 18, in setup
+[Sun Jul 12 01:39:57.673692 2015] [:error] [pid 26398] [client 108.239.135.40:64371]     apps.populate(settings.INSTALLED_APPS)
+[Sun Jul 12 01:39:57.673710 2015] [:error] [pid 26398] [client 108.239.135.40:64371]   File "/usr/lib64/python2.7/site-packages/django/apps/registry.py", line 85, in populate
+[Sun Jul 12 01:39:57.673889 2015] [:error] [pid 26398] [client 108.239.135.40:64371]     app_config = AppConfig.create(entry)
+[Sun Jul 12 01:39:57.673908 2015] [:error] [pid 26398] [client 108.239.135.40:64371]   File "/usr/lib64/python2.7/site-packages/django/apps/config.py", line 112, in create
+[Sun Jul 12 01:39:57.674014 2015] [:error] [pid 26398] [client 108.239.135.40:64371]     mod = import_module(mod_path)
+[Sun Jul 12 01:39:57.674041 2015] [:error] [pid 26398] [client 108.239.135.40:64371]   File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+[Sun Jul 12 01:39:57.674131 2015] [:error] [pid 26398] [client 108.239.135.40:64371]     __import__(name)
+[Sun Jul 12 01:39:57.674158 2015] [:error] [pid 26398] [client 108.239.135.40:64371] ImportError: No module named social.apps.django_app
+[Sun Jul 12 19:29:13.042792 2015] [:error] [pid 30073] [client 180.76.15.14:29634] mod_wsgi (pid=30073): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Sun Jul 12 19:29:13.042956 2015] [:error] [pid 30073] [client 180.76.15.14:29634] IOError: failed to write data
+[Sun Jul 12 19:29:13.836807 2015] [:error] [pid 30069] [client 180.76.15.28:49823] mod_wsgi (pid=30069): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Sun Jul 12 19:29:13.836969 2015] [:error] [pid 30069] [client 180.76.15.28:49823] IOError: failed to write data
+[Sun Jul 12 21:18:52.659514 2015] [:error] [pid 30710] [client 180.76.15.16:60584] mod_wsgi (pid=30710): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Sun Jul 12 21:18:52.659662 2015] [:error] [pid 30710] [client 180.76.15.16:60584] IOError: failed to write data
+[Sun Jul 12 21:18:53.513532 2015] [:error] [pid 30711] [client 180.76.15.161:60403] mod_wsgi (pid=30711): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Sun Jul 12 21:18:53.513780 2015] [:error] [pid 30711] [client 180.76.15.161:60403] IOError: failed to write data
+[Mon Jul 13 10:52:34.607043 2015] [cgi:error] [pid 5994] [client 94.102.49.169:57984] script not found or unable to stat: /var/www/cgi-bin/mft
+[Thu Jul 16 08:48:06.626400 2015] [cgi:error] [pid 30190] [client 69.64.46.86:65535] script not found or unable to stat: /var/www/cgi-bin/rtpd.cgi
+[Thu Jul 16 09:27:24.979658 2015] [:error] [pid 1820] [client 54.193.85.235:63322] mod_wsgi (pid=1820): Target WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py' cannot be loaded as Python module.
+[Thu Jul 16 09:27:24.979727 2015] [:error] [pid 1820] [client 54.193.85.235:63322] mod_wsgi (pid=1820): Exception occurred processing WSGI script '/srv/www/django/djangotest/djangotest/wsgi.py'.
+[Thu Jul 16 09:27:24.979777 2015] [:error] [pid 1820] [client 54.193.85.235:63322] Traceback (most recent call last):
+[Thu Jul 16 09:27:24.979812 2015] [:error] [pid 1820] [client 54.193.85.235:63322]   File "/srv/www/django/djangotest/djangotest/wsgi.py", line 16, in <module>
+[Thu Jul 16 09:27:24.979944 2015] [:error] [pid 1820] [client 54.193.85.235:63322]     application = get_wsgi_application()
+[Thu Jul 16 09:27:24.979966 2015] [:error] [pid 1820] [client 54.193.85.235:63322]   File "/usr/lib64/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Thu Jul 16 09:27:24.980047 2015] [:error] [pid 1820] [client 54.193.85.235:63322]     django.setup()
+[Thu Jul 16 09:27:24.980074 2015] [:error] [pid 1820] [client 54.193.85.235:63322]   File "/usr/lib64/python2.7/site-packages/django/__init__.py", line 17, in setup
+[Thu Jul 16 09:27:24.980164 2015] [:error] [pid 1820] [client 54.193.85.235:63322]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+[Thu Jul 16 09:27:24.980200 2015] [:error] [pid 1820] [client 54.193.85.235:63322]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 48, in __getattr__
+[Thu Jul 16 09:27:24.980335 2015] [:error] [pid 1820] [client 54.193.85.235:63322]     self._setup(name)
+[Thu Jul 16 09:27:24.980365 2015] [:error] [pid 1820] [client 54.193.85.235:63322]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 44, in _setup
+[Thu Jul 16 09:27:24.980409 2015] [:error] [pid 1820] [client 54.193.85.235:63322]     self._wrapped = Settings(settings_module)
+[Thu Jul 16 09:27:24.980432 2015] [:error] [pid 1820] [client 54.193.85.235:63322]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 109, in __init__
+[Thu Jul 16 09:27:24.980475 2015] [:error] [pid 1820] [client 54.193.85.235:63322]     setattr(self, setting, setting_value)
+[Thu Jul 16 09:27:24.980491 2015] [:error] [pid 1820] [client 54.193.85.235:63322]   File "/usr/lib64/python2.7/site-packages/django/conf/__init__.py", line 78, in __setattr__
+[Thu Jul 16 09:27:24.980511 2015] [:error] [pid 1820] [client 54.193.85.235:63322]     raise ImproperlyConfigured("If set, %s must end with a slash" % name)
+[Thu Jul 16 09:27:24.980535 2015] [:error] [pid 1820] [client 54.193.85.235:63322] ImproperlyConfigured: If set, STATIC_URL must end with a slash
+[Sat Jul 18 07:03:13.636252 2015] [authz_core:error] [pid 1922] [client 89.248.172.169:48544] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sat Jul 18 07:03:13.930828 2015] [authz_core:error] [pid 1932] [client 89.248.172.169:48645] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Mon Jul 20 09:22:45.355367 2015] [authz_core:error] [pid 22166] [client 140.121.199.202:50763] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/
+[Mon Jul 20 09:22:46.651480 2015] [authz_core:error] [pid 22166] [client 140.121.199.202:50763] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/
+[Mon Jul 20 18:50:52.931595 2015] [ssl:emerg] [pid 7958] AH02240: Server should be SSL-aware but has no certificate configured [Hint: SSLCertificateFile] (/etc/httpd/conf.d/djangotest.sfvue.com.conf:24)
+[Mon Jul 20 19:16:38.899349 2015] [ssl:emerg] [pid 8029] AH02240: Server should be SSL-aware but has no certificate configured [Hint: SSLCertificateFile] (/etc/httpd/conf.d/djangotest.sfvue.com.conf:24)
+[Mon Jul 20 19:20:41.007321 2015] [ssl:emerg] [pid 8096] AH02240: Server should be SSL-aware but has no certificate configured [Hint: SSLCertificateFile] (/etc/httpd/conf.d/djangotest.sfvue.com.conf:24)
+[Mon Jul 20 19:25:44.767192 2015] [ssl:warn] [pid 8136] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Jul 20 19:25:44.767215 2015] [ssl:warn] [pid 8136] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Mon Jul 20 19:25:44.806491 2015] [ssl:warn] [pid 8136] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Jul 20 19:25:44.806512 2015] [ssl:warn] [pid 8136] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Mon Jul 20 19:32:06.653104 2015] [ssl:warn] [pid 8203] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Jul 20 19:32:06.653137 2015] [ssl:warn] [pid 8203] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Mon Jul 20 19:32:06.712841 2015] [ssl:warn] [pid 8203] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Jul 20 19:32:06.712871 2015] [ssl:warn] [pid 8203] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 03:44:02.033771 2015] [ssl:warn] [pid 8203] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 03:44:02.033801 2015] [ssl:warn] [pid 8203] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 08:54:03.459531 2015] [ssl:warn] [pid 13318] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 08:54:03.459586 2015] [ssl:warn] [pid 13318] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 08:54:03.653014 2015] [ssl:warn] [pid 13318] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 08:54:03.653042 2015] [ssl:warn] [pid 13318] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 09:01:43.503671 2015] [ssl:warn] [pid 13381] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 09:01:43.503693 2015] [ssl:warn] [pid 13381] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 09:01:43.542563 2015] [ssl:warn] [pid 13381] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 09:01:43.542584 2015] [ssl:warn] [pid 13381] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 09:23:32.134913 2015] [ssl:warn] [pid 13527] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 09:23:32.134941 2015] [ssl:warn] [pid 13527] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 09:23:32.189164 2015] [ssl:warn] [pid 13527] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 09:23:32.189184 2015] [ssl:warn] [pid 13527] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 09:26:56.785119 2015] [ssl:warn] [pid 13557] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 09:26:56.785142 2015] [ssl:warn] [pid 13557] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 09:26:56.824863 2015] [ssl:warn] [pid 13557] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 09:26:56.824883 2015] [ssl:warn] [pid 13557] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 09:35:52.434245 2015] [ssl:warn] [pid 13622] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 09:35:52.434269 2015] [ssl:warn] [pid 13622] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 09:35:52.475787 2015] [ssl:warn] [pid 13622] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 09:35:52.475808 2015] [ssl:warn] [pid 13622] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 09:41:43.300501 2015] [ssl:warn] [pid 13662] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 09:41:43.300525 2015] [ssl:warn] [pid 13662] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 09:41:43.338816 2015] [ssl:warn] [pid 13662] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 09:41:43.338836 2015] [ssl:warn] [pid 13662] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 09:49:33.043714 2015] [ssl:warn] [pid 13711] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 09:49:33.043736 2015] [ssl:warn] [pid 13711] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 09:49:33.082134 2015] [ssl:warn] [pid 13711] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 09:49:33.082154 2015] [ssl:warn] [pid 13711] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 09:51:30.892349 2015] [ssl:warn] [pid 13747] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 09:51:30.892378 2015] [ssl:warn] [pid 13747] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 09:51:30.932911 2015] [ssl:warn] [pid 13747] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 09:51:30.932932 2015] [ssl:warn] [pid 13747] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 18:42:14.099674 2015] [ssl:warn] [pid 14858] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 18:42:14.099697 2015] [ssl:warn] [pid 14858] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 18:42:14.300274 2015] [ssl:warn] [pid 14858] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 18:42:14.300295 2015] [ssl:warn] [pid 14858] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 19:26:47.253796 2015] [ssl:warn] [pid 15262] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 19:26:47.253829 2015] [ssl:warn] [pid 15262] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Jul 21 19:26:47.391182 2015] [ssl:warn] [pid 15262] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jul 21 19:26:47.391203 2015] [ssl:warn] [pid 15262] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Wed Jul 22 07:55:41.875410 2015] [ssl:warn] [pid 19435] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jul 22 07:55:41.875433 2015] [ssl:warn] [pid 19435] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Wed Jul 22 07:55:41.970888 2015] [ssl:warn] [pid 19435] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jul 22 07:55:41.970909 2015] [ssl:warn] [pid 19435] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Wed Jul 22 08:38:56.983136 2015] [ssl:warn] [pid 19580] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jul 22 08:38:56.983159 2015] [ssl:warn] [pid 19580] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Wed Jul 22 08:38:57.183829 2015] [ssl:warn] [pid 19580] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jul 22 08:38:57.183856 2015] [ssl:warn] [pid 19580] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Thu Jul 23 09:08:46.075775 2015] [ssl:warn] [pid 29418] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jul 23 09:08:46.075798 2015] [ssl:warn] [pid 29418] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Thu Jul 23 09:08:46.183048 2015] [ssl:warn] [pid 29418] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jul 23 09:08:46.183068 2015] [ssl:warn] [pid 29418] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Thu Jul 23 09:11:02.288114 2015] [ssl:warn] [pid 29508] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jul 23 09:11:02.288138 2015] [ssl:warn] [pid 29508] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Thu Jul 23 09:11:02.327059 2015] [ssl:warn] [pid 29508] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jul 23 09:11:02.327095 2015] [ssl:warn] [pid 29508] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Thu Jul 23 09:17:51.403482 2015] [ssl:warn] [pid 29673] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jul 23 09:17:51.403505 2015] [ssl:warn] [pid 29673] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Thu Jul 23 09:17:51.447063 2015] [ssl:warn] [pid 29673] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jul 23 09:17:51.447083 2015] [ssl:warn] [pid 29673] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Thu Jul 23 09:30:47.223737 2015] [ssl:warn] [pid 29903] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jul 23 09:30:47.223760 2015] [ssl:warn] [pid 29903] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Thu Jul 23 09:30:47.263201 2015] [ssl:warn] [pid 29903] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jul 23 09:30:47.263222 2015] [ssl:warn] [pid 29903] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Thu Jul 23 09:33:15.128477 2015] [ssl:warn] [pid 29940] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jul 23 09:33:15.128502 2015] [ssl:warn] [pid 29940] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Thu Jul 23 09:33:15.169396 2015] [ssl:warn] [pid 29940] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jul 23 09:33:15.169416 2015] [ssl:warn] [pid 29940] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Thu Jul 23 09:37:51.999156 2015] [ssl:warn] [pid 29978] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jul 23 09:37:51.999186 2015] [ssl:warn] [pid 29978] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Thu Jul 23 09:37:52.039181 2015] [ssl:warn] [pid 29978] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jul 23 09:37:52.039202 2015] [ssl:warn] [pid 29978] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Thu Jul 23 09:45:59.814268 2015] [ssl:warn] [pid 30007] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jul 23 09:45:59.814291 2015] [ssl:warn] [pid 30007] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Thu Jul 23 09:45:59.852399 2015] [ssl:warn] [pid 30007] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jul 23 09:45:59.852419 2015] [ssl:warn] [pid 30007] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Sun Jul 26 03:14:02.782611 2015] [ssl:warn] [pid 30007] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Jul 26 03:14:02.782634 2015] [ssl:warn] [pid 30007] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Fri Jul 31 15:00:09.488664 2015] [cgi:error] [pid 15854] [client 80.82.65.186:39452] script not found or unable to stat: /var/www/cgi-bin/webcm
+[Fri Jul 31 23:21:54.569215 2015] [cgi:error] [pid 15857] [client 62.210.101.10:53960] script not found or unable to stat: /var/www/cgi-bin/webcm
+[Sun Aug 02 03:47:02.740202 2015] [ssl:warn] [pid 30007] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Aug 02 03:47:02.740231 2015] [ssl:warn] [pid 30007] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Tue Aug 04 02:16:51.834244 2015] [ssl:error] [pid 14765] AH02032: Hostname 45.79.90.218 provided via SNI and hostname djangotest.com provided via HTTP are different
+[Mon Aug 10 03:25:02.656134 2015] [ssl:warn] [pid 30007] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Aug 10 03:25:02.656159 2015] [ssl:warn] [pid 30007] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Mon Aug 10 18:04:30.469449 2015] [ssl:error] [pid 26562] AH02032: Hostname 45.79.90.218 provided via SNI and hostname djangotest.com provided via HTTP are different
+[Sun Aug 16 03:50:02.835077 2015] [ssl:warn] [pid 30007] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Aug 16 03:50:02.835100 2015] [ssl:warn] [pid 30007] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Sun Aug 16 17:29:03.220124 2015] [cgi:error] [pid 31745] [client 46.165.220.215:41359] script not found or unable to stat: /var/www/cgi-bin/webcm
+[Sun Aug 16 23:49:10.101443 2015] [cgi:error] [pid 31745] [client 46.165.220.215:53757] script not found or unable to stat: /var/www/cgi-bin/webcm
+[Mon Aug 17 15:23:36.830953 2015] [ssl:error] [pid 31745] AH02032: Hostname 45.79.90.218 provided via SNI and hostname djangotest.com provided via HTTP are different
+[Sun Aug 23 01:49:57.117896 2015] [cgi:error] [pid 18879] [client 88.202.224.162:34740] script not found or unable to stat: /var/www/cgi-bin/webcm
+[Mon Aug 24 03:44:01.957742 2015] [ssl:warn] [pid 30007] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Aug 24 03:44:01.957765 2015] [ssl:warn] [pid 30007] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Mon Aug 24 13:18:25.053415 2015] [ssl:error] [pid 24966] AH02032: Hostname 45.79.90.218 provided via SNI and hostname djangotest.com provided via HTTP are different
+[Wed Aug 26 13:51:22.274631 2015] [cgi:error] [pid 19227] [client 88.202.224.162:46298] script not found or unable to stat: /var/www/cgi-bin/webcm
+[Wed Aug 26 16:39:59.157061 2015] [cgi:error] [pid 19221] [client 88.202.224.162:36356] script not found or unable to stat: /var/www/cgi-bin/webcm
+[Sat Aug 29 09:20:39.934786 2015] [cgi:error] [pid 19227] [client 88.202.224.162:43900] script not found or unable to stat: /var/www/cgi-bin/webcm
+[Sun Aug 30 03:45:02.207474 2015] [ssl:warn] [pid 30007] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Aug 30 03:45:02.207508 2015] [ssl:warn] [pid 30007] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Mon Sep 07 03:18:02.587438 2015] [ssl:warn] [pid 30007] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Sep 07 03:18:02.587467 2015] [ssl:warn] [pid 30007] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Sat Sep 12 07:15:59.978421 2015] [ssl:error] [pid 27709] AH02032: Hostname 45.79.90.218 provided via SNI and hostname djangotest.com provided via HTTP are different
+[Sun Sep 13 03:48:02.519031 2015] [ssl:warn] [pid 30007] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Sep 13 03:48:02.519056 2015] [ssl:warn] [pid 30007] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Sun Sep 13 06:28:56.954149 2015] [ssl:error] [pid 24806] AH02032: Hostname 45.79.90.218 provided via SNI and hostname djangotest.com provided via HTTP are different
+[Mon Sep 14 12:41:42.667186 2015] [ssl:error] [pid 24201] AH02032: Hostname 45.79.90.218 provided via SNI and hostname djangotest.com provided via HTTP are different
+[Mon Sep 21 03:06:02.415078 2015] [ssl:warn] [pid 30007] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Sep 21 03:06:02.415101 2015] [ssl:warn] [pid 30007] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Mon Sep 21 11:28:08.178798 2015] [ssl:error] [pid 8825] AH02032: Hostname 45.79.90.218 provided via SNI and hostname djangotest.com provided via HTTP are different
+[Sun Sep 27 03:40:02.127120 2015] [ssl:warn] [pid 30007] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Sep 27 03:40:02.127144 2015] [ssl:warn] [pid 30007] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Mon Sep 28 09:44:00.197083 2015] [ssl:error] [pid 13699] AH02032: Hostname 45.79.90.218 provided via SNI and hostname djangotest.com provided via HTTP are different
+[Mon Oct 05 03:40:01.997207 2015] [ssl:warn] [pid 30007] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Oct 05 03:40:01.997239 2015] [ssl:warn] [pid 30007] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Mon Oct 05 11:33:10.394630 2015] [ssl:error] [pid 8341] AH02032: Hostname 45.79.90.218 provided via SNI and hostname djangotest.com provided via HTTP are different
+[Thu Oct 08 23:33:47.951677 2015] [cgi:error] [pid 8100] [client 158.255.7.176:54497] script not found or unable to stat: /var/www/cgi-bin/webcm
+[Sun Oct 11 03:47:02.193317 2015] [ssl:warn] [pid 30007] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Oct 11 03:47:02.193342 2015] [ssl:warn] [pid 30007] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Mon Oct 12 16:34:34.362468 2015] [ssl:error] [pid 16655] AH02032: Hostname 45.79.90.218 provided via SNI and hostname djangotest.com provided via HTTP are different
+[Mon Oct 19 03:29:02.169933 2015] [ssl:warn] [pid 30007] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Oct 19 03:29:02.169957 2015] [ssl:warn] [pid 30007] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Mon Oct 19 15:30:10.806853 2015] [ssl:error] [pid 19973] AH02032: Hostname 45.79.90.218 provided via SNI and hostname djangotest.com provided via HTTP are different
+[Mon Oct 19 23:43:52.150252 2015] [ssl:warn] [pid 2822] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Oct 19 23:43:52.150766 2015] [ssl:warn] [pid 2822] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Mon Oct 19 23:43:52.223219 2015] [ssl:warn] [pid 2822] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Oct 19 23:43:52.223241 2015] [ssl:warn] [pid 2822] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Sat Oct 24 15:45:48.836385 2015] [cgi:error] [pid 3024] [client 89.248.171.137:38759] script not found or unable to stat: /var/www/cgi-bin/webcm
+[Sun Oct 25 03:26:02.190314 2015] [ssl:warn] [pid 2822] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Oct 25 03:26:02.190343 2015] [ssl:warn] [pid 2822] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Mon Oct 26 08:44:46.485641 2015] [ssl:error] [pid 8127] AH02032: Hostname 45.79.90.218 provided via SNI and hostname djangotest.com provided via HTTP are different
+[Mon Nov 02 03:47:02.118532 2015] [ssl:warn] [pid 2822] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Nov 02 03:47:02.118564 2015] [ssl:warn] [pid 2822] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
+[Mon Nov 02 14:55:15.782716 2015] [ssl:error] [pid 31110] AH02032: Hostname 45.79.90.218 provided via SNI and hostname djangotest.com provided via HTTP are different
+[Sun Nov 08 03:41:01.950972 2015] [ssl:warn] [pid 2822] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Nov 08 03:41:01.950996 2015] [ssl:warn] [pid 2822] AH01909: RSA certificate configured for djangotest.sfvue.com:443 does NOT include an ID which matches the server name
