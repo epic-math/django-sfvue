@@ -1,0 +1,1148 @@
+[Mon Jun 15 15:00:12.651705 2015] [authz_core:error] [pid 19901] [client 64.71.28.178:51030] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Mon Jun 15 15:00:12.770633 2015] [authz_core:error] [pid 19901] [client 64.71.28.178:51030] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/
+[Mon Jun 15 15:00:12.782510 2015] [authz_core:error] [pid 19902] [client 64.71.28.178:51031] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/
+[Mon Jun 15 15:00:12.782847 2015] [authz_core:error] [pid 19905] [client 64.71.28.178:51033] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/
+[Mon Jun 15 15:00:12.783106 2015] [authz_core:error] [pid 19903] [client 64.71.28.178:51032] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/
+[Mon Jun 15 15:00:12.784229 2015] [authz_core:error] [pid 19901] [client 64.71.28.178:51030] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/
+[Mon Jun 15 15:00:12.804706 2015] [authz_core:error] [pid 19904] [client 64.71.28.178:51034] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/
+[Mon Jun 15 15:00:12.805051 2015] [authz_core:error] [pid 19901] [client 64.71.28.178:51030] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/
+[Mon Jun 15 15:00:12.815736 2015] [authz_core:error] [pid 19902] [client 64.71.28.178:51031] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/
+[Mon Jun 15 15:00:12.816036 2015] [authz_core:error] [pid 19903] [client 64.71.28.178:51032] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/
+[Mon Jun 15 15:00:12.816679 2015] [authz_core:error] [pid 19905] [client 64.71.28.178:51033] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/
+[Mon Jun 15 15:00:12.817012 2015] [authz_core:error] [pid 19901] [client 64.71.28.178:51030] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/
+[Mon Jun 15 15:00:12.837450 2015] [authz_core:error] [pid 19902] [client 64.71.28.178:51031] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/
+[Mon Jun 15 15:00:12.837881 2015] [authz_core:error] [pid 19901] [client 64.71.28.178:51030] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/
+[Mon Jun 15 15:00:12.839120 2015] [authz_core:error] [pid 19903] [client 64.71.28.178:51032] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/
+[Mon Jun 15 15:00:12.839943 2015] [authz_core:error] [pid 19905] [client 64.71.28.178:51033] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/
+[Mon Jun 15 15:06:42.803070 2015] [authz_core:error] [pid 19917] [client 64.71.28.178:51054] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Mon Jun 15 15:06:42.876355 2015] [authz_core:error] [pid 19917] [client 64.71.28.178:51054] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Mon Jun 15 15:06:42.877477 2015] [authz_core:error] [pid 19915] [client 64.71.28.178:51055] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Mon Jun 15 15:06:42.887182 2015] [authz_core:error] [pid 19917] [client 64.71.28.178:51054] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Mon Jun 15 15:06:42.887905 2015] [authz_core:error] [pid 19915] [client 64.71.28.178:51055] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Mon Jun 15 15:12:52.679661 2015] [authz_core:error] [pid 19905] [client 64.71.28.178:51087] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Mon Jun 15 15:12:52.703582 2015] [authz_core:error] [pid 19901] [client 64.71.28.178:51088] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Mon Jun 15 15:12:52.703757 2015] [authz_core:error] [pid 19905] [client 64.71.28.178:51087] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Mon Jun 15 15:12:52.713122 2015] [authz_core:error] [pid 19901] [client 64.71.28.178:51088] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Mon Jun 15 15:12:52.713333 2015] [authz_core:error] [pid 19905] [client 64.71.28.178:51087] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Mon Jun 15 19:47:38.861064 2015] [authz_core:error] [pid 19988] [client 54.193.85.235:53368] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Mon Jun 15 19:47:39.016486 2015] [authz_core:error] [pid 19991] [client 54.193.85.235:53372] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Mon Jun 15 19:47:39.016798 2015] [authz_core:error] [pid 19988] [client 54.193.85.235:53368] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Mon Jun 15 19:47:39.042376 2015] [authz_core:error] [pid 19991] [client 54.193.85.235:53372] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Mon Jun 15 19:47:39.042538 2015] [authz_core:error] [pid 19988] [client 54.193.85.235:53368] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Mon Jun 15 21:15:20.762885 2015] [authz_core:error] [pid 19985] [client 141.212.122.194:29392] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Tue Jun 16 07:09:29.690797 2015] [authz_core:error] [pid 19984] [client 54.193.85.235:54151] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Tue Jun 16 07:09:29.759902 2015] [authz_core:error] [pid 19984] [client 54.193.85.235:54151] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 07:09:29.760259 2015] [authz_core:error] [pid 19989] [client 54.193.85.235:54152] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 07:09:29.819307 2015] [authz_core:error] [pid 19984] [client 54.193.85.235:54151] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 07:09:29.819572 2015] [authz_core:error] [pid 19989] [client 54.193.85.235:54152] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 07:52:20.633452 2015] [authz_core:error] [pid 29268] [client 54.193.85.235:54509] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Tue Jun 16 07:52:20.715065 2015] [authz_core:error] [pid 29269] [client 54.193.85.235:54510] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 07:52:20.715433 2015] [authz_core:error] [pid 29268] [client 54.193.85.235:54509] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 07:52:20.736071 2015] [authz_core:error] [pid 29269] [client 54.193.85.235:54510] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 07:52:20.736306 2015] [authz_core:error] [pid 29268] [client 54.193.85.235:54509] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 08:03:51.984496 2015] [authz_core:error] [pid 29292] [client 54.193.85.235:54535] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Tue Jun 16 08:03:52.116515 2015] [authz_core:error] [pid 29292] [client 54.193.85.235:54535] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 08:03:52.129255 2015] [authz_core:error] [pid 29268] [client 54.193.85.235:54538] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 08:03:52.141704 2015] [authz_core:error] [pid 29292] [client 54.193.85.235:54535] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 08:03:52.153635 2015] [authz_core:error] [pid 29291] [client 54.193.85.235:54536] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 08:10:45.930057 2015] [authz_core:error] [pid 29271] [client 54.193.85.235:54569] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Tue Jun 16 08:18:17.755526 2015] [authz_core:error] [pid 29898] [client 54.193.85.235:54599] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Tue Jun 16 08:28:57.709910 2015] [authz_core:error] [pid 30294] [client 54.193.85.235:54681] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Tue Jun 16 08:28:57.807675 2015] [authz_core:error] [pid 30293] [client 54.193.85.235:54682] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 08:28:57.808089 2015] [authz_core:error] [pid 30294] [client 54.193.85.235:54681] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 08:28:57.830060 2015] [authz_core:error] [pid 30293] [client 54.193.85.235:54682] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 08:28:57.830382 2015] [authz_core:error] [pid 30294] [client 54.193.85.235:54681] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 08:32:27.213853 2015] [authz_core:error] [pid 30378] [client 54.193.85.235:54767] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Tue Jun 16 08:34:12.121711 2015] [authz_core:error] [pid 30396] [client 54.193.85.235:54773] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Tue Jun 16 08:36:28.730245 2015] [authz_core:error] [pid 30382] [client 54.193.85.235:54787] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Tue Jun 16 08:36:28.806417 2015] [authz_core:error] [pid 30382] [client 54.193.85.235:54787] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 08:36:28.808195 2015] [authz_core:error] [pid 30378] [client 54.193.85.235:54790] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 08:36:28.887833 2015] [authz_core:error] [pid 30381] [client 54.193.85.235:54788] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 08:36:28.888124 2015] [authz_core:error] [pid 30382] [client 54.193.85.235:54787] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 08:39:28.202540 2015] [authz_core:error] [pid 30379] [client 54.193.85.235:54796] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Tue Jun 16 08:39:28.272043 2015] [authz_core:error] [pid 30380] [client 54.193.85.235:54799] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 08:39:28.272367 2015] [authz_core:error] [pid 30379] [client 54.193.85.235:54796] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 08:39:28.333163 2015] [authz_core:error] [pid 30379] [client 54.193.85.235:54796] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 08:39:28.333437 2015] [authz_core:error] [pid 30380] [client 54.193.85.235:54799] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 08:41:53.815918 2015] [authz_core:error] [pid 30378] [client 54.193.85.235:54811] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Tue Jun 16 08:42:29.060697 2015] [authz_core:error] [pid 30610] [client 54.193.85.235:54815] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Tue Jun 16 09:06:14.992474 2015] [authz_core:error] [pid 31137] [client 54.193.85.235:55029] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Tue Jun 16 10:22:45.964689 2015] [authz_core:error] [pid 31139] [client 104.255.68.191:35201] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/robots.txt
+[Tue Jun 16 10:51:35.409623 2015] [authz_core:error] [pid 31141] [client 54.193.85.235:55943] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Tue Jun 16 20:00:00.541814 2015] [authz_core:error] [pid 1803] [client 54.193.85.235:59279] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Tue Jun 16 20:00:00.597820 2015] [authz_core:error] [pid 1803] [client 54.193.85.235:59279] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 20:00:00.605841 2015] [authz_core:error] [pid 1804] [client 54.193.85.235:59280] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 20:00:00.614898 2015] [authz_core:error] [pid 1803] [client 54.193.85.235:59279] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Tue Jun 16 20:00:00.622929 2015] [authz_core:error] [pid 1804] [client 54.193.85.235:59280] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 03:35:19.728210 2015] [authz_core:error] [pid 1806] [client 169.54.233.116:21188] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 03:37:35.478258 2015] [authz_core:error] [pid 1808] [client 123.125.71.32:29719] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/robots.txt
+[Wed Jun 17 04:41:04.292110 2015] [authz_core:error] [pid 1815] [client 94.102.49.169:54240] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 04:41:14.479626 2015] [authz_core:error] [pid 1816] [client 94.102.49.169:50592] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/PSIA
+[Wed Jun 17 04:41:24.554568 2015] [authz_core:error] [pid 1803] [client 94.102.49.169:47445] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/cgi
+[Wed Jun 17 04:41:35.687001 2015] [cgi:error] [pid 1804] [client 94.102.49.169:45866] script not found or unable to stat: /var/www/cgi-bin/rtpd.cgi
+[Wed Jun 17 04:41:46.635332 2015] [authz_core:error] [pid 1805] [client 94.102.49.169:43279] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/LIVE_VIEW.asp
+[Wed Jun 17 07:26:57.918994 2015] [authz_core:error] [pid 1807] [client 64.71.28.178:59377] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 07:28:31.592346 2015] [authz_core:error] [pid 1804] [client 66.249.84.168:34498] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 07:54:01.866728 2015] [authz_core:error] [pid 1805] [client 64.71.28.178:59680] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:09:26.404847 2015] [authz_core:error] [pid 5175] [client 64.71.28.178:59736] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:09:26.454486 2015] [authz_core:error] [pid 5177] [client 64.71.28.178:59738] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:09:26.454783 2015] [authz_core:error] [pid 5176] [client 64.71.28.178:59737] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:09:26.464742 2015] [authz_core:error] [pid 5177] [client 64.71.28.178:59738] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:09:26.464948 2015] [authz_core:error] [pid 5176] [client 64.71.28.178:59737] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:09:26.483592 2015] [authz_core:error] [pid 5176] [client 64.71.28.178:59737] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/favicon.ico, referer: http://pics.sfvue.com/
+[Wed Jun 17 08:09:54.945505 2015] [authz_core:error] [pid 5179] [client 64.71.28.178:59745] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:09:54.982438 2015] [authz_core:error] [pid 5179] [client 64.71.28.178:59745] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:09:54.991509 2015] [authz_core:error] [pid 5179] [client 64.71.28.178:59745] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:09:54.992728 2015] [authz_core:error] [pid 5182] [client 64.71.28.178:59746] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:09:55.030398 2015] [authz_core:error] [pid 5179] [client 64.71.28.178:59745] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:09:58.696155 2015] [authz_core:error] [pid 5184] [client 64.71.28.178:59753] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:09:58.749161 2015] [authz_core:error] [pid 5184] [client 64.71.28.178:59753] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:09:58.749515 2015] [authz_core:error] [pid 5183] [client 64.71.28.178:59754] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:09:58.761402 2015] [authz_core:error] [pid 5184] [client 64.71.28.178:59753] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:09:58.761735 2015] [authz_core:error] [pid 5183] [client 64.71.28.178:59754] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:10:04.046921 2015] [authz_core:error] [pid 5177] [client 64.71.28.178:59760] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:10:04.103454 2015] [authz_core:error] [pid 5176] [client 64.71.28.178:59761] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:10:04.104463 2015] [authz_core:error] [pid 5185] [client 64.71.28.178:59763] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:10:04.152658 2015] [authz_core:error] [pid 5177] [client 64.71.28.178:59760] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:10:04.152870 2015] [authz_core:error] [pid 5176] [client 64.71.28.178:59761] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:10:04.170603 2015] [authz_core:error] [pid 5177] [client 64.71.28.178:59760] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/favicon.ico
+[Wed Jun 17 08:10:04.184130 2015] [authz_core:error] [pid 5177] [client 64.71.28.178:59760] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/favicon.ico
+[Wed Jun 17 08:12:47.534998 2015] [authz_core:error] [pid 5175] [client 64.71.28.178:59781] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:12:47.554934 2015] [authz_core:error] [pid 5175] [client 64.71.28.178:59781] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:12:47.555381 2015] [authz_core:error] [pid 5183] [client 64.71.28.178:59782] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:12:47.561844 2015] [authz_core:error] [pid 5175] [client 64.71.28.178:59781] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:12:47.567292 2015] [authz_core:error] [pid 5183] [client 64.71.28.178:59782] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:12:51.229413 2015] [authz_core:error] [pid 5184] [client 64.71.28.178:59787] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:12:51.251516 2015] [authz_core:error] [pid 5184] [client 64.71.28.178:59787] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:12:51.258304 2015] [authz_core:error] [pid 5182] [client 64.71.28.178:59788] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:12:51.258952 2015] [authz_core:error] [pid 5184] [client 64.71.28.178:59787] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:12:51.267071 2015] [authz_core:error] [pid 5184] [client 64.71.28.178:59787] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:32:12.151734 2015] [authz_core:error] [pid 5177] [client 64.71.28.178:60183] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:32:12.199241 2015] [authz_core:error] [pid 5177] [client 64.71.28.178:60183] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/favicon.ico, referer: http://pics.sfvue.com/
+[Wed Jun 17 08:32:18.000629 2015] [authz_core:error] [pid 5179] [client 64.71.28.178:60189] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:32:18.052064 2015] [authz_core:error] [pid 5179] [client 64.71.28.178:60189] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:32:18.056372 2015] [authz_core:error] [pid 5185] [client 64.71.28.178:60190] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:32:18.180682 2015] [authz_core:error] [pid 5185] [client 64.71.28.178:60190] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:32:18.181033 2015] [authz_core:error] [pid 5179] [client 64.71.28.178:60189] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:32:25.543064 2015] [authz_core:error] [pid 5182] [client 64.71.28.178:60188] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:32:25.593756 2015] [authz_core:error] [pid 5184] [client 64.71.28.178:60193] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:32:25.594041 2015] [authz_core:error] [pid 5182] [client 64.71.28.178:60188] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:32:25.618204 2015] [authz_core:error] [pid 5184] [client 64.71.28.178:60193] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/favicon.ico, referer: http://pics.sfvue.com/
+[Wed Jun 17 08:32:25.618404 2015] [authz_core:error] [pid 5182] [client 64.71.28.178:60188] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:32:25.618769 2015] [authz_core:error] [pid 5225] [client 64.71.28.178:60195] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:32:43.087159 2015] [authz_core:error] [pid 5179] [client 64.71.28.178:60202] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:32:43.109356 2015] [authz_core:error] [pid 5179] [client 64.71.28.178:60202] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:32:43.115940 2015] [authz_core:error] [pid 5179] [client 64.71.28.178:60202] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:32:43.121478 2015] [authz_core:error] [pid 5185] [client 64.71.28.178:60203] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:32:43.122981 2015] [authz_core:error] [pid 5179] [client 64.71.28.178:60202] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:33:25.154419 2015] [authz_core:error] [pid 5184] [client 64.71.28.178:60212] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:33:25.220642 2015] [authz_core:error] [pid 5183] [client 64.71.28.178:60213] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:33:25.220861 2015] [authz_core:error] [pid 5184] [client 64.71.28.178:60212] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:33:25.230558 2015] [authz_core:error] [pid 5183] [client 64.71.28.178:60213] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:33:25.231753 2015] [authz_core:error] [pid 5184] [client 64.71.28.178:60212] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:33:25.243970 2015] [authz_core:error] [pid 5184] [client 64.71.28.178:60212] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/favicon.ico
+[Wed Jun 17 08:33:25.255087 2015] [authz_core:error] [pid 5184] [client 64.71.28.178:60212] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/favicon.ico
+[Wed Jun 17 08:33:32.545210 2015] [authz_core:error] [pid 5177] [client 64.71.28.178:60216] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:33:32.628796 2015] [authz_core:error] [pid 5177] [client 64.71.28.178:60216] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:33:32.648468 2015] [authz_core:error] [pid 5178] [client 64.71.28.178:60217] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:33:32.649791 2015] [authz_core:error] [pid 5177] [client 64.71.28.178:60216] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:33:32.656666 2015] [authz_core:error] [pid 5177] [client 64.71.28.178:60216] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:33:32.667478 2015] [authz_core:error] [pid 5177] [client 64.71.28.178:60216] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/favicon.ico
+[Wed Jun 17 08:35:52.538715 2015] [authz_core:error] [pid 5237] [client 64.71.28.178:60333] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:35:52.584651 2015] [authz_core:error] [pid 5241] [client 64.71.28.178:60336] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:35:52.584947 2015] [authz_core:error] [pid 5237] [client 64.71.28.178:60333] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:35:52.594716 2015] [authz_core:error] [pid 5241] [client 64.71.28.178:60336] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:35:52.595863 2015] [authz_core:error] [pid 5237] [client 64.71.28.178:60333] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:35:55.251401 2015] [authz_core:error] [pid 5240] [client 64.71.28.178:60340] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:35:55.312271 2015] [authz_core:error] [pid 5240] [client 64.71.28.178:60340] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:35:55.316186 2015] [authz_core:error] [pid 5246] [client 64.71.28.178:60341] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:35:55.367222 2015] [authz_core:error] [pid 5240] [client 64.71.28.178:60340] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:35:55.367968 2015] [authz_core:error] [pid 5246] [client 64.71.28.178:60341] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:35:55.466178 2015] [authz_core:error] [pid 5250] [client 64.71.28.178:60346] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:35:55.513122 2015] [authz_core:error] [pid 5250] [client 64.71.28.178:60346] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:35:55.513362 2015] [authz_core:error] [pid 5249] [client 64.71.28.178:60347] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:35:55.520235 2015] [authz_core:error] [pid 5250] [client 64.71.28.178:60346] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:35:55.520400 2015] [authz_core:error] [pid 5249] [client 64.71.28.178:60347] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:36:01.905072 2015] [authz_core:error] [pid 5239] [client 64.71.28.178:60352] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:36:01.932313 2015] [authz_core:error] [pid 5239] [client 64.71.28.178:60352] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:36:01.932674 2015] [authz_core:error] [pid 5241] [client 64.71.28.178:60353] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:36:01.946845 2015] [authz_core:error] [pid 5239] [client 64.71.28.178:60352] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:36:01.947129 2015] [authz_core:error] [pid 5241] [client 64.71.28.178:60353] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.pics.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:52:44.516110 2015] [authz_core:error] [pid 5368] [client 64.71.28.178:60717] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:52:44.559412 2015] [authz_core:error] [pid 5368] [client 64.71.28.178:60717] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:52:44.560091 2015] [authz_core:error] [pid 5371] [client 64.71.28.178:60720] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:52:44.570445 2015] [authz_core:error] [pid 5368] [client 64.71.28.178:60717] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:52:44.571595 2015] [authz_core:error] [pid 5371] [client 64.71.28.178:60720] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/noindex, referer: http://www.sfvue.com/noindex/css/open-sans.css
+[Wed Jun 17 08:53:55.630584 2015] [authz_core:error] [pid 5395] [client 64.71.28.178:60721] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:56:20.077543 2015] [authz_core:error] [pid 5394] [client 64.71.28.178:60733] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:56:21.343896 2015] [authz_core:error] [pid 5394] [client 64.71.28.178:60733] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:56:26.365655 2015] [authz_core:error] [pid 5396] [client 64.71.28.178:60734] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 08:59:27.031143 2015] [authz_core:error] [pid 5397] [client 64.71.28.178:60739] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Wed Jun 17 18:29:37.523731 2015] [authz_core:error] [pid 18233] [client 54.193.85.235:65458] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/
+[Thu Jun 18 09:43:21.266900 2015] [authz_core:error] [pid 28544] [client 64.71.28.178:54276] AH01630: client denied by server configuration: /usr/share/phpMyAdmin
+[Tue Jun 30 09:40:15.981072 2015] [:error] [pid 7113] [client 187.253.190.194:57919] script '/srv/www/sfvue.com/public_html/wp-login.php' not found or unable to stat
+[Tue Jun 30 09:40:16.452333 2015] [:error] [pid 7113] [client 187.253.190.194:57919] script '/srv/www/sfvue.com/public_html/admin.php' not found or unable to stat
+[Fri Jul 03 14:36:12.715150 2015] [:error] [pid 29638] [client 37.1.200.173:60930] script '/srv/www/sfvue.com/public_html/xmlrpc.php' not found or unable to stat, referer: https://www.google.by/search?q=sfvue.com
+[Tue Jul 21 09:00:12.500148 2015] [authz_core:error] [pid 13322] [client 188.209.49.50:60000] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Wed Jul 22 09:45:49.532020 2015] [authz_core:error] [pid 15269] [client 80.82.78.164:50118] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Wed Jul 22 02:45:49.827886 2015] [authz_core:error] [pid 17694] [client 80.82.78.164:50423] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Fri Jul 24 15:47:16.886847 2015] [authz_core:error] [pid 30021] [client 93.158.200.19:34172] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sun Jul 26 05:49:55.181829 2015] [authz_core:error] [pid 15855] [client 142.4.222.126:56038] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/main.php
+[Sun Jul 26 05:49:55.319526 2015] [authz_core:error] [pid 15854] [client 142.4.222.126:56115] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/main.php
+[Sun Jul 26 06:20:41.611898 2015] [authz_core:error] [pid 15854] [client 188.209.49.192:61234] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Mon Jul 27 10:56:24.769184 2015] [authz_core:error] [pid 15855] [client 134.213.149.14:40870] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/index.php
+[Mon Jul 27 03:56:25.043337 2015] [authz_core:error] [pid 15854] [client 134.213.149.14:40973] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/main.php
+[Mon Jul 27 03:56:25.316654 2015] [authz_core:error] [pid 18211] [client 134.213.149.14:41074] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/index.php
+[Mon Jul 27 03:56:25.589883 2015] [authz_core:error] [pid 15856] [client 134.213.149.14:41179] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/main.php
+[Tue Jul 28 00:29:49.302502 2015] [authz_core:error] [pid 15854] [client 172.82.149.130:60000] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Wed Jul 29 18:26:47.423612 2015] [cgi:error] [pid 15858] [client 162.246.61.20:39444] script not found or unable to stat: /var/www/cgi-bin/php
+[Wed Jul 29 18:26:47.490976 2015] [cgi:error] [pid 15858] [client 162.246.61.20:39444] script not found or unable to stat: /var/www/cgi-bin/php5
+[Wed Jul 29 18:26:47.565752 2015] [cgi:error] [pid 15858] [client 162.246.61.20:39444] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Wed Jul 29 18:26:47.633453 2015] [cgi:error] [pid 15858] [client 162.246.61.20:39444] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Wed Jul 29 18:26:47.700587 2015] [cgi:error] [pid 15858] [client 162.246.61.20:39444] script not found or unable to stat: /var/www/cgi-bin/php4
+[Wed Jul 29 22:06:38.023756 2015] [:error] [pid 15857] [client 94.102.63.135:51678] script '/srv/www/sfvue.com/public_html/wp-login.php' not found or unable to stat
+[Wed Jul 29 22:39:01.758771 2015] [:error] [pid 15857] [client 94.102.63.135:45193] script '/srv/www/sfvue.com/public_html/wp-login.php' not found or unable to stat
+[Thu Jul 30 11:07:46.298465 2015] [:error] [pid 15858] [client 94.102.63.135:53829] script '/srv/www/sfvue.com/public_html/wp-login.php' not found or unable to stat
+[Fri Jul 31 12:40:09.553301 2015] [:error] [pid 15855] [client 94.102.63.135:60584] script '/srv/www/sfvue.com/public_html/wp-login.php' not found or unable to stat
+[Fri Jul 31 16:02:12.388515 2015] [:error] [pid 18211] [client 94.102.63.135:42006] script '/srv/www/sfvue.com/public_html/wp-login.php' not found or unable to stat
+[Sun Aug 02 19:13:15.800266 2015] [cgi:error] [pid 14763] [client 69.64.46.86:65535] script not found or unable to stat: /var/www/cgi-bin/rtpd.cgi
+[Mon Aug 03 04:52:00.449793 2015] [cgi:error] [pid 14767] [client 124.122.247.37:38184] script not found or unable to stat: /var/www/cgi-bin/php
+[Mon Aug 03 04:52:01.109090 2015] [cgi:error] [pid 30051] [client 124.122.247.37:30201] script not found or unable to stat: /var/www/cgi-bin/php5
+[Mon Aug 03 04:52:01.772168 2015] [cgi:error] [pid 30052] [client 124.122.247.37:25535] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Mon Aug 03 04:52:02.460148 2015] [cgi:error] [pid 14763] [client 124.122.247.37:16293] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Mon Aug 03 11:52:03.123186 2015] [cgi:error] [pid 14765] [client 124.122.247.37:13881] script not found or unable to stat: /var/www/cgi-bin/php4
+[Wed Aug 05 20:18:42.762854 2015] [authz_core:error] [pid 14763] [client 109.86.16.210:54021] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Fri Aug 07 17:36:31.752960 2015] [authz_core:error] [pid 14919] [client 93.174.93.129:34592] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sat Aug 08 01:08:06.000350 2015] [:error] [pid 14919] [client 5.196.151.93:52684] script '/srv/www/sfvue.com/public_html/xmlrpc.php' not found or unable to stat
+[Mon Aug 10 12:27:24.318755 2015] [:error] [pid 26558] [client 176.98.70.140:50509] script '/srv/www/sfvue.com/public_html/go.php' not found or unable to stat
+[Mon Aug 10 12:27:24.319114 2015] [:error] [pid 26559] [client 176.98.70.140:50511] script '/srv/www/sfvue.com/public_html/away.php' not found or unable to stat
+[Mon Aug 10 12:27:24.321111 2015] [:error] [pid 26561] [client 176.98.70.140:50514] script '/srv/www/sfvue.com/public_html/go.php' not found or unable to stat
+[Mon Aug 10 12:27:24.690756 2015] [:error] [pid 31150] [client 176.98.70.140:50537] script '/srv/www/sfvue.com/public_html/redirect.php' not found or unable to stat
+[Mon Aug 10 12:27:24.693064 2015] [:error] [pid 26599] [client 176.98.70.140:50538] script '/srv/www/sfvue.com/public_html/redirect.php' not found or unable to stat
+[Fri Aug 14 07:10:12.165106 2015] [cgi:error] [pid 26559] [client 69.64.46.86:65535] script not found or unable to stat: /var/www/cgi-bin/rtpd.cgi
+[Sat Aug 15 11:52:02.612889 2015] [:error] [pid 31151] [client 5.196.151.93:65129] script '/srv/www/sfvue.com/public_html/xmlrpc.php' not found or unable to stat
+[Mon Aug 17 19:38:40.773639 2015] [authz_core:error] [pid 31834] [client 187.111.160.9:8149] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/main.php
+[Mon Aug 17 12:38:56.335573 2015] [core:error] [pid 31744] [client 187.111.160.9:8522] AH00126: Invalid URI in request GET  main.php HTTP/1.0
+[Wed Aug 19 14:29:54.214549 2015] [core:error] [pid 18879] [client 46.29.255.217:3278] AH00126: Invalid URI in request GET /../../../../../../../boot.ini HTTP/1.0
+[Wed Aug 19 21:29:54.237637 2015] [core:error] [pid 31748] [client 46.29.255.217:3015] AH00126: Invalid URI in request GET /../../../../../../../boot.ini HTTP/1.0
+[Wed Aug 19 21:29:54.469201 2015] [core:error] [pid 31744] [client 46.29.255.217:2957] AH00126: Invalid URI in request GET /../../../../config.sys HTTP/1.0
+[Wed Aug 19 21:29:55.019672 2015] [authz_core:error] [pid 31745] [client 46.29.255.217:2106] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/.htaccess
+[Wed Aug 19 14:29:55.023207 2015] [authz_core:error] [pid 31746] [client 46.29.255.217:2664] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/.htaccess
+[Wed Aug 19 21:29:55.027046 2015] [authz_core:error] [pid 31747] [client 46.29.255.217:3646] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/.htaccess
+[Wed Aug 19 21:29:55.033568 2015] [authz_core:error] [pid 31834] [client 46.29.255.217:2699] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/.htaccess
+[Wed Aug 19 14:29:55.099402 2015] [authz_core:error] [pid 18879] [client 46.29.255.217:3503] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/.htpasswd
+[Wed Aug 19 21:29:55.101489 2015] [authz_core:error] [pid 31748] [client 46.29.255.217:3520] AH01630: client denied by server configuration: /srv/www/sfvue.com/public_html/.htpasswd
+[Wed Aug 19 14:29:57.395994 2015] [core:error] [pid 31746] [client 46.29.255.217:1982] AH00126: Invalid URI in request GET /_mem_bin/../../../../winnt/system32/cmd.exe?/c+dir%20c:\\ HTTP/1.0
+[Wed Aug 19 21:29:57.399975 2015] [core:error] [pid 31747] [client 46.29.255.217:2516] AH00126: Invalid URI in request GET /_mem_bin/../../../../winnt/system32/cmd.exe?/c+dir%20c:\\ HTTP/1.0
+[Wed Aug 19 21:29:57.402658 2015] [core:error] [pid 31834] [client 46.29.255.217:3394] AH00126: Invalid URI in request GET /_mem_bin/../../../../winnt/system32/cmd.exe?/c+dir%20c:\\ HTTP/1.0
+[Wed Aug 19 14:29:57.407784 2015] [core:error] [pid 18879] [client 46.29.255.217:4085] AH00126: Invalid URI in request GET /_mem_bin/../../../../winnt/system32/cmd.exe?/c+dir%20c:\\ HTTP/1.0
+[Wed Aug 19 21:30:03.225216 2015] [core:error] [pid 31747] [client 46.29.255.217:4621] AH00126: Invalid URI in request GET /_vti_bin/../../../../winnt/system32/cmd.exe?/c+dir HTTP/1.0
+[Wed Aug 19 21:30:03.480022 2015] [core:error] [pid 31834] [client 46.29.255.217:1487] AH00126: Invalid URI in request GET /_vti_bin/../../../../winnt/system32/cmd.exe?/c+dir%20c:\\ HTTP/1.0
+[Wed Aug 19 21:30:29.069021 2015] [core:error] [pid 31834] [client 46.29.255.217:3666] AH00126: Invalid URI in request GET /bin/scripts/../../../../winnt/system32/cmd.exe /c+dir?/c+dir%20c:\\ HTTP/1.0
+[Wed Aug 19 14:30:29.371883 2015] [core:error] [pid 18879] [client 46.29.255.217:4876] AH00126: Invalid URI in request GET /bin/scripts/../../../../winnt/system32/cmd.exe?/c+dir HTTP/1.0
+[Wed Aug 19 14:30:29.461465 2015] [core:error] [pid 13251] [client 46.29.255.217:3673] AH00126: Invalid URI in request GET /bin/scripts/../../../../winnt/system32/cmd.exe?/c+dir%20c:\\ HTTP/1.0
+[Wed Aug 19 21:30:55.591871 2015] [cgi:error] [pid 31748] [client 46.29.255.217:2649] script not found or unable to stat: /var/www/cgi-bin/..\xc0\xaf..\xc0\xaf..\xc0\xaf..
+[Wed Aug 19 21:30:56.113067 2015] [cgi:error] [pid 31744] [client 46.29.255.217:1683] script not found or unable to stat: /var/www/cgi-bin/..\xc1\x1c..\xc1\x1c..\xc1\x1c..
+[Wed Aug 19 21:30:56.280056 2015] [cgi:error] [pid 31745] [client 46.29.255.217:2349] script not found or unable to stat: /var/www/cgi-bin/..\xc1\x9c..\xc1\x9c..\xc1\x9c..
+[Wed Aug 19 14:30:56.639887 2015] [core:error] [pid 31746] [client 46.29.255.217:4183] AH00126: Invalid URI in request GET /cgi-bin/../../../../winnt/system32/cmd.exe HTTP/1.0
+[Wed Aug 19 21:30:57.228959 2015] [cgi:error] [pid 31834] [client 46.29.255.217:2366] script not found or unable to stat: /var/www/cgi-bin/..\\..\\..\\..
+[Wed Aug 19 14:30:57.514647 2015] [cgi:error] [pid 18879] [client 46.29.255.217:4047] script not found or unable to stat: /var/www/cgi-bin/.._..
+[Wed Aug 19 14:30:57.927889 2015] [cgi:error] [pid 13251] [client 46.29.255.217:4171] script not found or unable to stat: /var/www/cgi-bin/Admin_files
+[Wed Aug 19 21:30:58.174008 2015] [cgi:error] [pid 31748] [client 46.29.255.217:3687] script not found or unable to stat: /var/www/cgi-bin/add_ftp.cgi
+[Wed Aug 19 21:30:58.578259 2015] [cgi:error] [pid 31744] [client 46.29.255.217:4573] script not found or unable to stat: /var/www/cgi-bin/adp
+[Wed Aug 19 21:30:58.949067 2015] [cgi:error] [pid 31745] [client 46.29.255.217:3821] script not found or unable to stat: /var/www/cgi-bin/adpassword.txt
+[Wed Aug 19 14:30:59.231289 2015] [cgi:error] [pid 31746] [client 46.29.255.217:4010] script not found or unable to stat: /var/www/cgi-bin/ads.setup
+[Wed Aug 19 21:30:59.510225 2015] [cgi:error] [pid 31747] [client 46.29.255.217:4772] script not found or unable to stat: /var/www/cgi-bin/aglimpse
+[Wed Aug 19 14:31:00.557339 2015] [cgi:error] [pid 18879] [client 46.29.255.217:3762] script not found or unable to stat: /var/www/cgi-bin/aglimpse.cgi
+[Wed Aug 19 21:31:01.638167 2015] [cgi:error] [pid 31748] [client 46.29.255.217:3751] script not found or unable to stat: /var/www/cgi-bin/alibaba.pl
+[Wed Aug 19 21:31:02.108524 2015] [cgi:error] [pid 31744] [client 46.29.255.217:4313] script not found or unable to stat: /var/www/cgi-bin/alibaba.pl\\dir
+[Wed Aug 19 21:31:02.495362 2015] [cgi:error] [pid 31745] [client 46.29.255.217:3717] script not found or unable to stat: /var/www/cgi-bin/allmanage.pl
+[Wed Aug 19 14:31:02.845927 2015] [cgi:error] [pid 31746] [client 46.29.255.217:3283] script not found or unable to stat: /var/www/cgi-bin/allmanage
+[Wed Aug 19 21:31:03.486023 2015] [cgi:error] [pid 31747] [client 46.29.255.217:4901] script not found or unable to stat: /var/www/cgi-bin/allmanage
+[Wed Aug 19 21:31:03.767075 2015] [cgi:error] [pid 31834] [client 46.29.255.217:3360] script not found or unable to stat: /var/www/cgi-bin/allmanage
+[Wed Aug 19 14:31:03.787089 2015] [cgi:error] [pid 18879] [client 46.29.255.217:3756] script not found or unable to stat: /var/www/cgi-bin/allmanage
+[Wed Aug 19 14:31:04.346787 2015] [cgi:error] [pid 13251] [client 46.29.255.217:4756] script not found or unable to stat: /var/www/cgi-bin/allmanageup.pl
+[Wed Aug 19 21:31:05.269739 2015] [cgi:error] [pid 31748] [client 46.29.255.217:1541] script not found or unable to stat: /var/www/cgi-bin/AnyBoard.cgi
+[Wed Aug 19 21:31:05.528213 2015] [cgi:error] [pid 31744] [client 46.29.255.217:4327] script not found or unable to stat: /var/www/cgi-bin/anyboard.cgi
+[Wed Aug 19 21:31:05.818327 2015] [cgi:error] [pid 31745] [client 46.29.255.217:1061] script not found or unable to stat: /var/www/cgi-bin/AnyForm
+[Wed Aug 19 14:31:06.249648 2015] [cgi:error] [pid 31746] [client 46.29.255.217:2073] script not found or unable to stat: /var/www/cgi-bin/AnyForm.cgi
+[Wed Aug 19 21:31:06.565633 2015] [cgi:error] [pid 31747] [client 46.29.255.217:4167] script not found or unable to stat: /var/www/cgi-bin/AnyForm2
+[Wed Aug 19 21:31:07.142565 2015] [cgi:error] [pid 31834] [client 46.29.255.217:3857] script not found or unable to stat: /var/www/cgi-bin/archie
+[Wed Aug 19 14:31:07.567299 2015] [cgi:error] [pid 18879] [client 46.29.255.217:3729] script not found or unable to stat: /var/www/cgi-bin/architext_query.pl
+[Wed Aug 19 14:31:07.831093 2015] [cgi:error] [pid 13251] [client 46.29.255.217:3922] script not found or unable to stat: /var/www/cgi-bin/ash
+[Wed Aug 19 21:31:08.459777 2015] [cgi:error] [pid 31748] [client 46.29.255.217:4272] script not found or unable to stat: /var/www/cgi-bin/AT-admin.cgi
+[Wed Aug 19 21:31:08.941013 2015] [cgi:error] [pid 31744] [client 46.29.255.217:2936] script not found or unable to stat: /var/www/cgi-bin/AT-generate.cgi
+[Wed Aug 19 21:31:09.377673 2015] [cgi:error] [pid 31745] [client 46.29.255.217:4690] script not found or unable to stat: /var/www/cgi-bin/authorize
+[Wed Aug 19 14:31:09.912117 2015] [cgi:error] [pid 31746] [client 46.29.255.217:3892] script not found or unable to stat: /var/www/cgi-bin/ax.cgi
+[Wed Aug 19 21:31:10.239569 2015] [cgi:error] [pid 31747] [client 46.29.255.217:4699] script not found or unable to stat: /var/www/cgi-bin/ax-admin.cgi
+[Wed Aug 19 21:31:10.577626 2015] [cgi:error] [pid 31834] [client 46.29.255.217:3439] script not found or unable to stat: /var/www/cgi-bin/axs.cgi
+[Wed Aug 19 14:31:11.103203 2015] [cgi:error] [pid 18879] [client 46.29.255.217:2936] script not found or unable to stat: /var/www/cgi-bin/bash
+[Wed Aug 19 14:31:11.342691 2015] [cgi:error] [pid 13251] [client 46.29.255.217:2454] script not found or unable to stat: /var/www/cgi-bin/bb-hist.sh
+[Wed Aug 19 21:31:11.786276 2015] [cgi:error] [pid 31748] [client 46.29.255.217:4724] script not found or unable to stat: /var/www/cgi-bin/bigconf.cgi
+[Wed Aug 19 21:31:11.852504 2015] [cgi:error] [pid 31744] [client 46.29.255.217:4541] script not found or unable to stat: /var/www/cgi-bin/bigconf.cgi
+[Wed Aug 19 21:31:12.111147 2015] [cgi:error] [pid 31745] [client 46.29.255.217:3216] script not found or unable to stat: /var/www/cgi-bin/bizdb1-search.cgi
+[Wed Aug 19 14:31:12.397353 2015] [cgi:error] [pid 31746] [client 46.29.255.217:4383] script not found or unable to stat: /var/www/cgi-bin/bnbform
+[Wed Aug 19 21:31:12.677185 2015] [cgi:error] [pid 31747] [client 46.29.255.217:4089] script not found or unable to stat: /var/www/cgi-bin/bnbform.cgi
+[Wed Aug 19 21:31:13.200620 2015] [cgi:error] [pid 31834] [client 46.29.255.217:3714] script not found or unable to stat: /var/www/cgi-bin/cachemgr.cgi
+[Wed Aug 19 14:31:13.532408 2015] [cgi:error] [pid 18879] [client 46.29.255.217:3645] script not found or unable to stat: /var/www/cgi-bin/calendar
+[Wed Aug 19 14:31:13.848055 2015] [cgi:error] [pid 13251] [client 46.29.255.217:4013] script not found or unable to stat: /var/www/cgi-bin/calender.pl
+[Wed Aug 19 21:31:14.207673 2015] [cgi:error] [pid 31748] [client 46.29.255.217:3562] script not found or unable to stat: /var/www/cgi-bin/calender_admin.pl
+[Wed Aug 19 21:31:14.840628 2015] [cgi:error] [pid 31745] [client 46.29.255.217:1774] script not found or unable to stat: /var/www/cgi-bin/campas
+[Wed Aug 19 14:31:15.193290 2015] [cgi:error] [pid 31746] [client 46.29.255.217:4078] script not found or unable to stat: /var/www/cgi-bin/carbo.dll
+[Wed Aug 19 21:31:15.781261 2015] [cgi:error] [pid 31747] [client 46.29.255.217:4074] script not found or unable to stat: /var/www/cgi-bin/cart.pl
+[Wed Aug 19 21:31:16.122173 2015] [cgi:error] [pid 31834] [client 46.29.255.217:3864] script not found or unable to stat: /var/www/cgi-bin/ceilidh.exe
+[Wed Aug 19 14:31:16.232297 2015] [cgi:error] [pid 18879] [client 46.29.255.217:4208] script not found or unable to stat: /var/www/cgi-bin/cgimail.exe
+[Wed Aug 19 21:31:17.136442 2015] [cgi:error] [pid 31748] [client 46.29.255.217:4075] script not found or unable to stat: /var/www/cgi-bin/Cgitest.exe
+[Wed Aug 19 21:31:17.618590 2015] [cgi:error] [pid 31744] [client 46.29.255.217:4418] script not found or unable to stat: /var/www/cgi-bin/cgiwrap
+[Wed Aug 19 21:31:17.950038 2015] [cgi:error] [pid 31745] [client 46.29.255.217:4047] script not found or unable to stat: /var/www/cgi-bin/classified.cgi
+[Wed Aug 19 14:31:18.503943 2015] [cgi:error] [pid 31746] [client 46.29.255.217:2359] script not found or unable to stat: /var/www/cgi-bin/classifieds
+[Wed Aug 19 21:31:18.950345 2015] [cgi:error] [pid 31747] [client 46.29.255.217:3615] script not found or unable to stat: /var/www/cgi-bin/classifieds.cgi
+[Wed Aug 19 21:31:19.245877 2015] [cgi:error] [pid 31834] [client 46.29.255.217:3063] script not found or unable to stat: /var/www/cgi-bin/clickresponder.pl
+[Wed Aug 19 14:31:19.933998 2015] [cgi:error] [pid 13251] [client 46.29.255.217:2729] script not found or unable to stat: /var/www/cgi-bin/cmd.exe
+[Wed Aug 19 21:31:21.143690 2015] [cgi:error] [pid 31745] [client 46.29.255.217:4776] script not found or unable to stat: /var/www/cgi-bin/Count.cgi
+[Wed Aug 19 21:31:21.716345 2015] [cgi:error] [pid 31747] [client 46.29.255.217:3816] script not found or unable to stat: /var/www/cgi-bin/counterfiglet
+[Wed Aug 19 14:31:22.053190 2015] [cgi:error] [pid 18879] [client 46.29.255.217:3558] script not found or unable to stat: /var/www/cgi-bin/csh
+[Wed Aug 19 14:31:22.342407 2015] [cgi:error] [pid 13251] [client 46.29.255.217:2323] script not found or unable to stat: /var/www/cgi-bin/date
+[Wed Aug 19 21:31:22.613765 2015] [cgi:error] [pid 31748] [client 46.29.255.217:1557] script not found or unable to stat: /var/www/cgi-bin/day5datacopier.cgi
+[Wed Aug 19 21:31:22.905368 2015] [cgi:error] [pid 31744] [client 46.29.255.217:4456] script not found or unable to stat: /var/www/cgi-bin/day5datanotifier.cgi
+[Wed Aug 19 21:31:23.215311 2015] [cgi:error] [pid 31745] [client 46.29.255.217:4469] script not found or unable to stat: /var/www/cgi-bin/day5notifier
+[Wed Aug 19 14:31:23.565079 2015] [cgi:error] [pid 31746] [client 46.29.255.217:2995] script not found or unable to stat: /var/www/cgi-bin/dbmlparser.exe
+[Wed Aug 19 21:31:24.055612 2015] [cgi:error] [pid 31747] [client 46.29.255.217:4021] script not found or unable to stat: /var/www/cgi-bin/dig.cgi
+[Wed Aug 19 21:31:24.414178 2015] [cgi:error] [pid 31834] [client 46.29.255.217:3844] script not found or unable to stat: /var/www/cgi-bin/dnewsweb
+[Wed Aug 19 14:31:24.558394 2015] [cgi:error] [pid 18879] [client 46.29.255.217:3413] script not found or unable to stat: /var/www/cgi-bin/download.cgi
+[Wed Aug 19 14:31:25.346455 2015] [cgi:error] [pid 13251] [client 46.29.255.217:3815] script not found or unable to stat: /var/www/cgi-bin/dumpenv.pl
+[Wed Aug 19 21:31:26.200636 2015] [cgi:error] [pid 31744] [client 46.29.255.217:2152] script not found or unable to stat: /var/www/cgi-bin/edit.pl
+[Wed Aug 19 14:31:26.744013 2015] [cgi:error] [pid 31746] [client 46.29.255.217:3787] script not found or unable to stat: /var/www/cgi-bin/environ.cgi
+[Wed Aug 19 21:31:27.279455 2015] [cgi:error] [pid 31747] [client 46.29.255.217:4163] script not found or unable to stat: /var/www/cgi-bin/excite
+[Wed Aug 19 14:31:29.542413 2015] [cgi:error] [pid 18879] [client 46.29.255.217:3951] script not found or unable to stat: /var/www/cgi-bin/faxsurvey
+[Wed Aug 19 21:31:29.876826 2015] [cgi:error] [pid 31748] [client 46.29.255.217:4924] script not found or unable to stat: /var/www/cgi-bin/filemail
+[Wed Aug 19 21:31:30.404268 2015] [cgi:error] [pid 31744] [client 46.29.255.217:4176] script not found or unable to stat: /var/www/cgi-bin/files.pl
+[Wed Aug 19 21:31:30.599877 2015] [cgi:error] [pid 31745] [client 46.29.255.217:2226] script not found or unable to stat: /var/www/cgi-bin/finger.cgi
+[Wed Aug 19 14:31:30.679436 2015] [cgi:error] [pid 31746] [client 46.29.255.217:4306] script not found or unable to stat: /var/www/cgi-bin/finger.pl
+[Wed Aug 19 21:31:30.947518 2015] [cgi:error] [pid 31747] [client 46.29.255.217:4359] script not found or unable to stat: /var/www/cgi-bin/flexform
+[Wed Aug 19 21:31:30.962801 2015] [cgi:error] [pid 31834] [client 46.29.255.217:3276] script not found or unable to stat: /var/www/cgi-bin/flexform
+[Wed Aug 19 14:31:30.970807 2015] [cgi:error] [pid 18879] [client 46.29.255.217:2914] script not found or unable to stat: /var/www/cgi-bin/flexform.cgi
+[Wed Aug 19 21:31:31.599314 2015] [cgi:error] [pid 31748] [client 46.29.255.217:4918] script not found or unable to stat: /var/www/cgi-bin/FormHandler.cgi
+[Wed Aug 19 14:31:33.425563 2015] [cgi:error] [pid 18879] [client 46.29.255.217:4527] script not found or unable to stat: /var/www/cgi-bin/formmail.pl
+[Wed Aug 19 14:31:33.697046 2015] [cgi:error] [pid 13251] [client 46.29.255.217:4783] script not found or unable to stat: /var/www/cgi-bin/fortune
+[Wed Aug 19 21:31:34.227930 2015] [cgi:error] [pid 31748] [client 46.29.255.217:4230] script not found or unable to stat: /var/www/cgi-bin/fpcount.exe
+[Wed Aug 19 21:31:34.691843 2015] [cgi:error] [pid 31744] [client 46.29.255.217:3191] script not found or unable to stat: /var/www/cgi-bin/fpexplore.exe
+[Wed Aug 19 21:31:35.304324 2015] [cgi:error] [pid 31745] [client 46.29.255.217:2230] script not found or unable to stat: /var/www/cgi-bin/fpexplorer.exe
+[Wed Aug 19 14:31:35.883883 2015] [cgi:error] [pid 31746] [client 46.29.255.217:3195] script not found or unable to stat: /var/www/cgi-bin/ftp
+[Wed Aug 19 21:31:37.031717 2015] [cgi:error] [pid 31834] [client 46.29.255.217:4014] script not found or unable to stat: /var/www/cgi-bin/get32.exe
+[Wed Aug 19 14:31:37.367744 2015] [cgi:error] [pid 18879] [client 46.29.255.217:3399] script not found or unable to stat: /var/www/cgi-bin/get32.exe\\dir
+[Wed Aug 19 14:31:37.858427 2015] [cgi:error] [pid 13251] [client 46.29.255.217:1866] script not found or unable to stat: /var/www/cgi-bin/gH.cgi
+[Wed Aug 19 21:31:38.320230 2015] [cgi:error] [pid 31748] [client 46.29.255.217:4138] script not found or unable to stat: /var/www/cgi-bin/guestbook
+[Wed Aug 19 21:31:38.442941 2015] [cgi:error] [pid 31744] [client 46.29.255.217:2662] script not found or unable to stat: /var/www/cgi-bin/glimpse
+[Wed Aug 19 21:31:38.955052 2015] [cgi:error] [pid 31745] [client 46.29.255.217:1382] script not found or unable to stat: /var/www/cgi-bin/guestbook.cgi
+[Wed Aug 19 14:31:39.447405 2015] [cgi:error] [pid 31746] [client 46.29.255.217:4364] script not found or unable to stat: /var/www/cgi-bin/guestbook.pl
+[Wed Aug 19 21:31:39.785761 2015] [cgi:error] [pid 31747] [client 46.29.255.217:4001] script not found or unable to stat: /var/www/cgi-bin/handler
+[Wed Aug 19 21:31:40.612160 2015] [cgi:error] [pid 31834] [client 46.29.255.217:2230] script not found or unable to stat: /var/www/cgi-bin/handler.cgi
+[Wed Aug 19 21:31:41.861628 2015] [cgi:error] [pid 31748] [client 46.29.255.217:3184] script not found or unable to stat: /var/www/cgi-bin/htimage.exe
+[Wed Aug 19 21:31:43.487171 2015] [cgi:error] [pid 31744] [client 46.29.255.217:1286] script not found or unable to stat: /var/www/cgi-bin/htmlscript
+[Wed Aug 19 21:31:44.418006 2015] [cgi:error] [pid 31745] [client 46.29.255.217:4143] script not found or unable to stat: /var/www/cgi-bin/htmlscript
+[Wed Aug 19 21:31:45.771227 2015] [cgi:error] [pid 31747] [client 46.29.255.217:2139] script not found or unable to stat: /var/www/cgi-bin/htsearch
+[Wed Aug 19 21:31:46.401191 2015] [cgi:error] [pid 31834] [client 46.29.255.217:4236] script not found or unable to stat: /var/www/cgi-bin/iisadmpwd
+[Wed Aug 19 14:31:46.801675 2015] [cgi:error] [pid 18879] [client 46.29.255.217:4269] script not found or unable to stat: /var/www/cgi-bin/iisadmpwd
+[Wed Aug 19 14:31:47.515932 2015] [cgi:error] [pid 13251] [client 46.29.255.217:4534] script not found or unable to stat: /var/www/cgi-bin/iisadmpwd
+[Wed Aug 19 21:31:48.054280 2015] [cgi:error] [pid 31748] [client 46.29.255.217:4629] script not found or unable to stat: /var/www/cgi-bin/iisadmpwd
+[Wed Aug 19 21:31:48.732289 2015] [cgi:error] [pid 31744] [client 46.29.255.217:4659] script not found or unable to stat: /var/www/cgi-bin/imagemap.exe
+[Wed Aug 19 21:31:49.438536 2015] [cgi:error] [pid 31745] [client 46.29.255.217:1327] script not found or unable to stat: /var/www/cgi-bin/info2www
+[Wed Aug 19 14:31:50.073179 2015] [cgi:error] [pid 31746] [client 46.29.255.217:4351] script not found or unable to stat: /var/www/cgi-bin/infosrch.cgi
+[Wed Aug 19 21:31:50.584351 2015] [cgi:error] [pid 31747] [client 46.29.255.217:4154] script not found or unable to stat: /var/www/cgi-bin/input.bat
+[Wed Aug 19 21:31:51.184896 2015] [cgi:error] [pid 31834] [client 46.29.255.217:3758] script not found or unable to stat: /var/www/cgi-bin/input2.bat
+[Wed Aug 19 14:31:52.058604 2015] [cgi:error] [pid 13251] [client 46.29.255.217:3075] script not found or unable to stat: /var/www/cgi-bin/jj
+[Wed Aug 19 21:31:52.991179 2015] [cgi:error] [pid 31748] [client 46.29.255.217:4577] script not found or unable to stat: /var/www/cgi-bin/k
+[Wed Aug 19 21:31:53.677252 2015] [cgi:error] [pid 31745] [client 46.29.255.217:1250] script not found or unable to stat: /var/www/cgi-bin/ksh
+[Wed Aug 19 21:31:55.423466 2015] [cgi:error] [pid 31747] [client 46.29.255.217:4757] script not found or unable to stat: /var/www/cgi-bin/loadpage.cgi
+[Wed Aug 19 21:31:55.760520 2015] [cgi:error] [pid 31834] [client 46.29.255.217:2229] script not found or unable to stat: /var/www/cgi-bin/lwgate
+[Wed Aug 19 14:31:56.112718 2015] [cgi:error] [pid 18879] [client 46.29.255.217:3948] script not found or unable to stat: /var/www/cgi-bin/LWGate.cgi
+[Wed Aug 19 14:31:56.685492 2015] [cgi:error] [pid 13251] [client 46.29.255.217:4999] script not found or unable to stat: /var/www/cgi-bin/lwgate.cgi
+[Wed Aug 19 21:31:57.530157 2015] [cgi:error] [pid 31748] [client 46.29.255.217:1811] script not found or unable to stat: /var/www/cgi-bin/MachineInfo
+[Wed Aug 19 21:31:58.216350 2015] [cgi:error] [pid 31744] [client 46.29.255.217:1473] script not found or unable to stat: /var/www/cgi-bin/mail
+[Wed Aug 19 21:31:58.281521 2015] [cgi:error] [pid 31745] [client 46.29.255.217:1040] script not found or unable to stat: /var/www/cgi-bin/mailform.exe
+[Wed Aug 19 14:31:58.560711 2015] [cgi:error] [pid 31746] [client 46.29.255.217:3441] script not found or unable to stat: /var/www/cgi-bin/maillist.pl
+[Wed Aug 19 21:31:59.656532 2015] [cgi:error] [pid 31747] [client 46.29.255.217:3885] script not found or unable to stat: /var/www/cgi-bin/makechanges
+[Wed Aug 19 21:31:59.920469 2015] [cgi:error] [pid 31834] [client 46.29.255.217:3956] script not found or unable to stat: /var/www/cgi-bin/man.sh
+[Wed Aug 19 14:32:00.204540 2015] [cgi:error] [pid 18879] [client 46.29.255.217:1971] script not found or unable to stat: /var/www/cgi-bin/mlog.phtml
+[Wed Aug 19 14:32:00.470550 2015] [cgi:error] [pid 13251] [client 46.29.255.217:1874] script not found or unable to stat: /var/www/cgi-bin/mylog.phtml
+[Wed Aug 19 21:32:00.879164 2015] [cgi:error] [pid 31748] [client 46.29.255.217:1065] script not found or unable to stat: /var/www/cgi-bin/netstat
+[Wed Aug 19 21:32:01.858794 2015] [cgi:error] [pid 31744] [client 46.29.255.217:4685] script not found or unable to stat: /var/www/cgi-bin/nlog-smb.pl
+[Wed Aug 19 21:32:02.240931 2015] [cgi:error] [pid 31745] [client 46.29.255.217:2767] script not found or unable to stat: /var/www/cgi-bin/nph-error.pl
+[Wed Aug 19 14:32:02.622973 2015] [cgi:error] [pid 31746] [client 46.29.255.217:4124] script not found or unable to stat: /var/www/cgi-bin/nph-publish
+[Wed Aug 19 21:32:03.338811 2015] [cgi:error] [pid 31747] [client 46.29.255.217:1435] script not found or unable to stat: /var/www/cgi-bin/nph-test-cgi
+[Wed Aug 19 14:32:04.983950 2015] [cgi:error] [pid 18879] [client 46.29.255.217:2472] script not found or unable to stat: /var/www/cgi-bin/passwd
+[Wed Aug 19 14:32:05.168815 2015] [cgi:error] [pid 13251] [client 46.29.255.217:4199] script not found or unable to stat: /var/www/cgi-bin/passwd.txt
+[Wed Aug 19 21:32:05.413661 2015] [cgi:error] [pid 31748] [client 46.29.255.217:1301] script not found or unable to stat: /var/www/cgi-bin/password
+[Wed Aug 19 21:32:05.958148 2015] [cgi:error] [pid 31744] [client 46.29.255.217:4586] script not found or unable to stat: /var/www/cgi-bin/password.dat
+[Wed Aug 19 21:32:06.344423 2015] [cgi:error] [pid 31745] [client 46.29.255.217:2584] script not found or unable to stat: /var/www/cgi-bin/password.log
+[Wed Aug 19 14:32:06.724125 2015] [cgi:error] [pid 31746] [client 46.29.255.217:4934] script not found or unable to stat: /var/www/cgi-bin/password.txt
+[Wed Aug 19 21:32:07.150771 2015] [cgi:error] [pid 31747] [client 46.29.255.217:4655] script not found or unable to stat: /var/www/cgi-bin/perl
+[Wed Aug 19 14:32:08.207523 2015] [cgi:error] [pid 18879] [client 46.29.255.217:4830] script not found or unable to stat: /var/www/cgi-bin/perl.exe
+[Wed Aug 19 14:32:08.588782 2015] [cgi:error] [pid 13251] [client 46.29.255.217:3607] script not found or unable to stat: /var/www/cgi-bin/perlshop.cgi
+[Wed Aug 19 21:32:09.233122 2015] [cgi:error] [pid 31748] [client 46.29.255.217:4424] script not found or unable to stat: /var/www/cgi-bin/pfdispaly.cgi
+[Wed Aug 19 21:32:10.245244 2015] [cgi:error] [pid 31744] [client 46.29.255.217:3002] script not found or unable to stat: /var/www/cgi-bin/pfdisplay
+[Wed Aug 19 21:32:10.621888 2015] [cgi:error] [pid 31745] [client 46.29.255.217:4097] script not found or unable to stat: /var/www/cgi-bin/pfdisplay.cgi
+[Wed Aug 19 21:32:12.033033 2015] [cgi:error] [pid 31747] [client 46.29.255.217:2530] script not found or unable to stat: /var/www/cgi-bin/phf
+[Wed Aug 19 21:32:12.635918 2015] [cgi:error] [pid 31834] [client 46.29.255.217:3887] script not found or unable to stat: /var/www/cgi-bin/phf.cgi
+[Wed Aug 19 14:32:13.246285 2015] [cgi:error] [pid 18879] [client 46.29.255.217:4350] script not found or unable to stat: /var/www/cgi-bin/phf.pp
+[Wed Aug 19 14:32:13.562393 2015] [cgi:error] [pid 13251] [client 46.29.255.217:1423] script not found or unable to stat: /var/www/cgi-bin/photo_cfg.pl
+[Wed Aug 19 21:32:14.378020 2015] [cgi:error] [pid 31748] [client 46.29.255.217:1200] script not found or unable to stat: /var/www/cgi-bin/php
+[Wed Aug 19 21:32:14.692295 2015] [cgi:error] [pid 31744] [client 46.29.255.217:1911] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Wed Aug 19 21:32:15.257743 2015] [cgi:error] [pid 31745] [client 46.29.255.217:2991] script not found or unable to stat: /var/www/cgi-bin/phpscan
+[Wed Aug 19 14:32:15.656211 2015] [cgi:error] [pid 31746] [client 46.29.255.217:2116] script not found or unable to stat: /var/www/cgi-bin/plusmail
+[Wed Aug 19 21:32:16.008192 2015] [cgi:error] [pid 31747] [client 46.29.255.217:4550] script not found or unable to stat: /var/www/cgi-bin/postcard.pl
+[Wed Aug 19 21:32:16.598943 2015] [cgi:error] [pid 31834] [client 46.29.255.217:3494] script not found or unable to stat: /var/www/cgi-bin/post-query
+[Wed Aug 19 14:32:16.909767 2015] [cgi:error] [pid 18879] [client 46.29.255.217:2920] script not found or unable to stat: /var/www/cgi-bin/ppdscgi.exe
+[Wed Aug 19 14:32:17.445102 2015] [cgi:error] [pid 13251] [client 46.29.255.217:3555] script not found or unable to stat: /var/www/cgi-bin/printenv
+[Wed Aug 19 21:32:17.497604 2015] [cgi:error] [pid 31748] [client 46.29.255.217:2462] script not found or unable to stat: /var/www/cgi-bin/process_bug.cgi
+[Wed Aug 19 21:32:17.864525 2015] [cgi:error] [pid 31744] [client 46.29.255.217:4225] script not found or unable to stat: /var/www/cgi-bin/query
+[Wed Aug 19 21:32:18.509342 2015] [cgi:error] [pid 31745] [client 46.29.255.217:4859] script not found or unable to stat: /var/www/cgi-bin/redirect
+[Wed Aug 19 14:32:19.104762 2015] [cgi:error] [pid 31746] [client 46.29.255.217:4812] script not found or unable to stat: /var/www/cgi-bin/responder
+[Wed Aug 19 21:32:19.685336 2015] [cgi:error] [pid 31747] [client 46.29.255.217:3604] script not found or unable to stat: /var/www/cgi-bin/responder.cgi
+[Wed Aug 19 14:32:20.659548 2015] [cgi:error] [pid 18879] [client 46.29.255.217:1442] script not found or unable to stat: /var/www/cgi-bin/rguest.exe
+[Wed Aug 19 14:32:22.463459 2015] [cgi:error] [pid 13251] [client 46.29.255.217:3635] script not found or unable to stat: /var/www/cgi-bin/rksh
+[Wed Aug 19 21:32:23.325457 2015] [cgi:error] [pid 31748] [client 46.29.255.217:2541] script not found or unable to stat: /var/www/cgi-bin/rpm_query
+[Wed Aug 19 21:32:24.207881 2015] [cgi:error] [pid 31744] [client 46.29.255.217:3458] script not found or unable to stat: /var/www/cgi-bin/rsh
+[Wed Aug 19 21:32:24.621518 2015] [cgi:error] [pid 31745] [client 46.29.255.217:3299] script not found or unable to stat: /var/www/cgi-bin/rwwwshell.pl
+[Wed Aug 19 14:32:25.165870 2015] [cgi:error] [pid 31746] [client 46.29.255.217:4856] script not found or unable to stat: /var/www/cgi-bin/sam._
+[Wed Aug 19 21:32:25.750705 2015] [cgi:error] [pid 31747] [client 46.29.255.217:4539] script not found or unable to stat: /var/www/cgi-bin/sawmill5
+[Wed Aug 19 21:32:26.293648 2015] [cgi:error] [pid 31834] [client 46.29.255.217:3177] script not found or unable to stat: /var/www/cgi-bin/scripts
+[Wed Aug 19 14:32:27.421177 2015] [cgi:error] [pid 13251] [client 46.29.255.217:3674] script not found or unable to stat: /var/www/cgi-bin/search.cgi
+[Wed Aug 19 21:32:28.567612 2015] [cgi:error] [pid 31748] [client 46.29.255.217:2860] script not found or unable to stat: /var/www/cgi-bin/search97.vts
+[Wed Aug 19 21:32:28.883842 2015] [cgi:error] [pid 31744] [client 46.29.255.217:1088] script not found or unable to stat: /var/www/cgi-bin/sendform.cgi
+[Wed Aug 19 21:32:29.564335 2015] [cgi:error] [pid 31745] [client 46.29.255.217:3313] script not found or unable to stat: /var/www/cgi-bin/settings.cfg
+[Wed Aug 19 21:32:30.623218 2015] [cgi:error] [pid 31747] [client 46.29.255.217:2238] script not found or unable to stat: /var/www/cgi-bin/sh
+[Wed Aug 19 21:32:30.861162 2015] [cgi:error] [pid 31834] [client 46.29.255.217:3934] script not found or unable to stat: /var/www/cgi-bin/shop.cgi
+[Wed Aug 19 14:32:31.677801 2015] [cgi:error] [pid 13251] [client 46.29.255.217:2698] script not found or unable to stat: /var/www/cgi-bin/snorkerz.bat
+[Wed Aug 19 21:32:32.283271 2015] [cgi:error] [pid 31748] [client 46.29.255.217:1949] script not found or unable to stat: /var/www/cgi-bin/snorkerz.cmd
+[Wed Aug 19 21:32:32.962873 2015] [cgi:error] [pid 31744] [client 46.29.255.217:1762] script not found or unable to stat: /var/www/cgi-bin/sojourn
+[Wed Aug 19 14:32:34.019115 2015] [cgi:error] [pid 31746] [client 46.29.255.217:3924] script not found or unable to stat: /var/www/cgi-bin/status.cgi
+[Wed Aug 19 21:32:34.458233 2015] [cgi:error] [pid 31747] [client 46.29.255.217:3971] script not found or unable to stat: /var/www/cgi-bin/survey
+[Wed Aug 19 21:32:35.062434 2015] [cgi:error] [pid 31834] [client 46.29.255.217:3904] script not found or unable to stat: /var/www/cgi-bin/survey.cgi
+[Wed Aug 19 14:32:35.927612 2015] [cgi:error] [pid 13251] [client 46.29.255.217:2247] script not found or unable to stat: /var/www/cgi-bin/tcsh
+[Wed Aug 19 21:32:36.270024 2015] [cgi:error] [pid 31748] [client 46.29.255.217:4437] script not found or unable to stat: /var/www/cgi-bin/test.bat
+[Wed Aug 19 14:32:37.459091 2015] [cgi:error] [pid 31746] [client 46.29.255.217:3292] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Wed Aug 19 21:32:38.102248 2015] [cgi:error] [pid 31747] [client 46.29.255.217:1982] script not found or unable to stat: /var/www/cgi-bin/test-cgi.tcl
+[Wed Aug 19 14:32:39.437464 2015] [cgi:error] [pid 18879] [client 46.29.255.217:2741] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Wed Aug 19 14:32:39.738462 2015] [cgi:error] [pid 13251] [client 46.29.255.217:3192] script not found or unable to stat: /var/www/cgi-bin/test-env
+[Wed Aug 19 21:32:40.078817 2015] [cgi:error] [pid 31748] [client 46.29.255.217:4138] script not found or unable to stat: /var/www/cgi-bin/textcounter.pl
+[Wed Aug 19 21:32:40.620715 2015] [cgi:error] [pid 31744] [client 46.29.255.217:4410] script not found or unable to stat: /var/www/cgi-bin/tpgnrock
+[Wed Aug 19 21:32:40.952689 2015] [cgi:error] [pid 31745] [client 46.29.255.217:2979] script not found or unable to stat: /var/www/cgi-bin/tst.bat
+[Wed Aug 19 14:32:41.348361 2015] [cgi:error] [pid 31746] [client 46.29.255.217:3451] script not found or unable to stat: /var/www/cgi-bin/tst.bat\\dir
+[Wed Aug 19 21:32:41.879208 2015] [cgi:error] [pid 31747] [client 46.29.255.217:4649] script not found or unable to stat: /var/www/cgi-bin/UltraBoard.cgi
+[Wed Aug 19 21:32:42.470196 2015] [cgi:error] [pid 31834] [client 46.29.255.217:4619] script not found or unable to stat: /var/www/cgi-bin/UltraBoard.pl
+[Wed Aug 19 14:32:42.825354 2015] [cgi:error] [pid 18879] [client 46.29.255.217:1858] script not found or unable to stat: /var/www/cgi-bin/unlg1.1
+[Wed Aug 19 14:32:43.442411 2015] [cgi:error] [pid 13251] [client 46.29.255.217:2808] script not found or unable to stat: /var/www/cgi-bin/unlg1.2
+[Wed Aug 19 21:32:43.755922 2015] [cgi:error] [pid 31748] [client 46.29.255.217:2488] script not found or unable to stat: /var/www/cgi-bin/upload.pl
+[Wed Aug 19 21:32:44.069206 2015] [cgi:error] [pid 31744] [client 46.29.255.217:2489] script not found or unable to stat: /var/www/cgi-bin/uptime
+[Wed Aug 19 21:32:44.402373 2015] [cgi:error] [pid 31745] [client 46.29.255.217:4525] script not found or unable to stat: /var/www/cgi-bin/user.dat
+[Wed Aug 19 14:32:44.944281 2015] [cgi:error] [pid 31746] [client 46.29.255.217:4779] script not found or unable to stat: /var/www/cgi-bin/user.log
+[Wed Aug 19 21:32:45.491296 2015] [cgi:error] [pid 31747] [client 46.29.255.217:2390] script not found or unable to stat: /var/www/cgi-bin/userfile.dat
+[Wed Aug 19 21:32:45.831847 2015] [cgi:error] [pid 31834] [client 46.29.255.217:4819] script not found or unable to stat: /var/www/cgi-bin/view-source
+[Wed Aug 19 14:32:46.741835 2015] [cgi:error] [pid 13251] [client 46.29.255.217:4499] script not found or unable to stat: /var/www/cgi-bin/visadmin.exe
+[Wed Aug 19 21:32:47.127707 2015] [cgi:error] [pid 31748] [client 46.29.255.217:3285] script not found or unable to stat: /var/www/cgi-bin/visadmin.exe
+[Wed Aug 19 21:32:48.159365 2015] [cgi:error] [pid 31744] [client 46.29.255.217:3200] script not found or unable to stat: /var/www/cgi-bin/visitor.exe
+[Wed Aug 19 21:32:49.130698 2015] [cgi:error] [pid 31745] [client 46.29.255.217:3091] script not found or unable to stat: /var/www/cgi-bin/w3-msql
+[Wed Aug 19 14:32:49.252955 2015] [cgi:error] [pid 31746] [client 46.29.255.217:3987] script not found or unable to stat: /var/www/cgi-bin/w3-msql
+[Wed Aug 19 21:32:49.778865 2015] [cgi:error] [pid 31747] [client 46.29.255.217:2501] script not found or unable to stat: /var/www/cgi-bin/w3-sql
+[Wed Aug 19 21:32:50.127087 2015] [cgi:error] [pid 31834] [client 46.29.255.217:3334] script not found or unable to stat: /var/www/cgi-bin/w3tvars.pm
+[Wed Aug 19 14:32:50.511479 2015] [cgi:error] [pid 18879] [client 46.29.255.217:4619] script not found or unable to stat: /var/www/cgi-bin/wais.pl
+[Wed Aug 19 14:32:50.871877 2015] [cgi:error] [pid 13251] [client 46.29.255.217:3083] script not found or unable to stat: /var/www/cgi-bin/webbbs.cgi
+[Wed Aug 19 21:32:51.647375 2015] [cgi:error] [pid 31748] [client 46.29.255.217:3248] script not found or unable to stat: /var/www/cgi-bin/webdist.cgi
+[Wed Aug 19 21:32:52.523358 2015] [cgi:error] [pid 31745] [client 46.29.255.217:3607] script not found or unable to stat: /var/www/cgi-bin/webgais
+[Wed Aug 19 14:32:52.864136 2015] [cgi:error] [pid 31746] [client 46.29.255.217:3723] script not found or unable to stat: /var/www/cgi-bin/webmap.cgi
+[Wed Aug 19 21:32:53.382385 2015] [cgi:error] [pid 31747] [client 46.29.255.217:3492] script not found or unable to stat: /var/www/cgi-bin/webplus
+[Wed Aug 19 21:32:53.736809 2015] [cgi:error] [pid 31834] [client 46.29.255.217:2980] script not found or unable to stat: /var/www/cgi-bin/websendmail
+[Wed Aug 19 14:32:54.228689 2015] [cgi:error] [pid 18879] [client 46.29.255.217:3085] script not found or unable to stat: /var/www/cgi-bin/webwho.pl
+[Wed Aug 19 21:32:54.808430 2015] [cgi:error] [pid 31748] [client 46.29.255.217:4661] script not found or unable to stat: /var/www/cgi-bin/wguest.exe
+[Wed Aug 19 21:32:55.091922 2015] [cgi:error] [pid 31744] [client 46.29.255.217:3704] script not found or unable to stat: /var/www/cgi-bin/whois_raw.cgi
+[Wed Aug 19 21:32:55.448724 2015] [cgi:error] [pid 31745] [client 46.29.255.217:3132] script not found or unable to stat: /var/www/cgi-bin/whois_raw.cgi
+[Wed Aug 19 21:32:56.411854 2015] [cgi:error] [pid 31747] [client 46.29.255.217:2160] script not found or unable to stat: /var/www/cgi-bin/windmail.exe
+[Wed Aug 19 14:32:57.575495 2015] [cgi:error] [pid 18879] [client 46.29.255.217:4720] script not found or unable to stat: /var/www/cgi-bin/wrap
+[Wed Aug 19 14:32:57.902437 2015] [cgi:error] [pid 13251] [client 46.29.255.217:3590] script not found or unable to stat: /var/www/cgi-bin/wrap.cgi
+[Wed Aug 19 21:32:58.211594 2015] [cgi:error] [pid 31748] [client 46.29.255.217:2570] script not found or unable to stat: /var/www/cgi-bin/wwwadmin.pl
+[Wed Aug 19 21:32:58.550780 2015] [cgi:error] [pid 31744] [client 46.29.255.217:3818] script not found or unable to stat: /var/www/cgi-bin/wwwboard.cgi
+[Wed Aug 19 21:32:58.850195 2015] [cgi:error] [pid 31745] [client 46.29.255.217:4149] script not found or unable to stat: /var/www/cgi-bin/wwwboard.pl
+[Wed Aug 19 14:32:59.150752 2015] [cgi:error] [pid 31746] [client 46.29.255.217:4479] script not found or unable to stat: /var/www/cgi-bin/www-sql
+[Wed Aug 19 21:32:59.456484 2015] [cgi:error] [pid 31747] [client 46.29.255.217:1612] script not found or unable to stat: /var/www/cgi-bin/zsh
+[Wed Aug 19 21:33:41.360854 2015] [cgi:error] [pid 31748] [client 46.29.255.217:3446] script not found or unable to stat: /var/www/cgi-bin/GWWEB.EXE
+[Thu Aug 20 04:22:53.104159 2015] [:error] [pid 13251] [client 104.128.144.131:49314] script '/srv/www/sfvue.com/public_html/redirect.php' not found or unable to stat
+[Fri Aug 21 23:29:52.970231 2015] [authz_core:error] [pid 13251] [client 104.206.96.58:39287] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sat Aug 22 06:29:53.089770 2015] [authz_core:error] [pid 31748] [client 104.206.96.58:39579] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sat Aug 22 18:52:16.367961 2015] [authz_core:error] [pid 18879] [client 195.154.102.211:60000] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sun Aug 23 02:01:41.050467 2015] [:error] [pid 31834] [client 192.187.110.98:39443] script '/srv/www/sfvue.com/public_html/testproxy.php' not found or unable to stat
+[Sun Aug 23 21:21:31.039774 2015] [:error] [pid 31746] [client 5.196.151.93:49302] script '/srv/www/sfvue.com/public_html/xmlrpc.php' not found or unable to stat
+[Mon Aug 24 21:39:35.584900 2015] [:error] [pid 24755] [client 89.248.171.253:53663] script '/srv/www/sfvue.com/public_html/xmlrpc.php' not found or unable to stat
+[Tue Aug 25 13:39:25.496826 2015] [authz_core:error] [pid 24966] [client 104.206.96.58:35226] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Tue Aug 25 06:39:25.599789 2015] [authz_core:error] [pid 24750] [client 104.206.96.58:35375] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Tue Aug 25 06:40:03.230946 2015] [authz_core:error] [pid 24751] [client 104.206.96.58:48354] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Tue Aug 25 13:40:03.331936 2015] [authz_core:error] [pid 24754] [client 104.206.96.58:48488] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Tue Aug 25 14:08:40.262828 2015] [:error] [pid 15141] [client 217.126.50.212:4140] script '/srv/www/sfvue.com/public_html/wp-login.php' not found or unable to stat, referer: SFVUE.COM
+[Tue Aug 25 16:45:30.827700 2015] [core:error] [pid 24750] [client 64.15.155.177:47160] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Tue Aug 25 16:45:31.925683 2015] [cgi:error] [pid 19219] [client 64.15.155.177:50243] script not found or unable to stat: /var/www/cgi-bin/report.cgi
+[Tue Aug 25 16:45:32.328556 2015] [cgi:error] [pid 19220] [client 64.15.155.177:50637] script not found or unable to stat: /var/www/cgi-bin/webmap.cgi
+[Tue Aug 25 16:45:32.830220 2015] [cgi:error] [pid 24750] [client 64.15.155.177:51969] script not found or unable to stat: /var/www/cgi-bin/whois.cgi
+[Tue Aug 25 16:45:33.403938 2015] [cgi:error] [pid 15141] [client 64.15.155.177:54369] script not found or unable to stat: /var/www/cgi-bin/register.cgi
+[Tue Aug 25 16:45:33.551541 2015] [cgi:error] [pid 19221] [client 64.15.155.177:54792] script not found or unable to stat: /var/www/cgi-bin/download.cgi
+[Tue Aug 25 16:45:33.698486 2015] [cgi:error] [pid 24751] [client 64.15.155.177:55197] script not found or unable to stat: /var/www/cgi-bin/shop.cgi
+[Tue Aug 25 23:45:33.994124 2015] [cgi:error] [pid 24752] [client 64.15.155.177:56011] script not found or unable to stat: /var/www/cgi-bin/profile.cgi
+[Tue Aug 25 16:45:34.141273 2015] [cgi:error] [pid 24755] [client 64.15.155.177:56447] script not found or unable to stat: /var/www/cgi-bin/about_us.cgi
+[Tue Aug 25 16:45:34.287768 2015] [cgi:error] [pid 19219] [client 64.15.155.177:56862] script not found or unable to stat: /var/www/cgi-bin/php.fcgi
+[Tue Aug 25 16:45:34.437848 2015] [cgi:error] [pid 19220] [client 64.15.155.177:57257] script not found or unable to stat: /var/www/cgi-bin/calendar.cgi
+[Tue Aug 25 16:45:34.585019 2015] [cgi:error] [pid 19222] [client 64.15.155.177:57617] script not found or unable to stat: /var/www/cgi-bin/download.cgi
+[Tue Aug 25 16:45:34.832795 2015] [cgi:error] [pid 24750] [client 64.15.155.177:58012] script not found or unable to stat: /var/www/cgi-bin/light_board.cgi
+[Tue Aug 25 23:45:35.041822 2015] [cgi:error] [pid 24966] [client 64.15.155.177:58870] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Tue Aug 25 16:45:35.346173 2015] [cgi:error] [pid 19223] [client 64.15.155.177:59313] script not found or unable to stat: /var/www/cgi-bin/search.cgi
+[Tue Aug 25 16:45:35.492323 2015] [cgi:error] [pid 15141] [client 64.15.155.177:60158] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Tue Aug 25 16:45:35.640359 2015] [cgi:error] [pid 19221] [client 64.15.155.177:60572] script not found or unable to stat: /var/www/cgi-bin/file_up.cgi
+[Tue Aug 25 16:45:35.786829 2015] [cgi:error] [pid 24751] [client 64.15.155.177:60982] script not found or unable to stat: /var/www/cgi-bin/concept.cgi
+[Tue Aug 25 23:45:35.934665 2015] [cgi:error] [pid 24754] [client 64.15.155.177:33152] script not found or unable to stat: /var/www/cgi-bin/query.cgi
+[Tue Aug 25 23:45:36.098636 2015] [cgi:error] [pid 24752] [client 64.15.155.177:33561] script not found or unable to stat: /var/www/cgi-bin/counter.cgi
+[Tue Aug 25 16:45:36.268723 2015] [cgi:error] [pid 24755] [client 64.15.155.177:34037] script not found or unable to stat: /var/www/cgi-bin/kontakt.cgi
+[Tue Aug 25 16:45:36.497893 2015] [cgi:error] [pid 19219] [client 64.15.155.177:34704] script not found or unable to stat: /var/www/cgi-bin/backup.cgi
+[Tue Aug 25 16:45:36.645491 2015] [cgi:error] [pid 19226] [client 64.15.155.177:35081] script not found or unable to stat: /var/www/cgi-bin/firewall.cgi
+[Tue Aug 25 16:45:36.793064 2015] [cgi:error] [pid 19220] [client 64.15.155.177:35477] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Tue Aug 25 16:45:36.939515 2015] [cgi:error] [pid 19222] [client 64.15.155.177:35870] script not found or unable to stat: /var/www/cgi-bin/index2.cgi
+[Tue Aug 25 16:45:37.086557 2015] [cgi:error] [pid 24750] [client 64.15.155.177:36223] script not found or unable to stat: /var/www/cgi-bin/reboot.cgi
+[Tue Aug 25 23:45:37.233946 2015] [cgi:error] [pid 24966] [client 64.15.155.177:36646] script not found or unable to stat: /var/www/cgi-bin/printenv
+[Tue Aug 25 16:45:37.380268 2015] [cgi:error] [pid 19223] [client 64.15.155.177:37033] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Tue Aug 25 16:45:37.526878 2015] [cgi:error] [pid 19227] [client 64.15.155.177:37424] script not found or unable to stat: /var/www/cgi-bin/formmail.cgi
+[Tue Aug 25 16:45:37.679544 2015] [cgi:error] [pid 15141] [client 64.15.155.177:37891] script not found or unable to stat: /var/www/cgi-bin/Count.cgi
+[Tue Aug 25 16:45:38.122966 2015] [cgi:error] [pid 19221] [client 64.15.155.177:39136] script not found or unable to stat: /var/www/cgi-bin/supply.cgi
+[Tue Aug 25 16:45:38.269874 2015] [cgi:error] [pid 24751] [client 64.15.155.177:39530] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Tue Aug 25 23:45:38.416693 2015] [cgi:error] [pid 24754] [client 64.15.155.177:39918] script not found or unable to stat: /var/www/cgi-bin/upload.cgi
+[Tue Aug 25 23:45:38.563371 2015] [cgi:error] [pid 24752] [client 64.15.155.177:40328] script not found or unable to stat: /var/www/cgi-bin/welcome.cgi
+[Tue Aug 25 16:45:38.711088 2015] [cgi:error] [pid 24755] [client 64.15.155.177:40702] script not found or unable to stat: /var/www/cgi-bin/status.cgi
+[Tue Aug 25 16:45:38.858320 2015] [cgi:error] [pid 19228] [client 64.15.155.177:41065] script not found or unable to stat: /var/www/cgi-bin/uptime.cgi
+[Tue Aug 25 16:45:39.006007 2015] [cgi:error] [pid 19219] [client 64.15.155.177:41459] script not found or unable to stat: /var/www/cgi-bin/test
+[Tue Aug 25 16:45:39.153152 2015] [cgi:error] [pid 19226] [client 64.15.155.177:41847] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Tue Aug 25 16:45:39.300174 2015] [cgi:error] [pid 19220] [client 64.15.155.177:42275] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Tue Aug 25 16:45:39.446404 2015] [cgi:error] [pid 19222] [client 64.15.155.177:42718] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Tue Aug 25 16:45:39.592897 2015] [cgi:error] [pid 24750] [client 64.15.155.177:43127] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Tue Aug 25 23:45:39.740826 2015] [cgi:error] [pid 24966] [client 64.15.155.177:43538] script not found or unable to stat: /var/www/cgi-bin/php
+[Tue Aug 25 16:45:39.887417 2015] [cgi:error] [pid 19229] [client 64.15.155.177:43941] script not found or unable to stat: /var/www/cgi-bin/php4
+[Tue Aug 25 16:45:40.034138 2015] [cgi:error] [pid 19223] [client 64.15.155.177:44336] script not found or unable to stat: /var/www/cgi-bin/php5
+[Tue Aug 25 16:45:40.181156 2015] [cgi:error] [pid 19227] [client 64.15.155.177:44753] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Thu Aug 27 08:38:57.444790 2015] [authz_core:error] [pid 15141] [client 93.174.95.81:38665] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Thu Aug 27 08:38:57.742508 2015] [authz_core:error] [pid 24751] [client 93.174.95.81:39963] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Thu Aug 27 16:31:29.341678 2015] [:error] [pid 19221] [client 37.59.232.247:50098] script '/srv/www/sfvue.com/public_html/xmlrpc.php' not found or unable to stat
+[Fri Aug 28 16:38:27.831159 2015] [:error] [pid 19227] [client 104.233.76.34:42846] script '/srv/www/sfvue.com/public_html/gw.php' not found or unable to stat
+[Sat Aug 29 17:16:22.276585 2015] [core:error] [pid 15141] [client 1.34.83.14:55354] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Aug 29 17:16:22.585329 2015] [cgi:error] [pid 24751] [client 1.34.83.14:55432] script not found or unable to stat: /var/www/cgi-bin/php
+[Sat Aug 29 17:16:23.255162 2015] [cgi:error] [pid 19222] [client 1.34.83.14:55575] script not found or unable to stat: /var/www/cgi-bin/bash
+[Sat Aug 29 17:16:23.544173 2015] [cgi:error] [pid 24966] [client 1.34.83.14:55636] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Sat Aug 29 17:16:23.861815 2015] [cgi:error] [pid 19221] [client 1.34.83.14:55694] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Sat Aug 29 17:16:25.175893 2015] [cgi:error] [pid 19227] [client 1.34.83.14:55755] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Sat Aug 29 17:16:25.508698 2015] [cgi:error] [pid 19230] [client 1.34.83.14:56049] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Sat Aug 29 17:16:25.809690 2015] [cgi:error] [pid 19223] [client 1.34.83.14:56138] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Sat Aug 29 17:16:29.113100 2015] [cgi:error] [pid 19226] [client 1.34.83.14:56873] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Sat Aug 29 17:16:29.432119 2015] [cgi:error] [pid 15141] [client 1.34.83.14:56942] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Sat Aug 29 17:16:29.731810 2015] [cgi:error] [pid 24751] [client 1.34.83.14:57009] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Sat Aug 29 17:16:33.041188 2015] [cgi:error] [pid 19231] [client 1.34.83.14:57728] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sat Aug 29 17:16:33.346510 2015] [cgi:error] [pid 19222] [client 1.34.83.14:57796] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sat Aug 29 17:16:36.627842 2015] [cgi:error] [pid 24966] [client 1.34.83.14:58508] script not found or unable to stat: /var/www/cgi-bin/recent.cgi
+[Sat Aug 29 17:16:42.919136 2015] [cgi:error] [pid 19221] [client 1.34.83.14:59846] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Sat Aug 29 17:16:44.229437 2015] [cgi:error] [pid 19227] [client 1.34.83.14:59900] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sat Aug 29 17:16:44.554001 2015] [cgi:error] [pid 19230] [client 1.34.83.14:60187] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Sat Aug 29 17:16:44.896020 2015] [cgi:error] [pid 19223] [client 1.34.83.14:60256] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Sat Aug 29 17:16:45.197184 2015] [cgi:error] [pid 19226] [client 1.34.83.14:60327] script not found or unable to stat: /var/www/cgi-bin/tools
+[Sat Aug 29 18:58:48.156527 2015] [core:error] [pid 19226] [client 211.78.86.80:41491] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Aug 29 18:58:48.472505 2015] [cgi:error] [pid 15141] [client 211.78.86.80:41610] script not found or unable to stat: /var/www/cgi-bin/php
+[Sat Aug 29 18:58:50.302904 2015] [cgi:error] [pid 19231] [client 211.78.86.80:41855] script not found or unable to stat: /var/www/cgi-bin/bash
+[Sat Aug 29 18:58:50.618114 2015] [cgi:error] [pid 24966] [client 211.78.86.80:42322] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Sat Aug 29 18:58:50.932350 2015] [cgi:error] [pid 19222] [client 211.78.86.80:42419] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Sat Aug 29 18:58:51.246596 2015] [cgi:error] [pid 19221] [client 211.78.86.80:42478] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Sat Aug 29 18:58:51.564091 2015] [cgi:error] [pid 19227] [client 211.78.86.80:42568] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Sat Aug 29 18:58:51.878764 2015] [cgi:error] [pid 19230] [client 211.78.86.80:42668] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Sat Aug 29 18:58:52.193025 2015] [cgi:error] [pid 19223] [client 211.78.86.80:42780] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Sat Aug 29 18:58:52.509042 2015] [cgi:error] [pid 19226] [client 211.78.86.80:42882] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Sat Aug 29 18:58:52.828396 2015] [cgi:error] [pid 15141] [client 211.78.86.80:42986] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Sat Aug 29 18:58:54.346144 2015] [cgi:error] [pid 24751] [client 211.78.86.80:43100] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Sat Aug 29 18:58:54.661097 2015] [cgi:error] [pid 19231] [client 211.78.86.80:43625] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Sat Aug 29 18:58:54.977623 2015] [cgi:error] [pid 24966] [client 211.78.86.80:43736] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sat Aug 29 11:58:55.293752 2015] [cgi:error] [pid 31567] [client 211.78.86.80:43827] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sat Aug 29 18:58:56.609023 2015] [cgi:error] [pid 19222] [client 211.78.86.80:43937] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sat Aug 29 18:58:56.925725 2015] [cgi:error] [pid 19221] [client 211.78.86.80:44334] script not found or unable to stat: /var/www/cgi-bin/recent.cgi
+[Sat Aug 29 18:58:57.837607 2015] [cgi:error] [pid 19227] [client 211.78.86.80:44628] script not found or unable to stat: /var/www/cgi-bin/sat-ir-web.pl
+[Sat Aug 29 18:58:58.467858 2015] [cgi:error] [pid 19223] [client 211.78.86.80:44829] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Sat Aug 29 18:58:58.783917 2015] [cgi:error] [pid 19226] [client 211.78.86.80:44941] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sat Aug 29 18:58:59.099732 2015] [cgi:error] [pid 15141] [client 211.78.86.80:45056] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Sat Aug 29 18:58:59.414774 2015] [cgi:error] [pid 24751] [client 211.78.86.80:45164] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Sat Aug 29 18:58:59.730725 2015] [cgi:error] [pid 19231] [client 211.78.86.80:45272] script not found or unable to stat: /var/www/cgi-bin/tools
+[Sat Aug 29 19:23:33.900362 2015] [core:error] [pid 19226] [client 218.4.111.78:38073] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Aug 29 19:23:34.290678 2015] [cgi:error] [pid 15141] [client 218.4.111.78:38263] script not found or unable to stat: /var/www/cgi-bin/php
+[Sat Aug 29 19:23:35.071323 2015] [cgi:error] [pid 19231] [client 218.4.111.78:38739] script not found or unable to stat: /var/www/cgi-bin/bash
+[Sat Aug 29 19:23:35.462063 2015] [cgi:error] [pid 24966] [client 218.4.111.78:38929] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Sat Aug 29 12:23:35.852274 2015] [cgi:error] [pid 31567] [client 218.4.111.78:39118] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Sat Aug 29 19:23:36.242565 2015] [cgi:error] [pid 19222] [client 218.4.111.78:39369] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Sat Aug 29 19:23:36.632983 2015] [cgi:error] [pid 19221] [client 218.4.111.78:39571] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Sat Aug 29 12:23:37.023156 2015] [cgi:error] [pid 31568] [client 218.4.111.78:39849] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Sat Aug 29 19:23:37.413336 2015] [cgi:error] [pid 19227] [client 218.4.111.78:40032] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Sat Aug 29 19:23:37.803804 2015] [cgi:error] [pid 19226] [client 218.4.111.78:40236] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Sat Aug 29 19:23:38.193986 2015] [cgi:error] [pid 15141] [client 218.4.111.78:40469] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Sat Aug 29 19:23:38.584164 2015] [cgi:error] [pid 24751] [client 218.4.111.78:40622] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Sat Aug 29 19:23:38.974458 2015] [cgi:error] [pid 19231] [client 218.4.111.78:40816] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Sat Aug 29 19:23:39.365012 2015] [cgi:error] [pid 24966] [client 218.4.111.78:40967] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sat Aug 29 12:23:39.755294 2015] [cgi:error] [pid 31567] [client 218.4.111.78:41146] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sat Aug 29 19:23:40.145790 2015] [cgi:error] [pid 19222] [client 218.4.111.78:41374] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sat Aug 29 19:23:40.536057 2015] [cgi:error] [pid 19221] [client 218.4.111.78:41596] script not found or unable to stat: /var/www/cgi-bin/recent.cgi
+[Sat Aug 29 12:23:40.926791 2015] [cgi:error] [pid 31568] [client 218.4.111.78:41858] script not found or unable to stat: /var/www/cgi-bin/sat-ir-web.pl
+[Sat Aug 29 19:23:41.706718 2015] [cgi:error] [pid 19226] [client 218.4.111.78:42259] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Sat Aug 29 19:23:42.097000 2015] [cgi:error] [pid 15141] [client 218.4.111.78:42517] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sat Aug 29 19:23:42.487680 2015] [cgi:error] [pid 24751] [client 218.4.111.78:42739] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Sat Aug 29 12:23:42.878314 2015] [cgi:error] [pid 31877] [client 218.4.111.78:43006] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Sat Aug 29 19:23:43.268616 2015] [cgi:error] [pid 19231] [client 218.4.111.78:43225] script not found or unable to stat: /var/www/cgi-bin/tools
+[Sun Aug 30 05:28:15.827253 2015] [core:error] [pid 19231] [client 213.178.196.250:50697] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Aug 30 05:28:16.183126 2015] [cgi:error] [pid 19221] [client 213.178.196.250:50850] script not found or unable to stat: /var/www/cgi-bin/php
+[Sun Aug 30 05:28:16.895033 2015] [cgi:error] [pid 24966] [client 213.178.196.250:51143] script not found or unable to stat: /var/www/cgi-bin/bash
+[Sat Aug 29 22:28:17.251278 2015] [cgi:error] [pid 31567] [client 213.178.196.250:51290] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Sun Aug 30 05:28:17.607329 2015] [cgi:error] [pid 15141] [client 213.178.196.250:51440] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Sun Aug 30 05:28:17.963725 2015] [cgi:error] [pid 19222] [client 213.178.196.250:51590] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Sun Aug 30 05:28:18.319803 2015] [cgi:error] [pid 24751] [client 213.178.196.250:51734] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Sat Aug 29 22:28:18.679021 2015] [cgi:error] [pid 31877] [client 213.178.196.250:51885] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Sun Aug 30 05:28:19.034300 2015] [cgi:error] [pid 19227] [client 213.178.196.250:52034] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Sat Aug 29 22:28:19.390354 2015] [cgi:error] [pid 4647] [client 213.178.196.250:52183] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Sun Aug 30 05:28:19.746124 2015] [cgi:error] [pid 19231] [client 213.178.196.250:52329] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Sun Aug 30 05:28:20.101967 2015] [cgi:error] [pid 19221] [client 213.178.196.250:52479] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Sun Aug 30 05:28:20.457791 2015] [cgi:error] [pid 31568] [client 213.178.196.250:52628] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Sun Aug 30 05:28:20.813397 2015] [cgi:error] [pid 24966] [client 213.178.196.250:52779] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sat Aug 29 22:28:21.169651 2015] [cgi:error] [pid 31567] [client 213.178.196.250:52928] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sun Aug 30 05:28:21.525702 2015] [cgi:error] [pid 15141] [client 213.178.196.250:53073] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sun Aug 30 05:28:21.881765 2015] [cgi:error] [pid 19222] [client 213.178.196.250:53220] script not found or unable to stat: /var/www/cgi-bin/recent.cgi
+[Sun Aug 30 05:28:22.237976 2015] [cgi:error] [pid 24751] [client 213.178.196.250:53367] script not found or unable to stat: /var/www/cgi-bin/sat-ir-web.pl
+[Sun Aug 30 05:28:22.951005 2015] [cgi:error] [pid 19227] [client 213.178.196.250:53660] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Sat Aug 29 22:28:23.311057 2015] [cgi:error] [pid 4647] [client 213.178.196.250:53815] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sun Aug 30 05:28:23.666879 2015] [cgi:error] [pid 19231] [client 213.178.196.250:53968] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Sun Aug 30 05:28:24.022482 2015] [cgi:error] [pid 19221] [client 213.178.196.250:54116] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Sun Aug 30 05:28:24.378641 2015] [cgi:error] [pid 31568] [client 213.178.196.250:54265] script not found or unable to stat: /var/www/cgi-bin/tools
+[Sun Aug 30 06:13:24.153275 2015] [core:error] [pid 19221] [client 37.128.62.128:54942] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Aug 30 06:13:24.643948 2015] [cgi:error] [pid 31568] [client 37.128.62.128:55111] script not found or unable to stat: /var/www/cgi-bin/php
+[Sat Aug 29 23:13:25.468986 2015] [cgi:error] [pid 31877] [client 37.128.62.128:55369] script not found or unable to stat: /var/www/cgi-bin/bash
+[Sun Aug 30 06:13:25.897106 2015] [cgi:error] [pid 15141] [client 37.128.62.128:55417] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Sat Aug 29 23:13:26.298379 2015] [cgi:error] [pid 31567] [client 37.128.62.128:55459] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Sun Aug 30 06:13:26.716812 2015] [cgi:error] [pid 19222] [client 37.128.62.128:55501] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Sun Aug 30 06:13:27.121650 2015] [cgi:error] [pid 24751] [client 37.128.62.128:55546] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Sat Aug 29 23:13:27.538320 2015] [cgi:error] [pid 4647] [client 37.128.62.128:55609] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Sun Aug 30 06:13:27.990216 2015] [cgi:error] [pid 19231] [client 37.128.62.128:55708] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Sun Aug 30 06:13:28.457994 2015] [cgi:error] [pid 19221] [client 37.128.62.128:55876] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Sun Aug 30 06:13:31.884368 2015] [cgi:error] [pid 31568] [client 37.128.62.128:56457] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Sun Aug 30 06:13:32.320910 2015] [cgi:error] [pid 24966] [client 37.128.62.128:56630] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Sat Aug 29 23:13:32.751519 2015] [cgi:error] [pid 31877] [client 37.128.62.128:56755] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sun Aug 30 06:13:36.227164 2015] [cgi:error] [pid 15141] [client 37.128.62.128:57249] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sun Aug 30 06:13:43.122023 2015] [cgi:error] [pid 19222] [client 37.128.62.128:58203] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Sun Aug 30 06:13:43.521191 2015] [cgi:error] [pid 24751] [client 37.128.62.128:58384] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sat Aug 29 23:13:46.972424 2015] [cgi:error] [pid 4647] [client 37.128.62.128:58833] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Sun Aug 30 06:13:47.396514 2015] [cgi:error] [pid 19231] [client 37.128.62.128:59016] script not found or unable to stat: /var/www/cgi-bin/tools
+[Sun Aug 30 07:31:15.834430 2015] [core:error] [pid 24966] [client 211.94.131.150:24455] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Aug 30 07:31:16.273705 2015] [cgi:error] [pid 15141] [client 211.94.131.150:24538] script not found or unable to stat: /var/www/cgi-bin/php
+[Sun Aug 30 07:31:17.070097 2015] [cgi:error] [pid 19222] [client 211.94.131.150:24725] script not found or unable to stat: /var/www/cgi-bin/bash
+[Sun Aug 30 07:31:17.429839 2015] [cgi:error] [pid 24751] [client 211.94.131.150:24810] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Sun Aug 30 00:31:17.866482 2015] [cgi:error] [pid 4647] [client 211.94.131.150:24897] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Sun Aug 30 07:31:18.394802 2015] [cgi:error] [pid 19231] [client 211.94.131.150:25019] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Sun Aug 30 07:31:18.834537 2015] [cgi:error] [pid 19221] [client 211.94.131.150:25144] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Sun Aug 30 07:31:19.269801 2015] [cgi:error] [pid 31568] [client 211.94.131.150:25215] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Sun Aug 30 00:31:19.709598 2015] [cgi:error] [pid 31877] [client 211.94.131.150:25333] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Sun Aug 30 07:31:20.074722 2015] [cgi:error] [pid 24966] [client 211.94.131.150:25410] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Sun Aug 30 07:31:20.503271 2015] [cgi:error] [pid 15141] [client 211.94.131.150:25487] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Sun Aug 30 00:31:22.019215 2015] [cgi:error] [pid 31567] [client 211.94.131.150:25590] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Sun Aug 30 07:31:22.514428 2015] [cgi:error] [pid 19222] [client 211.94.131.150:25908] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Sun Aug 30 07:31:23.011908 2015] [cgi:error] [pid 24751] [client 211.94.131.150:26008] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sun Aug 30 00:31:23.490725 2015] [cgi:error] [pid 4647] [client 211.94.131.150:26121] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sun Aug 30 07:31:23.895211 2015] [cgi:error] [pid 19231] [client 211.94.131.150:26229] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sun Aug 30 07:31:24.297912 2015] [cgi:error] [pid 19221] [client 211.94.131.150:26313] script not found or unable to stat: /var/www/cgi-bin/recent.cgi
+[Sun Aug 30 07:31:24.758109 2015] [cgi:error] [pid 31568] [client 211.94.131.150:26410] script not found or unable to stat: /var/www/cgi-bin/sat-ir-web.pl
+[Sun Aug 30 07:31:26.515708 2015] [cgi:error] [pid 24966] [client 211.94.131.150:26828] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Sun Aug 30 07:31:26.950386 2015] [cgi:error] [pid 15141] [client 211.94.131.150:26931] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sun Aug 30 00:31:27.303442 2015] [cgi:error] [pid 31567] [client 211.94.131.150:26996] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Sun Aug 30 07:31:27.656006 2015] [cgi:error] [pid 19222] [client 211.94.131.150:27078] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Sun Aug 30 07:31:28.090198 2015] [cgi:error] [pid 24751] [client 211.94.131.150:27144] script not found or unable to stat: /var/www/cgi-bin/tools
+[Sun Aug 30 04:20:47.369080 2015] [core:error] [pid 7212] [client 212.58.7.71:50921] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Aug 30 04:20:47.755884 2015] [cgi:error] [pid 7213] [client 212.58.7.71:51079] script not found or unable to stat: /var/www/cgi-bin/php
+[Sun Aug 30 04:20:48.534043 2015] [cgi:error] [pid 7367] [client 212.58.7.71:51373] script not found or unable to stat: /var/www/cgi-bin/bash
+[Sun Aug 30 04:20:48.925295 2015] [cgi:error] [pid 7210] [client 212.58.7.71:51534] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Sun Aug 30 04:20:49.313944 2015] [cgi:error] [pid 7211] [client 212.58.7.71:51687] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Sun Aug 30 04:20:49.701828 2015] [cgi:error] [pid 7408] [client 212.58.7.71:51843] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Sun Aug 30 04:20:50.089567 2015] [cgi:error] [pid 7409] [client 212.58.7.71:51991] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Sun Aug 30 04:20:50.475934 2015] [cgi:error] [pid 7212] [client 212.58.7.71:52152] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Sun Aug 30 04:20:50.863450 2015] [cgi:error] [pid 7213] [client 212.58.7.71:52301] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Sun Aug 30 04:20:51.250447 2015] [cgi:error] [pid 7214] [client 212.58.7.71:52459] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Sun Aug 30 04:20:51.637580 2015] [cgi:error] [pid 7410] [client 212.58.7.71:52603] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Sun Aug 30 04:20:52.023925 2015] [cgi:error] [pid 7367] [client 212.58.7.71:52756] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Sun Aug 30 04:20:52.410027 2015] [cgi:error] [pid 7210] [client 212.58.7.71:52906] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Sun Aug 30 04:20:52.797479 2015] [cgi:error] [pid 7411] [client 212.58.7.71:53061] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sun Aug 30 04:20:53.184120 2015] [cgi:error] [pid 7211] [client 212.58.7.71:53209] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sun Aug 30 04:20:53.571677 2015] [cgi:error] [pid 7408] [client 212.58.7.71:53366] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sun Aug 30 04:20:53.958469 2015] [cgi:error] [pid 7409] [client 212.58.7.71:53521] script not found or unable to stat: /var/www/cgi-bin/recent.cgi
+[Sun Aug 30 04:20:54.345142 2015] [cgi:error] [pid 7212] [client 212.58.7.71:53669] script not found or unable to stat: /var/www/cgi-bin/sat-ir-web.pl
+[Sun Aug 30 04:20:55.118078 2015] [cgi:error] [pid 7214] [client 212.58.7.71:53972] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Sun Aug 30 04:20:55.504726 2015] [cgi:error] [pid 7410] [client 212.58.7.71:54131] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sun Aug 30 04:20:55.891248 2015] [cgi:error] [pid 7367] [client 212.58.7.71:54277] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Sun Aug 30 04:20:56.295685 2015] [cgi:error] [pid 7210] [client 212.58.7.71:54432] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Sun Aug 30 04:20:56.682420 2015] [cgi:error] [pid 7411] [client 212.58.7.71:54592] script not found or unable to stat: /var/www/cgi-bin/tools
+[Sun Aug 30 06:20:26.116409 2015] [core:error] [pid 7213] [client 211.94.131.150:36566] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Aug 30 06:20:26.509883 2015] [cgi:error] [pid 7408] [client 211.94.131.150:36658] script not found or unable to stat: /var/www/cgi-bin/php
+[Sun Aug 30 06:20:27.632955 2015] [cgi:error] [pid 7210] [client 211.94.131.150:36945] script not found or unable to stat: /var/www/cgi-bin/bash
+[Sun Aug 30 06:20:28.029069 2015] [cgi:error] [pid 7412] [client 211.94.131.150:37030] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Sun Aug 30 06:20:28.424848 2015] [cgi:error] [pid 7411] [client 211.94.131.150:37148] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Sun Aug 30 06:20:28.819397 2015] [cgi:error] [pid 7211] [client 211.94.131.150:37241] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Sun Aug 30 06:20:29.247558 2015] [cgi:error] [pid 7409] [client 211.94.131.150:37346] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Sun Aug 30 06:20:29.675666 2015] [cgi:error] [pid 7212] [client 211.94.131.150:37459] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Sun Aug 30 06:20:30.114840 2015] [cgi:error] [pid 7214] [client 211.94.131.150:37575] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Sun Aug 30 06:20:30.509923 2015] [cgi:error] [pid 7213] [client 211.94.131.150:37696] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Sun Aug 30 06:20:31.508867 2015] [cgi:error] [pid 7408] [client 211.94.131.150:37951] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Sun Aug 30 06:20:31.861206 2015] [cgi:error] [pid 7367] [client 211.94.131.150:38042] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Sun Aug 30 06:20:32.256195 2015] [cgi:error] [pid 7210] [client 211.94.131.150:38132] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Sun Aug 30 06:20:33.389250 2015] [cgi:error] [pid 7412] [client 211.94.131.150:38442] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sun Aug 30 06:20:33.768681 2015] [cgi:error] [pid 7411] [client 211.94.131.150:38532] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sun Aug 30 06:20:34.178538 2015] [cgi:error] [pid 7211] [client 211.94.131.150:38653] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sun Aug 30 06:20:34.613310 2015] [cgi:error] [pid 7409] [client 211.94.131.150:38762] script not found or unable to stat: /var/www/cgi-bin/recent.cgi
+[Sun Aug 30 06:20:35.721283 2015] [cgi:error] [pid 7212] [client 211.94.131.150:39050] script not found or unable to stat: /var/www/cgi-bin/sat-ir-web.pl
+[Sun Aug 30 06:20:36.526446 2015] [cgi:error] [pid 7213] [client 211.94.131.150:39254] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Sun Aug 30 06:20:36.959105 2015] [cgi:error] [pid 7408] [client 211.94.131.150:39364] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sun Aug 30 06:20:37.376593 2015] [cgi:error] [pid 7367] [client 211.94.131.150:39483] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Sun Aug 30 06:20:37.764501 2015] [cgi:error] [pid 7210] [client 211.94.131.150:39599] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Sun Aug 30 06:20:38.151347 2015] [cgi:error] [pid 7412] [client 211.94.131.150:39678] script not found or unable to stat: /var/www/cgi-bin/tools
+[Wed Sep 02 03:46:43.242055 2015] [authz_core:error] [pid 7211] [client 93.174.95.81:42977] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Tue Sep 01 20:46:43.539341 2015] [authz_core:error] [pid 7214] [client 93.174.95.81:44218] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Wed Sep 02 17:19:28.489854 2015] [cgi:error] [pid 7412] [client 69.64.46.86:65535] script not found or unable to stat: /var/www/cgi-bin/rtpd.cgi
+[Wed Sep 02 18:00:03.589186 2015] [authz_core:error] [pid 7212] [client 93.174.95.81:41918] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Wed Sep 02 11:00:03.884818 2015] [authz_core:error] [pid 7214] [client 93.174.95.81:42860] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sat Sep 05 23:24:56.971115 2015] [:error] [pid 7213] [client 37.59.232.247:58446] script '/srv/www/sfvue.com/public_html/xmlrpc.php' not found or unable to stat
+[Tue Sep 08 13:38:20.636786 2015] [authz_core:error] [pid 27709] [client 79.171.12.18:58534] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/
+[Tue Sep 08 13:38:22.318077 2015] [authz_core:error] [pid 27709] [client 79.171.12.18:58534] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/
+[Mon Sep 14 10:10:08.681702 2015] [:error] [pid 24202] [client 104.128.144.131:57815] script '/srv/www/sfvue.com/public_html/redirect.php' not found or unable to stat
+[Tue Sep 15 00:06:42.305117 2015] [authz_core:error] [pid 24196] [client 178.239.50.140:31818] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Thu Sep 17 14:24:24.443501 2015] [authz_core:error] [pid 27942] [client 178.239.50.140:33107] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Fri Sep 18 15:07:41.565306 2015] [cgi:error] [pid 24806] [client 93.174.93.33:49392] script not found or unable to stat: /var/www/cgi-bin/syssz_ping.htm
+[Fri Sep 18 23:33:25.557404 2015] [:error] [pid 24201] [client 178.239.50.139:31523] script '/srv/www/sfvue.com/public_html/moadmin.php' not found or unable to stat
+[Sat Sep 19 00:07:05.654047 2015] [:error] [pid 24202] [client 209.236.72.14:40172] script '/srv/www/sfvue.com/public_html/xmlrpc.php' not found or unable to stat
+[Sat Sep 19 00:07:08.730383 2015] [:error] [pid 24195] [client 62.149.145.61:45759] script '/srv/www/sfvue.com/public_html/xmlrpc.php' not found or unable to stat
+[Sat Sep 19 00:07:26.433080 2015] [:error] [pid 24201] [client 65.254.225.128:58678] script '/srv/www/sfvue.com/public_html/xmlrpc.php' not found or unable to stat
+[Sat Sep 19 00:07:54.420257 2015] [:error] [pid 24199] [client 103.6.196.238:51388] script '/srv/www/sfvue.com/public_html/xmlrpc.php' not found or unable to stat
+[Sat Sep 19 02:38:57.334703 2015] [authz_core:error] [pid 24806] [client 178.239.50.132:60777] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Mon Sep 21 07:04:50.885148 2015] [authz_core:error] [pid 9347] [client 66.71.247.94:60000] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Mon Sep 21 23:13:21.201280 2015] [cgi:error] [pid 8827] [client 69.64.46.86:65535] script not found or unable to stat: /var/www/cgi-bin/rtpd.cgi
+[Sat Sep 26 13:46:27.109816 2015] [:error] [pid 9347] [client 188.209.49.174:60000] script '/srv/www/sfvue.com/public_html/moadmin.php' not found or unable to stat
+[Sat Sep 26 17:58:27.534341 2015] [cgi:error] [pid 9347] [client 87.117.204.95:35298] script not found or unable to stat: /var/www/cgi-bin/php
+[Sat Sep 26 17:58:27.670542 2015] [cgi:error] [pid 9347] [client 87.117.204.95:35298] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sat Sep 26 17:58:27.807555 2015] [cgi:error] [pid 9347] [client 87.117.204.95:35298] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Sat Sep 26 17:58:27.943702 2015] [cgi:error] [pid 9347] [client 87.117.204.95:35298] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Sat Sep 26 17:58:28.081354 2015] [cgi:error] [pid 9347] [client 87.117.204.95:35298] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sat Sep 26 18:48:43.598195 2015] [cgi:error] [pid 8829] [client 212.48.87.19:57106] script not found or unable to stat: /var/www/cgi-bin/php
+[Sat Sep 26 18:48:43.739885 2015] [cgi:error] [pid 8829] [client 212.48.87.19:57106] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sat Sep 26 18:48:43.881286 2015] [cgi:error] [pid 8829] [client 212.48.87.19:57106] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Sat Sep 26 18:48:44.023072 2015] [cgi:error] [pid 8829] [client 212.48.87.19:57106] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Sat Sep 26 18:48:44.164404 2015] [cgi:error] [pid 8829] [client 212.48.87.19:57106] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sat Sep 26 22:09:53.542163 2015] [cgi:error] [pid 8826] [client 192.157.201.202:46940] script not found or unable to stat: /var/www/cgi-bin/php
+[Sat Sep 26 22:09:53.571404 2015] [cgi:error] [pid 8826] [client 192.157.201.202:46940] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sat Sep 26 22:09:53.616113 2015] [cgi:error] [pid 8826] [client 192.157.201.202:46940] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Sat Sep 26 22:09:53.665440 2015] [cgi:error] [pid 8826] [client 192.157.201.202:46940] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Sat Sep 26 22:09:53.715979 2015] [cgi:error] [pid 8826] [client 192.157.201.202:46940] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sun Sep 27 06:58:07.174968 2015] [cgi:error] [pid 13696] [client 212.83.182.10:50843] script not found or unable to stat: /var/www/cgi-bin/php
+[Sun Sep 27 06:58:07.327841 2015] [cgi:error] [pid 13696] [client 212.83.182.10:50843] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sun Sep 27 06:58:07.477912 2015] [cgi:error] [pid 13696] [client 212.83.182.10:50843] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Sun Sep 27 06:58:07.629707 2015] [cgi:error] [pid 13696] [client 212.83.182.10:50843] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Sun Sep 27 06:58:07.782964 2015] [cgi:error] [pid 13696] [client 212.83.182.10:50843] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sun Sep 27 09:52:31.504711 2015] [:error] [pid 13696] [client 198.204.252.252:30878] script '/srv/www/sfvue.com/public_html/xmprpc.php' not found or unable to stat
+[Sun Sep 27 15:05:41.252227 2015] [:error] [pid 13697] [client 193.201.227.140:65068] script '/srv/www/sfvue.com/public_html/wp-login.php' not found or unable to stat
+[Mon Sep 28 20:27:34.938409 2015] [authz_core:error] [pid 13695] [client 93.174.95.81:60462] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Mon Sep 28 20:27:35.235973 2015] [authz_core:error] [pid 13696] [client 93.174.95.81:60695] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Tue Sep 29 21:08:17.241487 2015] [:error] [pid 13695] [client 159.8.85.173:38690] script '/srv/www/sfvue.com/public_html/xmlrpc.php' not found or unable to stat
+[Tue Sep 29 15:47:35.089402 2015] [:error] [pid 13699] [client 159.8.85.173:56308] script '/srv/www/sfvue.com/public_html/xmlrpc.php' not found or unable to stat
+[Wed Sep 30 01:15:26.670646 2015] [:error] [pid 13699] [client 169.50.3.171:49310] script '/srv/www/sfvue.com/public_html/xmlrpc.php' not found or unable to stat
+[Wed Sep 30 16:57:00.541121 2015] [:error] [pid 13697] [client 169.50.3.171:52213] script '/srv/www/sfvue.com/public_html/xmlrpc.php' not found or unable to stat
+[Sat Oct 03 15:02:46.347276 2015] [core:error] [pid 13696] [client 203.152.193.187:34924] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Oct 03 15:02:46.865869 2015] [cgi:error] [pid 13699] [client 203.152.193.187:35090] script not found or unable to stat: /var/www/cgi-bin/bash
+[Sat Oct 03 08:02:47.126221 2015] [cgi:error] [pid 7738] [client 203.152.193.187:35173] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Sat Oct 03 15:02:47.385979 2015] [cgi:error] [pid 13697] [client 203.152.193.187:35285] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Sat Oct 03 15:02:47.656996 2015] [cgi:error] [pid 13698] [client 203.152.193.187:35365] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Sat Oct 03 15:02:47.916085 2015] [cgi:error] [pid 13706] [client 203.152.193.187:35450] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Sat Oct 03 15:02:48.194014 2015] [cgi:error] [pid 17237] [client 203.152.193.187:35520] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Sat Oct 03 08:02:48.456710 2015] [cgi:error] [pid 24801] [client 203.152.193.187:35642] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Sat Oct 03 15:02:48.717880 2015] [cgi:error] [pid 13696] [client 203.152.193.187:35721] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Sat Oct 03 08:02:48.994800 2015] [cgi:error] [pid 24802] [client 203.152.193.187:35787] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Sat Oct 03 15:02:49.274484 2015] [cgi:error] [pid 13695] [client 203.152.193.187:35926] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Sat Oct 03 15:02:49.555062 2015] [cgi:error] [pid 13699] [client 203.152.193.187:36011] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Sat Oct 03 08:02:49.816504 2015] [cgi:error] [pid 7738] [client 203.152.193.187:36095] script not found or unable to stat: /var/www/cgi-bin/php
+[Sat Oct 03 15:02:50.075692 2015] [cgi:error] [pid 13697] [client 203.152.193.187:36179] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sat Oct 03 08:02:50.355123 2015] [cgi:error] [pid 24803] [client 203.152.193.187:36287] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sat Oct 03 15:02:50.645387 2015] [cgi:error] [pid 13698] [client 203.152.193.187:36376] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sat Oct 03 15:02:50.957108 2015] [cgi:error] [pid 13706] [client 203.152.193.187:36461] script not found or unable to stat: /var/www/cgi-bin/recent.cgi
+[Sat Oct 03 15:02:51.247256 2015] [cgi:error] [pid 17237] [client 203.152.193.187:36591] script not found or unable to stat: /var/www/cgi-bin/sat-ir-web.pl
+[Sat Oct 03 08:02:51.785694 2015] [cgi:error] [pid 24801] [client 203.152.193.187:36753] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Sat Oct 03 15:02:52.057096 2015] [cgi:error] [pid 13696] [client 203.152.193.187:36837] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sat Oct 03 08:02:52.335944 2015] [cgi:error] [pid 24802] [client 203.152.193.187:36972] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Sat Oct 03 15:02:52.625596 2015] [cgi:error] [pid 13695] [client 203.152.193.187:37043] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Sat Oct 03 15:02:52.896884 2015] [cgi:error] [pid 13699] [client 203.152.193.187:37133] script not found or unable to stat: /var/www/cgi-bin/tools
+[Sat Oct 03 23:27:04.675325 2015] [core:error] [pid 7738] [client 2.115.68.148:40182] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Oct 04 06:27:05.480478 2015] [cgi:error] [pid 13706] [client 2.115.68.148:40440] script not found or unable to stat: /var/www/cgi-bin/bash
+[Sun Oct 04 06:27:05.895073 2015] [cgi:error] [pid 13696] [client 2.115.68.148:40543] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Sun Oct 04 06:27:06.313550 2015] [cgi:error] [pid 13695] [client 2.115.68.148:40641] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Sat Oct 03 23:27:06.718513 2015] [cgi:error] [pid 24802] [client 2.115.68.148:40789] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Sun Oct 04 06:27:07.124083 2015] [cgi:error] [pid 13699] [client 2.115.68.148:40907] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Sun Oct 04 06:27:07.569164 2015] [cgi:error] [pid 13697] [client 2.115.68.148:41054] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Sun Oct 04 06:27:08.005805 2015] [cgi:error] [pid 13698] [client 2.115.68.148:41163] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Sat Oct 03 23:27:08.432431 2015] [cgi:error] [pid 7738] [client 2.115.68.148:41319] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Sun Oct 04 06:27:08.857825 2015] [cgi:error] [pid 17237] [client 2.115.68.148:41443] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Sun Oct 04 06:27:09.296869 2015] [cgi:error] [pid 13706] [client 2.115.68.148:41561] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Sat Oct 03 23:27:09.692729 2015] [cgi:error] [pid 29073] [client 2.115.68.148:41730] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Sun Oct 04 06:27:10.090838 2015] [cgi:error] [pid 13696] [client 2.115.68.148:41857] script not found or unable to stat: /var/www/cgi-bin/php
+[Sun Oct 04 06:27:10.487180 2015] [cgi:error] [pid 13695] [client 2.115.68.148:42009] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sat Oct 03 23:27:10.885311 2015] [cgi:error] [pid 24802] [client 2.115.68.148:42120] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sun Oct 04 06:27:11.314520 2015] [cgi:error] [pid 13699] [client 2.115.68.148:42230] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sun Oct 04 06:27:11.728993 2015] [cgi:error] [pid 13697] [client 2.115.68.148:42380] script not found or unable to stat: /var/www/cgi-bin/recent.cgi
+[Sun Oct 04 06:27:12.143442 2015] [cgi:error] [pid 13698] [client 2.115.68.148:42484] script not found or unable to stat: /var/www/cgi-bin/sat-ir-web.pl
+[Sun Oct 04 06:27:12.964383 2015] [cgi:error] [pid 17237] [client 2.115.68.148:42750] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Sun Oct 04 06:27:13.401603 2015] [cgi:error] [pid 13706] [client 2.115.68.148:42859] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sat Oct 03 23:27:13.810245 2015] [cgi:error] [pid 29073] [client 2.115.68.148:43026] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Sun Oct 04 06:27:14.248014 2015] [cgi:error] [pid 13696] [client 2.115.68.148:43127] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Sun Oct 04 06:27:14.641088 2015] [cgi:error] [pid 13695] [client 2.115.68.148:43283] script not found or unable to stat: /var/www/cgi-bin/tools
+[Sun Oct 04 22:36:16.856957 2015] [cgi:error] [pid 13697] [client 62.210.157.90:40213] attempt to invoke directory as script: /var/www/cgi-bin/
+[Sun Oct 04 22:36:18.327390 2015] [cgi:error] [pid 13698] [client 62.210.157.90:41738] script not found or unable to stat: /var/www/cgi-bin/hello
+[Mon Oct 05 04:44:09.083489 2015] [core:error] [pid 7887] [client 187.61.1.122:44435] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Mon Oct 05 04:44:09.814789 2015] [cgi:error] [pid 7882] [client 187.61.1.122:44680] script not found or unable to stat: /var/www/cgi-bin/bash
+[Mon Oct 05 04:44:10.187282 2015] [cgi:error] [pid 7883] [client 187.61.1.122:44780] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Mon Oct 05 04:44:11.086559 2015] [cgi:error] [pid 7885] [client 187.61.1.122:44895] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Mon Oct 05 04:44:11.443903 2015] [cgi:error] [pid 7886] [client 187.61.1.122:45155] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Mon Oct 05 04:44:11.801581 2015] [cgi:error] [pid 8335] [client 187.61.1.122:45235] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Mon Oct 05 04:44:12.159133 2015] [cgi:error] [pid 7887] [client 187.61.1.122:45320] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Mon Oct 05 04:44:12.516258 2015] [cgi:error] [pid 8336] [client 187.61.1.122:45435] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Mon Oct 05 04:44:12.873330 2015] [cgi:error] [pid 8100] [client 187.61.1.122:45516] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Mon Oct 05 04:44:13.230876 2015] [cgi:error] [pid 7882] [client 187.61.1.122:45614] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Mon Oct 05 04:44:13.588098 2015] [cgi:error] [pid 7883] [client 187.61.1.122:45752] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Mon Oct 05 04:44:13.945217 2015] [cgi:error] [pid 8337] [client 187.61.1.122:45849] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Mon Oct 05 04:44:14.302869 2015] [cgi:error] [pid 7885] [client 187.61.1.122:45981] script not found or unable to stat: /var/www/cgi-bin/php
+[Mon Oct 05 04:44:14.660201 2015] [cgi:error] [pid 8340] [client 187.61.1.122:46074] script not found or unable to stat: /var/www/cgi-bin/php4
+[Mon Oct 05 04:44:15.017539 2015] [cgi:error] [pid 7886] [client 187.61.1.122:46162] script not found or unable to stat: /var/www/cgi-bin/php5
+[Mon Oct 05 04:44:15.375525 2015] [cgi:error] [pid 8335] [client 187.61.1.122:46313] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Mon Oct 05 04:44:15.733535 2015] [cgi:error] [pid 7887] [client 187.61.1.122:46418] script not found or unable to stat: /var/www/cgi-bin/recent.cgi
+[Mon Oct 05 04:44:16.090471 2015] [cgi:error] [pid 8336] [client 187.61.1.122:46513] script not found or unable to stat: /var/www/cgi-bin/sat-ir-web.pl
+[Mon Oct 05 04:44:17.344018 2015] [cgi:error] [pid 7882] [client 187.61.1.122:46768] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Mon Oct 05 04:44:17.700846 2015] [cgi:error] [pid 7883] [client 187.61.1.122:47075] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Mon Oct 05 04:44:18.057989 2015] [cgi:error] [pid 8337] [client 187.61.1.122:47169] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Mon Oct 05 04:44:18.416527 2015] [cgi:error] [pid 8341] [client 187.61.1.122:47307] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Mon Oct 05 04:44:18.773461 2015] [cgi:error] [pid 7885] [client 187.61.1.122:47396] script not found or unable to stat: /var/www/cgi-bin/tools
+[Wed Oct 07 11:12:10.168792 2015] [:error] [pid 8337] [client 104.210.15.134:1168] script '/srv/www/sfvue.com/public_html/xmlrpc.php' not found or unable to stat
+[Thu Oct 08 19:10:25.441842 2015] [cgi:error] [pid 8335] [client 115.70.44.9:44685] script not found or unable to stat: /var/www/cgi-bin/php
+[Thu Oct 08 19:10:25.916780 2015] [cgi:error] [pid 7886] [client 115.70.44.9:44686] script not found or unable to stat: /var/www/cgi-bin/php5
+[Thu Oct 08 19:10:26.391243 2015] [cgi:error] [pid 8340] [client 115.70.44.9:44687] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Thu Oct 08 12:10:26.865365 2015] [cgi:error] [pid 8100] [client 115.70.44.9:44688] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Thu Oct 08 12:10:27.339551 2015] [cgi:error] [pid 8336] [client 115.70.44.9:44689] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sun Oct 11 17:15:45.786705 2015] [cgi:error] [pid 16655] [client 50.56.34.60:45503] script not found or unable to stat: /var/www/cgi-bin/bash
+[Mon Oct 12 00:15:51.901243 2015] [cgi:error] [pid 16676] [client 50.56.34.60:46062] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Mon Oct 12 00:15:52.009688 2015] [cgi:error] [pid 16656] [client 50.56.34.60:46067] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Sun Oct 11 17:15:52.118269 2015] [cgi:error] [pid 16657] [client 50.56.34.60:46074] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Mon Oct 12 00:15:52.226774 2015] [cgi:error] [pid 16658] [client 50.56.34.60:46084] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Mon Oct 12 00:15:52.335163 2015] [cgi:error] [pid 16659] [client 50.56.34.60:46094] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Sun Oct 11 17:15:55.446843 2015] [cgi:error] [pid 16655] [client 50.56.34.60:46370] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Sun Oct 11 17:15:55.555245 2015] [cgi:error] [pid 17609] [client 50.56.34.60:46395] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Sun Oct 11 17:15:58.666953 2015] [cgi:error] [pid 17610] [client 50.56.34.60:46659] script not found or unable to stat: /var/www/cgi-bin/php4
+[Mon Oct 12 00:16:01.778663 2015] [cgi:error] [pid 16676] [client 50.56.34.60:46920] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sun Oct 11 17:16:08.001878 2015] [cgi:error] [pid 16657] [client 50.56.34.60:47478] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Mon Oct 12 00:16:08.110404 2015] [cgi:error] [pid 16658] [client 50.56.34.60:47500] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Mon Oct 12 00:16:08.218970 2015] [cgi:error] [pid 16659] [client 50.56.34.60:47521] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Sun Oct 11 17:16:08.327358 2015] [cgi:error] [pid 16655] [client 50.56.34.60:47541] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Sun Oct 11 17:16:08.435707 2015] [cgi:error] [pid 17609] [client 50.56.34.60:47568] script not found or unable to stat: /var/www/cgi-bin/tools
+[Mon Oct 12 15:39:16.386566 2015] [:error] [pid 17611] [client 85.10.44.254:50378] script '/srv/www/sfvue.com/public_html/wp-login.php' not found or unable to stat
+[Fri Oct 16 04:10:25.798946 2015] [:error] [pid 16658] [client 104.128.144.131:60861] script '/srv/www/sfvue.com/public_html/redirect.php' not found or unable to stat
+[Sat Oct 17 18:27:33.196419 2015] [authz_core:error] [pid 17609] [client 173.193.12.5:40153] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sat Oct 17 11:27:33.276029 2015] [authz_core:error] [pid 17611] [client 173.193.12.5:40304] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sun Oct 18 09:12:36.016240 2015] [core:error] [pid 17610] [client 187.61.1.122:36375] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Oct 18 09:12:36.730607 2015] [cgi:error] [pid 17611] [client 187.61.1.122:36582] script not found or unable to stat: /var/www/cgi-bin/bash
+[Sun Oct 18 16:12:37.087634 2015] [cgi:error] [pid 17612] [client 187.61.1.122:36660] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Sun Oct 18 16:12:37.444681 2015] [cgi:error] [pid 16657] [client 187.61.1.122:36791] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Sun Oct 18 16:12:37.801894 2015] [cgi:error] [pid 16659] [client 187.61.1.122:36873] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Sun Oct 18 16:12:38.159366 2015] [cgi:error] [pid 16658] [client 187.61.1.122:36955] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Sun Oct 18 16:12:38.516441 2015] [cgi:error] [pid 16656] [client 187.61.1.122:37065] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Sun Oct 18 16:12:38.873499 2015] [cgi:error] [pid 16676] [client 187.61.1.122:37139] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Sun Oct 18 16:12:39.230516 2015] [cgi:error] [pid 17609] [client 187.61.1.122:37252] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Sun Oct 18 09:12:39.587758 2015] [cgi:error] [pid 17610] [client 187.61.1.122:37341] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Sun Oct 18 16:12:39.945101 2015] [cgi:error] [pid 16655] [client 187.61.1.122:37417] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Sun Oct 18 09:12:40.302019 2015] [cgi:error] [pid 17611] [client 187.61.1.122:37542] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Sun Oct 18 16:12:40.669639 2015] [cgi:error] [pid 17612] [client 187.61.1.122:37629] script not found or unable to stat: /var/www/cgi-bin/php
+[Sun Oct 18 09:12:41.026568 2015] [cgi:error] [pid 15151] [client 187.61.1.122:37717] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sun Oct 18 16:12:41.383910 2015] [cgi:error] [pid 16659] [client 187.61.1.122:37837] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sun Oct 18 16:12:41.741746 2015] [cgi:error] [pid 16658] [client 187.61.1.122:37916] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sun Oct 18 16:12:42.098706 2015] [cgi:error] [pid 16656] [client 187.61.1.122:38004] script not found or unable to stat: /var/www/cgi-bin/recent.cgi
+[Sun Oct 18 16:12:42.456250 2015] [cgi:error] [pid 16676] [client 187.61.1.122:38125] script not found or unable to stat: /var/www/cgi-bin/sat-ir-web.pl
+[Sun Oct 18 16:12:43.172850 2015] [cgi:error] [pid 16657] [client 187.61.1.122:38293] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Sun Oct 18 09:12:43.529629 2015] [cgi:error] [pid 17610] [client 187.61.1.122:38418] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sun Oct 18 16:12:43.886443 2015] [cgi:error] [pid 16655] [client 187.61.1.122:38502] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Sun Oct 18 09:12:44.243866 2015] [cgi:error] [pid 17611] [client 187.61.1.122:38625] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Sun Oct 18 16:12:44.600874 2015] [cgi:error] [pid 17612] [client 187.61.1.122:38706] script not found or unable to stat: /var/www/cgi-bin/tools
+[Sun Oct 18 17:06:47.054289 2015] [authz_core:error] [pid 16658] [client 211.154.6.199:48886] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sun Oct 18 17:06:47.506540 2015] [authz_core:error] [pid 16656] [client 211.154.6.199:49101] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sun Oct 18 10:06:51.060617 2015] [authz_core:error] [pid 15151] [client 211.154.6.199:50882] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sun Oct 18 17:06:51.468135 2015] [authz_core:error] [pid 16658] [client 211.154.6.199:51099] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sun Oct 18 17:06:53.429392 2015] [authz_core:error] [pid 16676] [client 211.154.6.199:52054] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/
+[Sun Oct 18 10:06:53.840169 2015] [authz_core:error] [pid 17610] [client 211.154.6.199:52295] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/
+[Sun Oct 18 10:06:59.069243 2015] [authz_core:error] [pid 17611] [client 211.154.6.199:54829] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sun Oct 18 17:06:59.521711 2015] [authz_core:error] [pid 17612] [client 211.154.6.199:55045] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sun Oct 18 17:07:03.137720 2015] [authz_core:error] [pid 16655] [client 211.154.6.199:56819] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sun Oct 18 10:07:03.504039 2015] [authz_core:error] [pid 17611] [client 211.154.6.199:56986] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Mon Oct 19 11:46:09.483099 2015] [:error] [pid 19903] [client 185.25.151.159:53713] script '/srv/www/sfvue.com/public_html/testproxy.php' not found or unable to stat
+[Fri Oct 23 01:21:16.096259 2015] [:error] [pid 3051] [client 185.25.148.240:60903] script '/srv/www/sfvue.com/public_html/testproxy.php' not found or unable to stat
+[Sat Oct 24 07:19:56.411933 2015] [:error] [pid 3051] [client 62.210.88.201:45453] script '/srv/www/sfvue.com/public_html/httptest.php' not found or unable to stat
+[Sat Oct 24 15:09:24.934070 2015] [core:error] [pid 3051] [client 61.189.35.166:47024] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Oct 24 15:09:25.824915 2015] [cgi:error] [pid 3021] [client 61.189.35.166:47112] script not found or unable to stat: /var/www/cgi-bin/bash
+[Sat Oct 24 15:09:26.231020 2015] [cgi:error] [pid 3020] [client 61.189.35.166:47168] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Sat Oct 24 15:09:26.662878 2015] [cgi:error] [pid 3022] [client 61.189.35.166:47212] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Sat Oct 24 15:09:27.137220 2015] [cgi:error] [pid 3024] [client 61.189.35.166:47275] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Sat Oct 24 15:09:27.596699 2015] [cgi:error] [pid 12449] [client 61.189.35.166:47330] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Sat Oct 24 08:09:28.038163 2015] [cgi:error] [pid 30427] [client 61.189.35.166:47382] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Sat Oct 24 15:09:28.514746 2015] [cgi:error] [pid 3051] [client 61.189.35.166:47426] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Sat Oct 24 08:09:28.987578 2015] [cgi:error] [pid 30428] [client 61.189.35.166:47488] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Sat Oct 24 08:09:29.555328 2015] [cgi:error] [pid 30429] [client 61.189.35.166:47532] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Sat Oct 24 15:09:30.266138 2015] [cgi:error] [pid 3023] [client 61.189.35.166:47613] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Sat Oct 24 15:09:30.963139 2015] [cgi:error] [pid 3021] [client 61.189.35.166:47696] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Sat Oct 24 15:09:31.475542 2015] [cgi:error] [pid 3020] [client 61.189.35.166:47746] script not found or unable to stat: /var/www/cgi-bin/php
+[Sat Oct 24 15:09:31.976170 2015] [cgi:error] [pid 3022] [client 61.189.35.166:47807] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sat Oct 24 15:09:32.465171 2015] [cgi:error] [pid 3024] [client 61.189.35.166:47854] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sat Oct 24 15:09:32.945981 2015] [cgi:error] [pid 12449] [client 61.189.35.166:47915] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sat Oct 24 08:09:33.435234 2015] [cgi:error] [pid 30427] [client 61.189.35.166:47969] script not found or unable to stat: /var/www/cgi-bin/recent.cgi
+[Sat Oct 24 15:09:33.926633 2015] [cgi:error] [pid 3051] [client 61.189.35.166:48026] script not found or unable to stat: /var/www/cgi-bin/sat-ir-web.pl
+[Sat Oct 24 08:09:34.921988 2015] [cgi:error] [pid 30429] [client 61.189.35.166:48131] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Sat Oct 24 15:09:35.406754 2015] [cgi:error] [pid 3023] [client 61.189.35.166:48181] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sat Oct 24 15:09:35.907884 2015] [cgi:error] [pid 3021] [client 61.189.35.166:48241] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Sat Oct 24 15:09:36.428003 2015] [cgi:error] [pid 3020] [client 61.189.35.166:48282] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Sat Oct 24 15:09:36.946537 2015] [cgi:error] [pid 3022] [client 61.189.35.166:48334] script not found or unable to stat: /var/www/cgi-bin/tools
+[Sat Oct 24 09:48:11.816521 2015] [:error] [pid 30427] [client 95.213.177.125:30913] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sat Oct 24 17:04:48.609507 2015] [core:error] [pid 3023] [client 196.37.137.195:43025] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Oct 24 17:04:49.890972 2015] [cgi:error] [pid 3020] [client 196.37.137.195:44299] script not found or unable to stat: /var/www/cgi-bin/bash
+[Sat Oct 24 17:04:50.533303 2015] [cgi:error] [pid 3022] [client 196.37.137.195:44894] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Sat Oct 24 17:04:51.174276 2015] [cgi:error] [pid 3024] [client 196.37.137.195:45493] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Sat Oct 24 17:04:51.817183 2015] [cgi:error] [pid 12449] [client 196.37.137.195:46089] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Sat Oct 24 17:04:52.459373 2015] [cgi:error] [pid 3051] [client 196.37.137.195:46688] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Sat Oct 24 10:04:53.104037 2015] [cgi:error] [pid 30429] [client 196.37.137.195:47283] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Sat Oct 24 10:04:53.747085 2015] [cgi:error] [pid 30428] [client 196.37.137.195:47870] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Sat Oct 24 10:04:54.397396 2015] [cgi:error] [pid 30427] [client 196.37.137.195:48437] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Sat Oct 24 17:04:55.039287 2015] [cgi:error] [pid 3023] [client 196.37.137.195:49100] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Sat Oct 24 17:04:55.683712 2015] [cgi:error] [pid 3021] [client 196.37.137.195:49694] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Sat Oct 24 17:04:56.330871 2015] [cgi:error] [pid 3020] [client 196.37.137.195:50337] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Sat Oct 24 17:04:56.977875 2015] [cgi:error] [pid 3022] [client 196.37.137.195:50959] script not found or unable to stat: /var/www/cgi-bin/php
+[Sat Oct 24 17:04:57.618293 2015] [cgi:error] [pid 3024] [client 196.37.137.195:51547] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sat Oct 24 17:04:58.260398 2015] [cgi:error] [pid 12449] [client 196.37.137.195:52139] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sat Oct 24 17:04:58.904594 2015] [cgi:error] [pid 3051] [client 196.37.137.195:52737] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sat Oct 24 10:04:59.565781 2015] [cgi:error] [pid 30429] [client 196.37.137.195:53335] script not found or unable to stat: /var/www/cgi-bin/recent.cgi
+[Sat Oct 24 10:05:00.204509 2015] [cgi:error] [pid 30428] [client 196.37.137.195:53966] script not found or unable to stat: /var/www/cgi-bin/sat-ir-web.pl
+[Sat Oct 24 17:05:01.485652 2015] [cgi:error] [pid 3023] [client 196.37.137.195:55246] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Sat Oct 24 17:05:02.128698 2015] [cgi:error] [pid 3021] [client 196.37.137.195:55859] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sat Oct 24 17:05:02.773325 2015] [cgi:error] [pid 3020] [client 196.37.137.195:56414] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Sat Oct 24 17:05:03.415353 2015] [cgi:error] [pid 3022] [client 196.37.137.195:57023] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Sat Oct 24 17:05:04.059506 2015] [cgi:error] [pid 3024] [client 196.37.137.195:57646] script not found or unable to stat: /var/www/cgi-bin/tools
+[Sat Oct 24 20:11:40.192649 2015] [:error] [pid 3022] [client 95.213.177.126:50562] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sat Oct 24 16:29:46.181466 2015] [:error] [pid 30429] [client 95.213.177.122:48065] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sun Oct 25 02:51:17.331248 2015] [:error] [pid 3020] [client 95.213.177.125:32425] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sat Oct 24 23:12:53.858700 2015] [:error] [pid 30427] [client 95.213.177.124:52873] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sun Oct 25 01:22:22.530115 2015] [:error] [pid 30428] [client 185.25.151.159:47755] script '/srv/www/sfvue.com/public_html/testproxy.php' not found or unable to stat
+[Sun Oct 25 09:39:46.741256 2015] [:error] [pid 3023] [client 95.213.177.122:56764] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sun Oct 25 06:17:31.947926 2015] [:error] [pid 5682] [client 95.213.177.124:61045] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sun Oct 25 09:40:48.654758 2015] [:error] [pid 8128] [client 95.213.177.125:25598] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sun Oct 25 19:58:55.506155 2015] [:error] [pid 5683] [client 95.213.177.124:34470] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sun Oct 25 23:18:43.827459 2015] [:error] [pid 5681] [client 95.213.177.125:13269] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sun Oct 25 19:42:52.149083 2015] [:error] [pid 5680] [client 95.213.177.122:44097] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Mon Oct 26 06:06:41.324001 2015] [:error] [pid 5683] [client 95.213.177.122:54706] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Mon Oct 26 02:27:16.651965 2015] [:error] [pid 6022] [client 95.213.177.124:17485] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Mon Oct 26 05:50:33.496452 2015] [:error] [pid 8128] [client 95.213.177.126:60880] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Mon Oct 26 16:06:53.837337 2015] [:error] [pid 8128] [client 95.213.177.122:14395] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Mon Oct 26 19:47:57.586937 2015] [:error] [pid 5683] [client 95.213.177.123:28036] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Mon Oct 26 16:11:54.658347 2015] [:error] [pid 5679] [client 95.213.177.124:8261] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Tue Oct 27 02:35:36.087416 2015] [:error] [pid 5683] [client 95.213.177.126:30125] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Mon Oct 26 22:59:51.084624 2015] [:error] [pid 8127] [client 95.213.177.125:4330] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Tue Oct 27 09:23:06.552736 2015] [:error] [pid 5680] [client 95.213.177.124:7054] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Tue Oct 27 05:42:11.231047 2015] [:error] [pid 8127] [client 95.213.177.126:33103] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Tue Oct 27 16:07:41.766932 2015] [:error] [pid 5680] [client 95.213.177.125:12814] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Tue Oct 27 11:09:16.904072 2015] [cgi:error] [pid 5682] [client 119.235.65.221:52437] script not found or unable to stat: /var/www/cgi-bin/php
+[Tue Oct 27 18:09:17.293913 2015] [cgi:error] [pid 17450] [client 119.235.65.221:52438] script not found or unable to stat: /var/www/cgi-bin/php5
+[Tue Oct 27 18:09:17.685006 2015] [cgi:error] [pid 5683] [client 119.235.65.221:52439] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Tue Oct 27 18:09:18.074551 2015] [cgi:error] [pid 6022] [client 119.235.65.221:52440] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Tue Oct 27 18:09:18.465366 2015] [cgi:error] [pid 5681] [client 119.235.65.221:52441] script not found or unable to stat: /var/www/cgi-bin/php4
+[Tue Oct 27 19:26:10.724503 2015] [:error] [pid 17450] [client 95.213.177.126:29782] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Tue Oct 27 15:39:51.251403 2015] [:error] [pid 8127] [client 95.213.177.122:64635] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Wed Oct 28 02:01:27.233383 2015] [:error] [pid 5681] [client 95.213.177.126:6063] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Wed Oct 28 05:19:16.965499 2015] [:error] [pid 8128] [client 95.213.177.125:16829] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Wed Oct 28 09:39:45.949190 2015] [:error] [pid 5680] [client 95.213.177.123:59444] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Wed Oct 28 12:59:18.617877 2015] [:error] [pid 5680] [client 95.213.177.122:21609] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Wed Oct 28 16:12:29.805621 2015] [:error] [pid 5679] [client 95.213.177.122:45642] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Wed Oct 28 19:48:48.779484 2015] [:error] [pid 6022] [client 95.213.177.126:5770] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Wed Oct 28 22:43:17.478374 2015] [:error] [pid 5683] [client 185.25.148.240:56785] script '/srv/www/sfvue.com/public_html/testproxy.php' not found or unable to stat
+[Wed Oct 28 23:09:07.435091 2015] [:error] [pid 17450] [client 95.213.177.123:20455] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Wed Oct 28 19:30:47.801997 2015] [:error] [pid 5682] [client 95.213.177.123:34977] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Thu Oct 29 06:18:05.270629 2015] [:error] [pid 5681] [client 95.213.177.123:61716] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Thu Oct 29 14:41:34.258196 2015] [:error] [pid 5679] [client 95.213.177.126:61775] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Thu Oct 29 18:09:28.340958 2015] [:error] [pid 17450] [client 95.213.177.126:60641] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Thu Oct 29 21:26:09.934644 2015] [:error] [pid 17450] [client 95.213.177.125:1108] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Fri Oct 30 00:45:13.739310 2015] [:error] [pid 5679] [client 95.213.177.123:59261] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Fri Oct 30 11:26:15.191186 2015] [:error] [pid 5680] [client 95.213.177.124:54349] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Fri Oct 30 15:42:30.054542 2015] [:error] [pid 5683] [client 95.213.177.122:6911] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Fri Oct 30 19:48:55.291423 2015] [:error] [pid 5681] [client 95.213.177.123:19050] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Fri Oct 30 23:06:34.557389 2015] [:error] [pid 5683] [client 95.213.177.122:62591] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sat Oct 31 00:57:26.423318 2015] [core:error] [pid 8128] [client 87.238.163.96:59534] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Oct 31 00:57:27.005517 2015] [cgi:error] [pid 17450] [client 87.238.163.96:59615] script not found or unable to stat: /var/www/cgi-bin/bash
+[Sat Oct 31 00:57:27.300615 2015] [cgi:error] [pid 5681] [client 87.238.163.96:59660] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Sat Oct 31 00:57:27.590088 2015] [cgi:error] [pid 6022] [client 87.238.163.96:59700] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Sat Oct 31 00:57:27.883953 2015] [cgi:error] [pid 5682] [client 87.238.163.96:59743] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Sat Oct 31 00:57:28.176121 2015] [cgi:error] [pid 5679] [client 87.238.163.96:59787] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Sat Oct 31 00:57:28.465842 2015] [cgi:error] [pid 5680] [client 87.238.163.96:59848] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Sat Oct 31 00:57:28.759287 2015] [cgi:error] [pid 5683] [client 87.238.163.96:59889] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Fri Oct 30 17:57:29.052688 2015] [cgi:error] [pid 22665] [client 87.238.163.96:59929] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Sat Oct 31 00:57:29.344939 2015] [cgi:error] [pid 8128] [client 87.238.163.96:59986] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Sat Oct 31 00:57:29.634138 2015] [cgi:error] [pid 8127] [client 87.238.163.96:60085] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Fri Oct 30 17:57:29.923407 2015] [cgi:error] [pid 22668] [client 87.238.163.96:60176] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Sat Oct 31 00:57:30.212979 2015] [cgi:error] [pid 17450] [client 87.238.163.96:60219] script not found or unable to stat: /var/www/cgi-bin/php
+[Sat Oct 31 00:57:30.502007 2015] [cgi:error] [pid 5681] [client 87.238.163.96:60268] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sat Oct 31 00:57:30.794424 2015] [cgi:error] [pid 6022] [client 87.238.163.96:60299] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sat Oct 31 00:57:31.083194 2015] [cgi:error] [pid 5682] [client 87.238.163.96:60329] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Fri Oct 30 17:57:31.372117 2015] [cgi:error] [pid 22669] [client 87.238.163.96:60372] script not found or unable to stat: /var/www/cgi-bin/recent.cgi
+[Sat Oct 31 00:57:31.661136 2015] [cgi:error] [pid 5679] [client 87.238.163.96:60405] script not found or unable to stat: /var/www/cgi-bin/sat-ir-web.pl
+[Sat Oct 31 00:57:32.244073 2015] [cgi:error] [pid 5683] [client 87.238.163.96:60473] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Fri Oct 30 17:57:32.536979 2015] [cgi:error] [pid 22665] [client 87.238.163.96:60527] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sat Oct 31 00:57:32.850833 2015] [cgi:error] [pid 8128] [client 87.238.163.96:60579] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Sat Oct 31 00:57:33.141634 2015] [cgi:error] [pid 8127] [client 87.238.163.96:60629] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Fri Oct 30 17:57:33.437703 2015] [cgi:error] [pid 22668] [client 87.238.163.96:60681] script not found or unable to stat: /var/www/cgi-bin/tools
+[Sat Oct 31 02:15:34.019878 2015] [:error] [pid 5681] [client 95.213.177.122:31641] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sat Oct 31 05:48:49.396900 2015] [:error] [pid 8127] [client 95.213.177.124:34016] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sat Oct 31 09:05:32.406010 2015] [:error] [pid 5679] [client 95.213.177.125:17437] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sat Oct 31 12:18:36.400942 2015] [:error] [pid 5681] [client 95.213.177.123:31022] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sat Oct 31 08:31:02.485948 2015] [:error] [pid 22665] [client 95.213.177.126:33473] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sat Oct 31 19:06:46.905541 2015] [:error] [pid 17450] [client 95.213.177.126:41923] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sat Oct 31 15:24:37.348383 2015] [:error] [pid 22665] [client 95.213.177.126:18650] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sun Nov 01 01:40:32.985489 2015] [:error] [pid 5682] [client 95.213.177.125:10899] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sat Oct 31 23:03:41.612086 2015] [:error] [pid 22665] [client 95.213.177.126:8224] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sun Nov 01 08:46:19.016366 2015] [core:error] [pid 8128] [client 85.214.230.8:60331] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Nov 01 01:46:19.674596 2015] [cgi:error] [pid 22668] [client 85.214.230.8:60484] script not found or unable to stat: /var/www/cgi-bin/bash
+[Sun Nov 01 08:46:19.993511 2015] [cgi:error] [pid 5681] [client 85.214.230.8:60542] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Sun Nov 01 08:46:20.335947 2015] [cgi:error] [pid 17450] [client 85.214.230.8:60620] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Sun Nov 01 08:46:20.672299 2015] [cgi:error] [pid 6022] [client 85.214.230.8:60676] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Sun Nov 01 08:46:20.991422 2015] [cgi:error] [pid 22669] [client 85.214.230.8:60736] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Sun Nov 01 08:46:21.310726 2015] [cgi:error] [pid 5682] [client 85.214.230.8:60811] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Sun Nov 01 08:46:21.631384 2015] [cgi:error] [pid 5679] [client 85.214.230.8:60866] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Sun Nov 01 01:46:21.972998 2015] [cgi:error] [pid 22665] [client 85.214.230.8:60924] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Sun Nov 01 01:46:22.296358 2015] [cgi:error] [pid 15135] [client 85.214.230.8:60987] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Sun Nov 01 08:46:22.631748 2015] [cgi:error] [pid 8128] [client 85.214.230.8:32805] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Sun Nov 01 08:46:22.954953 2015] [cgi:error] [pid 8127] [client 85.214.230.8:32862] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Sun Nov 01 01:46:23.274661 2015] [cgi:error] [pid 22668] [client 85.214.230.8:32909] script not found or unable to stat: /var/www/cgi-bin/php
+[Sun Nov 01 08:46:23.596789 2015] [cgi:error] [pid 5681] [client 85.214.230.8:32961] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sun Nov 01 08:46:23.931768 2015] [cgi:error] [pid 17450] [client 85.214.230.8:32995] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sun Nov 01 08:46:24.253166 2015] [cgi:error] [pid 6022] [client 85.214.230.8:33049] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sun Nov 01 01:46:24.574711 2015] [cgi:error] [pid 15140] [client 85.214.230.8:33132] script not found or unable to stat: /var/www/cgi-bin/recent.cgi
+[Sun Nov 01 08:46:24.893554 2015] [cgi:error] [pid 22669] [client 85.214.230.8:33221] script not found or unable to stat: /var/www/cgi-bin/sat-ir-web.pl
+[Sun Nov 01 08:46:25.552863 2015] [cgi:error] [pid 5679] [client 85.214.230.8:33394] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Sun Nov 01 01:46:25.875879 2015] [cgi:error] [pid 22665] [client 85.214.230.8:33543] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sun Nov 01 01:46:26.199158 2015] [cgi:error] [pid 15135] [client 85.214.230.8:33634] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Sun Nov 01 08:46:26.533993 2015] [cgi:error] [pid 8128] [client 85.214.230.8:33749] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Sun Nov 01 08:46:26.871837 2015] [cgi:error] [pid 8127] [client 85.214.230.8:33851] script not found or unable to stat: /var/www/cgi-bin/tools
+[Sun Nov 01 01:10:24.607212 2015] [core:error] [pid 22665] [client 93.189.94.102:32903] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Nov 01 09:10:25.255445 2015] [cgi:error] [pid 8128] [client 93.189.94.102:33073] script not found or unable to stat: /var/www/cgi-bin/bash
+[Sun Nov 01 09:10:25.581960 2015] [cgi:error] [pid 8127] [client 93.189.94.102:33164] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Sun Nov 01 01:10:25.907531 2015] [cgi:error] [pid 22668] [client 93.189.94.102:33251] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Sun Nov 01 09:10:26.231810 2015] [cgi:error] [pid 17450] [client 93.189.94.102:33336] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Sun Nov 01 09:10:26.555623 2015] [cgi:error] [pid 5681] [client 93.189.94.102:33451] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Sun Nov 01 01:10:26.879363 2015] [cgi:error] [pid 15140] [client 93.189.94.102:33550] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Sun Nov 01 09:10:27.205074 2015] [cgi:error] [pid 6022] [client 93.189.94.102:33624] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Sun Nov 01 09:10:27.532590 2015] [cgi:error] [pid 22669] [client 93.189.94.102:33734] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Sun Nov 01 01:10:27.858088 2015] [cgi:error] [pid 16300] [client 93.189.94.102:33854] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Sun Nov 01 01:10:28.182337 2015] [cgi:error] [pid 22665] [client 93.189.94.102:33971] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Sun Nov 01 01:10:28.507363 2015] [cgi:error] [pid 15135] [client 93.189.94.102:34085] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Sun Nov 01 09:10:28.832426 2015] [cgi:error] [pid 8128] [client 93.189.94.102:34196] script not found or unable to stat: /var/www/cgi-bin/php
+[Sun Nov 01 09:10:29.156556 2015] [cgi:error] [pid 8127] [client 93.189.94.102:34299] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sun Nov 01 01:10:29.480109 2015] [cgi:error] [pid 22668] [client 93.189.94.102:34399] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sun Nov 01 09:10:29.806545 2015] [cgi:error] [pid 17450] [client 93.189.94.102:34542] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sun Nov 01 09:10:30.131840 2015] [cgi:error] [pid 5681] [client 93.189.94.102:34643] script not found or unable to stat: /var/www/cgi-bin/recent.cgi
+[Sun Nov 01 01:10:30.455765 2015] [cgi:error] [pid 15140] [client 93.189.94.102:34737] script not found or unable to stat: /var/www/cgi-bin/sat-ir-web.pl
+[Sun Nov 01 09:10:31.103759 2015] [cgi:error] [pid 22669] [client 93.189.94.102:34942] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Sun Nov 01 01:10:31.429773 2015] [cgi:error] [pid 16300] [client 93.189.94.102:35041] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sun Nov 01 01:10:31.755969 2015] [cgi:error] [pid 22665] [client 93.189.94.102:35154] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Sun Nov 01 01:10:32.080509 2015] [cgi:error] [pid 15135] [client 93.189.94.102:35260] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Sun Nov 01 09:10:32.404589 2015] [cgi:error] [pid 8128] [client 93.189.94.102:35361] script not found or unable to stat: /var/www/cgi-bin/tools
+[Sun Nov 01 09:28:36.269055 2015] [:error] [pid 17450] [client 95.213.177.125:10357] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sun Nov 01 09:45:21.757894 2015] [core:error] [pid 8127] [client 118.70.168.251:53903] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Nov 01 09:45:22.601233 2015] [cgi:error] [pid 5681] [client 118.70.168.251:54019] script not found or unable to stat: /var/www/cgi-bin/bash
+[Sun Nov 01 01:45:23.023528 2015] [cgi:error] [pid 16304] [client 118.70.168.251:54074] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Sun Nov 01 01:45:23.443871 2015] [cgi:error] [pid 15140] [client 118.70.168.251:54124] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Sun Nov 01 01:45:23.863057 2015] [cgi:error] [pid 16300] [client 118.70.168.251:54164] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Sun Nov 01 01:45:24.284239 2015] [cgi:error] [pid 22665] [client 118.70.168.251:54213] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Sun Nov 01 01:45:24.705228 2015] [cgi:error] [pid 15135] [client 118.70.168.251:54253] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Sun Nov 01 09:45:25.128680 2015] [cgi:error] [pid 8128] [client 118.70.168.251:54308] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Sun Nov 01 09:45:25.552041 2015] [cgi:error] [pid 17450] [client 118.70.168.251:54344] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Sun Nov 01 09:45:25.973209 2015] [cgi:error] [pid 8127] [client 118.70.168.251:54385] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Sun Nov 01 01:45:26.395745 2015] [cgi:error] [pid 22668] [client 118.70.168.251:54422] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Sun Nov 01 09:45:26.818994 2015] [cgi:error] [pid 5681] [client 118.70.168.251:54459] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Sun Nov 01 01:45:27.241811 2015] [cgi:error] [pid 16304] [client 118.70.168.251:54507] script not found or unable to stat: /var/www/cgi-bin/php
+[Sun Nov 01 01:45:27.662310 2015] [cgi:error] [pid 15140] [client 118.70.168.251:54548] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sun Nov 01 01:45:28.083151 2015] [cgi:error] [pid 16300] [client 118.70.168.251:54607] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sun Nov 01 01:45:28.503704 2015] [cgi:error] [pid 22665] [client 118.70.168.251:54639] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sun Nov 01 01:45:28.926318 2015] [cgi:error] [pid 15135] [client 118.70.168.251:54677] script not found or unable to stat: /var/www/cgi-bin/recent.cgi
+[Sun Nov 01 09:45:29.348188 2015] [cgi:error] [pid 8128] [client 118.70.168.251:54723] script not found or unable to stat: /var/www/cgi-bin/sat-ir-web.pl
+[Sun Nov 01 09:45:30.191446 2015] [cgi:error] [pid 8127] [client 118.70.168.251:54814] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Sun Nov 01 01:45:30.610961 2015] [cgi:error] [pid 22668] [client 118.70.168.251:54856] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sun Nov 01 09:45:31.033283 2015] [cgi:error] [pid 5681] [client 118.70.168.251:54903] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Sun Nov 01 01:45:31.452914 2015] [cgi:error] [pid 16304] [client 118.70.168.251:54941] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Sun Nov 01 01:45:31.872393 2015] [cgi:error] [pid 15140] [client 118.70.168.251:54973] script not found or unable to stat: /var/www/cgi-bin/tools
+[Sun Nov 01 02:22:50.713235 2015] [:error] [pid 15140] [client 185.25.151.159:35896] script '/srv/www/sfvue.com/public_html/testproxy.php' not found or unable to stat
+[Sun Nov 01 04:42:34.308413 2015] [:error] [pid 16304] [client 95.213.177.124:60548] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Sun Nov 01 15:57:36.316158 2015] [:error] [pid 8128] [client 95.213.177.122:11466] script '/srv/www/sfvue.com/public_html/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Mon Nov 02 07:29:22.539981 2015] [core:error] [pid 16304] [client 72.10.53.206:46755] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Nov 01 23:29:22.794755 2015] [cgi:error] [pid 16300] [client 72.10.53.206:47047] script not found or unable to stat: /var/www/cgi-bin/bash
+[Sun Nov 01 23:29:22.922088 2015] [cgi:error] [pid 22665] [client 72.10.53.206:47139] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Mon Nov 02 07:29:23.049433 2015] [cgi:error] [pid 8128] [client 72.10.53.206:47208] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Mon Nov 02 07:29:23.176765 2015] [cgi:error] [pid 8127] [client 72.10.53.206:47266] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Sun Nov 01 23:29:23.304122 2015] [cgi:error] [pid 15135] [client 72.10.53.206:47316] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Mon Nov 02 07:29:23.436830 2015] [cgi:error] [pid 17450] [client 72.10.53.206:47356] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Sun Nov 01 23:29:23.564224 2015] [cgi:error] [pid 22668] [client 72.10.53.206:47407] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Mon Nov 02 07:29:23.691621 2015] [cgi:error] [pid 5681] [client 72.10.53.206:47453] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Sun Nov 01 23:29:23.818927 2015] [cgi:error] [pid 29979] [client 72.10.53.206:47495] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Sun Nov 01 23:29:24.515497 2015] [cgi:error] [pid 29980] [client 72.10.53.206:47540] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Sun Nov 01 23:29:24.643688 2015] [cgi:error] [pid 29981] [client 72.10.53.206:47773] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Mon Nov 02 07:29:24.771982 2015] [cgi:error] [pid 16304] [client 72.10.53.206:47821] script not found or unable to stat: /var/www/cgi-bin/php
+[Sun Nov 01 23:29:24.899214 2015] [cgi:error] [pid 15140] [client 72.10.53.206:47863] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sun Nov 01 23:29:25.026618 2015] [cgi:error] [pid 16300] [client 72.10.53.206:47902] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sun Nov 01 23:29:25.154874 2015] [cgi:error] [pid 22665] [client 72.10.53.206:47937] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Mon Nov 02 07:29:25.282414 2015] [cgi:error] [pid 8128] [client 72.10.53.206:47978] script not found or unable to stat: /var/www/cgi-bin/recent.cgi
+[Mon Nov 02 07:29:25.409950 2015] [cgi:error] [pid 8127] [client 72.10.53.206:48019] script not found or unable to stat: /var/www/cgi-bin/sat-ir-web.pl
+[Mon Nov 02 07:29:25.664407 2015] [cgi:error] [pid 17450] [client 72.10.53.206:48117] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Sun Nov 01 23:29:25.791840 2015] [cgi:error] [pid 29982] [client 72.10.53.206:48161] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sun Nov 01 23:29:25.919414 2015] [cgi:error] [pid 29983] [client 72.10.53.206:48204] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Sun Nov 01 23:29:26.046888 2015] [cgi:error] [pid 29984] [client 72.10.53.206:48239] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Sun Nov 01 23:29:26.174477 2015] [cgi:error] [pid 29985] [client 72.10.53.206:48269] script not found or unable to stat: /var/www/cgi-bin/tools
+[Mon Nov 02 00:04:37.671296 2015] [core:error] [pid 29982] [client 181.54.245.2:37745] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Mon Nov 02 00:04:38.259208 2015] [cgi:error] [pid 29985] [client 181.54.245.2:37883] script not found or unable to stat: /var/www/cgi-bin/bash
+[Mon Nov 02 00:04:38.553261 2015] [cgi:error] [pid 22668] [client 181.54.245.2:37957] script not found or unable to stat: /var/www/cgi-bin/contact.cgi
+[Mon Nov 02 08:04:38.841938 2015] [cgi:error] [pid 5681] [client 181.54.245.2:38015] script not found or unable to stat: /var/www/cgi-bin/defaultwebpage.cgi
+[Mon Nov 02 00:04:39.131645 2015] [cgi:error] [pid 29979] [client 181.54.245.2:38077] script not found or unable to stat: /var/www/cgi-bin/env.cgi
+[Mon Nov 02 00:04:39.443305 2015] [cgi:error] [pid 29980] [client 181.54.245.2:38145] script not found or unable to stat: /var/www/cgi-bin/fire.cgi
+[Mon Nov 02 00:04:39.730955 2015] [cgi:error] [pid 29986] [client 181.54.245.2:38215] script not found or unable to stat: /var/www/cgi-bin/forum.cgi
+[Mon Nov 02 00:04:40.021342 2015] [cgi:error] [pid 29987] [client 181.54.245.2:38267] script not found or unable to stat: /var/www/cgi-bin/hello.cgi
+[Mon Nov 02 00:04:40.343148 2015] [cgi:error] [pid 29983] [client 181.54.245.2:38330] script not found or unable to stat: /var/www/cgi-bin/index.cgi
+[Mon Nov 02 00:04:40.641484 2015] [cgi:error] [pid 30080] [client 181.54.245.2:38378] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Mon Nov 02 00:04:40.932991 2015] [cgi:error] [pid 29982] [client 181.54.245.2:38430] script not found or unable to stat: /var/www/cgi-bin/main.cgi
+[Mon Nov 02 00:04:41.234215 2015] [cgi:error] [pid 29984] [client 181.54.245.2:38472] script not found or unable to stat: /var/www/cgi-bin/meme.cgi
+[Mon Nov 02 00:04:41.526467 2015] [cgi:error] [pid 29985] [client 181.54.245.2:38524] script not found or unable to stat: /var/www/cgi-bin/php
+[Mon Nov 02 00:04:41.820291 2015] [cgi:error] [pid 22668] [client 181.54.245.2:38561] script not found or unable to stat: /var/www/cgi-bin/php4
+[Mon Nov 02 08:04:42.107921 2015] [cgi:error] [pid 5681] [client 181.54.245.2:38605] script not found or unable to stat: /var/www/cgi-bin/php5
+[Mon Nov 02 00:04:42.395021 2015] [cgi:error] [pid 29979] [client 181.54.245.2:38644] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Mon Nov 02 00:04:42.686095 2015] [cgi:error] [pid 29980] [client 181.54.245.2:38685] script not found or unable to stat: /var/www/cgi-bin/recent.cgi
+[Mon Nov 02 00:04:42.975702 2015] [cgi:error] [pid 30081] [client 181.54.245.2:38715] script not found or unable to stat: /var/www/cgi-bin/sat-ir-web.pl
+[Mon Nov 02 00:04:43.573892 2015] [cgi:error] [pid 29987] [client 181.54.245.2:38795] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Mon Nov 02 00:04:43.863972 2015] [cgi:error] [pid 29983] [client 181.54.245.2:38828] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Mon Nov 02 00:04:44.155072 2015] [cgi:error] [pid 30080] [client 181.54.245.2:38860] script not found or unable to stat: /var/www/cgi-bin/test-cgi.pl
+[Mon Nov 02 00:04:44.452747 2015] [cgi:error] [pid 29982] [client 181.54.245.2:38906] script not found or unable to stat: /var/www/cgi-bin/test.sh
+[Mon Nov 02 00:04:44.741372 2015] [cgi:error] [pid 29984] [client 181.54.245.2:38939] script not found or unable to stat: /var/www/cgi-bin/tools
+[Mon Nov 02 12:28:13.256686 2015] [:error] [pid 31109] [client 85.158.145.120:21711] script '/srv/www/sfvue.com/public_html/wp-login.php' not found or unable to stat
+[Mon Nov 02 12:34:03.354656 2015] [:error] [pid 31110] [client 85.158.145.120:24257] script '/srv/www/sfvue.com/public_html/admin.php' not found or unable to stat
+[Tue Nov 03 15:51:31.562762 2015] [core:error] [pid 31109] [client 51.254.212.169:56527] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Wed Nov 04 11:03:06.480043 2015] [:error] [pid 12864] [client 37.59.232.247:57820] script '/srv/www/sfvue.com/public_html/xmlrpc.php' not found or unable to stat
+[Thu Nov 05 01:59:14.451608 2015] [:error] [pid 12857] [client 91.196.50.33:43654] script '/srv/www/sfvue.com/public_html/testproxy.php' not found or unable to stat
+[Thu Nov 05 13:42:47.867710 2015] [:error] [pid 12869] [client 62.210.88.201:56276] script '/srv/www/sfvue.com/public_html/httptest.php' not found or unable to stat
+[Thu Nov 05 17:38:35.835673 2015] [:error] [pid 12866] [client 62.210.88.201:48312] script '/srv/www/sfvue.com/public_html/httptest.php' not found or unable to stat
+[Thu Nov 05 18:53:08.600221 2015] [authz_core:error] [pid 12865] [client 221.11.92.253:23555] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Fri Nov 06 02:53:09.286572 2015] [authz_core:error] [pid 12857] [client 221.11.92.253:24032] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Fri Nov 06 15:06:50.322279 2015] [:error] [pid 12857] [client 62.210.88.201:51325] script '/srv/www/sfvue.com/public_html/httptest.php' not found or unable to stat
+[Sat Nov 07 17:50:57.365424 2015] [:error] [pid 12865] [client 71.42.137.132:62927] script '/srv/www/sfvue.com/public_html/wp-login.php' not found or unable to stat
+[Sat Nov 07 23:45:39.463534 2015] [:error] [pid 12860] [client 62.210.88.201:53229] script '/srv/www/sfvue.com/public_html/httptest.php' not found or unable to stat
+[Sun Nov 08 00:59:01.885788 2015] [:error] [pid 12868] [client 62.210.88.201:60978] script '/srv/www/sfvue.com/public_html/httptest.php' not found or unable to stat
+[Sun Nov 08 08:10:25.041068 2015] [:error] [pid 12869] [client 62.210.88.201:45864] script '/srv/www/sfvue.com/public_html/httptest.php' not found or unable to stat
+[Sun Nov 08 10:25:08.537527 2015] [authz_core:error] [pid 12860] [client 5.8.66.78:43029] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sun Nov 08 10:25:08.826336 2015] [authz_core:error] [pid 12856] [client 5.8.66.78:43179] AH01630: client denied by server configuration: /usr/share/phpMyAdmin/scripts
+[Sun Nov 08 04:58:33.967942 2015] [:error] [pid 17164] [client 185.25.151.159:53995] script '/srv/www/sfvue.com/public_html/testproxy.php' not found or unable to stat
